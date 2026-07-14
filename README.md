@@ -199,7 +199,7 @@ GitHub:
 https://github.com/Nensiparmar74
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/nensi-parmar-2a4095380/
 
 ---
 
