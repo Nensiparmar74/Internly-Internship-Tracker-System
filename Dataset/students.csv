@@ -1,0 +1,501 @@
+Student_ID,Name,College,Branch,CGPA,Graduation_Year
+S001,Vivaan Patel,VGEC,AI & DS,6.93,2025
+S002,Vivaan Desai,MBIT,Electrical,7.6,2025
+S003,Vivaan Shah,Nirma University,Electrical,8.29,2027
+S004,Krisha Desai,LDCE,IT,7.71,2026
+S005,Aarav Shah,VGEC,Mechanical,7.29,2025
+S006,Krisha Parmar,MBIT,Computer Engineering,7.44,2026
+S007,Riya Desai,DAIICT,Computer Engineering,8.77,2027
+S008,Vivaan Mehta,MBIT,Electrical,7.11,2027
+S009,Mira Parmar,PDEU,IT,8.68,2025
+S010,Krisha Parmar,MBIT,IT,9.29,2026
+S011,Nensi Mehta,VGEC,AI & DS,6.62,2026
+S012,Krisha Parmar,VGEC,Civil,8.46,2027
+S013,Aditya Desai,VGEC,IT,6.62,2026
+S014,Nensi Desai,Nirma University,Civil,7.23,2025
+S015,Krisha Patel,DAIICT,Mechanical,7.02,2025
+S016,Mira Parmar,Nirma University,Civil,7.9,2027
+S017,Dhruv Shah,DAIICT,IT,6.94,2027
+S018,Ishita Parmar,VGEC,Electrical,7.63,2027
+S019,Harsh Parmar,Nirma University,IT,7.94,2025
+S020,Aarav Patel,Nirma University,Civil,6.61,2027
+S021,Harsh Desai,MBIT,Mechanical,7.45,2026
+S022,Ishita Parmar,PDEU,Computer Engineering,8.59,2025
+S023,Ishita Parmar,VGEC,AI & DS,6.42,2026
+S024,Aditya Mehta,MBIT,Civil,9.33,2026
+S025,Ishita Shah,PDEU,Computer Engineering,9.31,2026
+S026,Ishita Desai,Nirma University,IT,7.42,2025
+S027,Ishita Desai,MBIT,Electrical,7.23,2025
+S028,Vivaan Parmar,DAIICT,IT,6.22,2027
+S029,Vivaan Patel,VGEC,Mechanical,9.1,2027
+S030,Aditya Shah,VGEC,Mechanical,9.6,2025
+S031,Nensi Desai,PDEU,Mechanical,9.66,2027
+S032,Krisha Parmar,LDCE,Civil,8.47,2026
+S033,Ishita Mehta,MBIT,IT,6.85,2026
+S034,Aarav Desai,PDEU,IT,8.24,2025
+S035,Vivaan Patel,Nirma University,Computer Engineering,9.44,2026
+S036,Vivaan Desai,Nirma University,AI & DS,8.54,2025
+S037,Ishita Shah,VGEC,Electrical,8.19,2025
+S038,Dhruv Mehta,Nirma University,Computer Engineering,6.37,2026
+S039,Riya Mehta,LDCE,Mechanical,9.28,2025
+S040,Vivaan Patel,LDCE,Civil,7.29,2025
+S041,Krisha Shah,Nirma University,Electrical,7.7,2026
+S042,Aditya Parmar,LDCE,IT,9.32,2025
+S043,Dhruv Desai,MBIT,Computer Engineering,8.48,2027
+S044,Aarav Patel,Nirma University,IT,7.54,2026
+S045,Krisha Mehta,MBIT,IT,7.44,2026
+S046,Nensi Mehta,DAIICT,Mechanical,8.65,2027
+S047,Ishita Mehta,Nirma University,IT,7.13,2025
+S048,Mira Desai,MBIT,Civil,7.19,2025
+S049,Mira Mehta,PDEU,Electrical,6.6,2027
+S050,Vivaan Shah,MBIT,Electrical,6.26,2025
+S051,Harsh Patel,PDEU,IT,8.2,2025
+S052,Mira Patel,LDCE,Civil,8.22,2027
+S053,Riya Parmar,Nirma University,Civil,8.72,2025
+S054,Nensi Mehta,Nirma University,Civil,8.45,2026
+S055,Riya Patel,MBIT,Mechanical,8.36,2027
+S056,Vivaan Patel,PDEU,IT,7.92,2025
+S057,Riya Patel,Nirma University,AI & DS,7.08,2026
+S058,Ishita Parmar,PDEU,Civil,8.01,2027
+S059,Ishita Parmar,VGEC,Computer Engineering,9.57,2025
+S060,Nensi Patel,MBIT,Civil,8.1,2026
+S061,Nensi Desai,Nirma University,Civil,7.3,2027
+S062,Nensi Desai,LDCE,AI & DS,9.44,2025
+S063,Vivaan Mehta,DAIICT,Computer Engineering,6.01,2025
+S064,Nensi Shah,VGEC,Mechanical,8.1,2026
+S065,Ishita Patel,MBIT,Computer Engineering,9.59,2027
+S066,Aditya Desai,MBIT,AI & DS,8.21,2025
+S067,Harsh Shah,MBIT,AI & DS,7.39,2025
+S068,Riya Shah,VGEC,IT,8.53,2026
+S069,Ishita Mehta,PDEU,Civil,6.59,2025
+S070,Aditya Shah,LDCE,Computer Engineering,6.68,2026
+S071,Harsh Shah,DAIICT,IT,8.99,2025
+S072,Harsh Patel,LDCE,IT,6.76,2026
+S073,Riya Parmar,Nirma University,IT,6.09,2025
+S074,Harsh Parmar,DAIICT,Computer Engineering,9.67,2026
+S075,Riya Desai,LDCE,Civil,9.73,2027
+S076,Riya Patel,MBIT,AI & DS,6.68,2026
+S077,Aarav Patel,PDEU,Mechanical,7.31,2026
+S078,Harsh Desai,PDEU,Computer Engineering,7.46,2027
+S079,Krisha Parmar,MBIT,Civil,7.66,2027
+S080,Ishita Shah,DAIICT,Mechanical,6.27,2027
+S081,Riya Desai,DAIICT,Civil,9.22,2027
+S082,Nensi Desai,DAIICT,Civil,7.55,2026
+S083,Nensi Desai,Nirma University,IT,7.6,2026
+S084,Aditya Desai,PDEU,AI & DS,7.54,2025
+S085,Nensi Parmar,Nirma University,Mechanical,8.99,2027
+S086,Riya Mehta,LDCE,Mechanical,8.57,2027
+S087,Dhruv Shah,VGEC,Computer Engineering,7.08,2027
+S088,Mira Parmar,MBIT,IT,8.56,2025
+S089,Krisha Shah,MBIT,Computer Engineering,6.93,2026
+S090,Mira Patel,LDCE,Mechanical,9.37,2027
+S091,Krisha Mehta,LDCE,Mechanical,6.93,2027
+S092,Aarav Patel,LDCE,IT,6.67,2027
+S093,Ishita Mehta,MBIT,Electrical,6.95,2025
+S094,Dhruv Shah,LDCE,Civil,8.02,2027
+S095,Mira Parmar,LDCE,Electrical,9.1,2027
+S096,Harsh Desai,LDCE,IT,8.83,2026
+S097,Dhruv Parmar,Nirma University,Civil,7.05,2027
+S098,Dhruv Shah,DAIICT,Mechanical,6.29,2026
+S099,Krisha Parmar,DAIICT,AI & DS,9.39,2025
+S100,Aditya Shah,Nirma University,Mechanical,8.64,2027
+S101,Krisha Patel,LDCE,Mechanical,7.26,2026
+S102,Harsh Patel,Nirma University,Mechanical,7.48,2027
+S103,Aarav Desai,LDCE,Mechanical,6.02,2026
+S104,Nensi Mehta,LDCE,Electrical,8.84,2027
+S105,Mira Shah,LDCE,IT,7.04,2026
+S106,Aarav Mehta,DAIICT,Civil,8.58,2026
+S107,Aditya Mehta,Nirma University,Electrical,8.03,2026
+S108,Mira Desai,VGEC,Computer Engineering,6.32,2026
+S109,Aditya Mehta,Nirma University,Computer Engineering,6.99,2026
+S110,Krisha Mehta,DAIICT,AI & DS,8.89,2026
+S111,Nensi Mehta,DAIICT,Computer Engineering,7.79,2027
+S112,Ishita Patel,DAIICT,IT,8.47,2027
+S113,Aarav Patel,Nirma University,IT,9.19,2027
+S114,Aditya Shah,Nirma University,Mechanical,8.54,2027
+S115,Krisha Mehta,VGEC,AI & DS,8.91,2025
+S116,Mira Desai,VGEC,Civil,6.44,2025
+S117,Nensi Patel,PDEU,Computer Engineering,9.53,2027
+S118,Harsh Mehta,VGEC,IT,6.29,2027
+S119,Krisha Patel,VGEC,AI & DS,9.23,2027
+S120,Vivaan Desai,MBIT,AI & DS,8.02,2027
+S121,Riya Patel,PDEU,Civil,7.3,2026
+S122,Dhruv Patel,LDCE,AI & DS,8.42,2026
+S123,Aditya Mehta,Nirma University,Civil,7.98,2027
+S124,Nensi Desai,PDEU,Mechanical,7.77,2027
+S125,Mira Parmar,DAIICT,IT,9.16,2025
+S126,Nensi Mehta,Nirma University,Mechanical,8.17,2027
+S127,Harsh Parmar,MBIT,Mechanical,9.23,2025
+S128,Dhruv Shah,DAIICT,AI & DS,7.29,2027
+S129,Nensi Desai,MBIT,Electrical,9.6,2025
+S130,Krisha Mehta,LDCE,Electrical,8.88,2027
+S131,Dhruv Mehta,LDCE,Computer Engineering,6.35,2025
+S132,Harsh Shah,DAIICT,Civil,8.21,2026
+S133,Ishita Desai,DAIICT,Mechanical,9.79,2027
+S134,Riya Parmar,VGEC,Mechanical,7.03,2026
+S135,Krisha Patel,VGEC,IT,7.2,2027
+S136,Ishita Shah,Nirma University,IT,8.81,2026
+S137,Mira Desai,PDEU,AI & DS,9.73,2025
+S138,Nensi Shah,DAIICT,IT,7.15,2027
+S139,Ishita Shah,DAIICT,Computer Engineering,9.7,2027
+S140,Nensi Shah,VGEC,Mechanical,6.39,2025
+S141,Mira Parmar,LDCE,Mechanical,7.67,2025
+S142,Aarav Parmar,LDCE,Computer Engineering,9.12,2026
+S143,Dhruv Patel,PDEU,Civil,8.61,2025
+S144,Aditya Desai,DAIICT,Computer Engineering,9.78,2025
+S145,Ishita Mehta,PDEU,Electrical,9.0,2025
+S146,Ishita Mehta,LDCE,Mechanical,7.13,2027
+S147,Harsh Parmar,PDEU,Electrical,6.23,2027
+S148,Vivaan Shah,VGEC,IT,7.01,2025
+S149,Aditya Shah,Nirma University,Electrical,6.29,2025
+S150,Harsh Mehta,VGEC,Electrical,7.79,2025
+S151,Krisha Parmar,VGEC,AI & DS,8.67,2026
+S152,Vivaan Shah,DAIICT,Civil,8.24,2025
+S153,Harsh Patel,PDEU,IT,8.46,2026
+S154,Aditya Patel,MBIT,IT,9.01,2027
+S155,Mira Parmar,LDCE,Computer Engineering,7.78,2026
+S156,Harsh Parmar,PDEU,Electrical,7.88,2025
+S157,Mira Patel,LDCE,Civil,7.22,2026
+S158,Aarav Patel,Nirma University,Civil,9.18,2027
+S159,Mira Patel,VGEC,AI & DS,8.19,2025
+S160,Dhruv Desai,VGEC,Mechanical,9.48,2025
+S161,Mira Mehta,VGEC,Mechanical,9.68,2026
+S162,Riya Mehta,DAIICT,AI & DS,8.55,2025
+S163,Riya Mehta,VGEC,Mechanical,7.1,2026
+S164,Ishita Patel,LDCE,Computer Engineering,7.2,2026
+S165,Vivaan Mehta,PDEU,Computer Engineering,8.5,2027
+S166,Dhruv Mehta,MBIT,IT,7.97,2027
+S167,Dhruv Mehta,MBIT,IT,7.01,2025
+S168,Nensi Mehta,VGEC,Mechanical,6.46,2027
+S169,Mira Shah,VGEC,IT,7.18,2025
+S170,Ishita Mehta,MBIT,IT,9.77,2025
+S171,Dhruv Patel,VGEC,IT,7.89,2027
+S172,Nensi Desai,VGEC,AI & DS,7.58,2026
+S173,Dhruv Shah,LDCE,Electrical,6.55,2025
+S174,Mira Desai,VGEC,IT,9.28,2026
+S175,Harsh Parmar,PDEU,AI & DS,9.12,2026
+S176,Nensi Desai,PDEU,Civil,7.86,2025
+S177,Dhruv Desai,LDCE,AI & DS,7.26,2027
+S178,Harsh Mehta,DAIICT,IT,9.73,2025
+S179,Mira Mehta,Nirma University,Mechanical,6.17,2027
+S180,Dhruv Mehta,LDCE,Civil,9.01,2027
+S181,Aditya Mehta,MBIT,IT,7.91,2027
+S182,Riya Patel,LDCE,Computer Engineering,8.0,2026
+S183,Aarav Shah,LDCE,Civil,9.69,2025
+S184,Dhruv Parmar,DAIICT,Electrical,8.63,2027
+S185,Vivaan Parmar,VGEC,Electrical,7.44,2026
+S186,Dhruv Desai,MBIT,Electrical,6.26,2027
+S187,Nensi Shah,VGEC,Computer Engineering,7.65,2025
+S188,Vivaan Mehta,Nirma University,Civil,7.14,2025
+S189,Aarav Parmar,MBIT,AI & DS,7.36,2026
+S190,Aditya Shah,PDEU,Mechanical,8.15,2025
+S191,Aditya Shah,MBIT,Electrical,9.31,2027
+S192,Krisha Mehta,PDEU,IT,6.88,2027
+S193,Nensi Mehta,DAIICT,Civil,6.04,2026
+S194,Nensi Desai,Nirma University,Computer Engineering,7.68,2026
+S195,Mira Parmar,VGEC,Mechanical,8.62,2026
+S196,Nensi Shah,LDCE,Mechanical,6.41,2026
+S197,Mira Parmar,PDEU,AI & DS,9.77,2026
+S198,Aarav Mehta,DAIICT,Computer Engineering,8.15,2027
+S199,Aarav Desai,VGEC,Mechanical,9.16,2026
+S200,Krisha Desai,DAIICT,IT,8.42,2027
+S201,Nensi Shah,VGEC,Computer Engineering,9.43,2027
+S202,Aarav Parmar,LDCE,Computer Engineering,8.2,2027
+S203,Aditya Patel,DAIICT,AI & DS,8.84,2025
+S204,Krisha Shah,PDEU,AI & DS,8.02,2026
+S205,Aditya Parmar,LDCE,AI & DS,8.84,2026
+S206,Vivaan Mehta,MBIT,IT,8.87,2025
+S207,Harsh Desai,DAIICT,Computer Engineering,9.0,2025
+S208,Nensi Desai,MBIT,Mechanical,7.4,2027
+S209,Nensi Desai,LDCE,Civil,9.57,2025
+S210,Krisha Mehta,MBIT,Electrical,9.36,2027
+S211,Riya Desai,Nirma University,Civil,6.24,2026
+S212,Nensi Mehta,MBIT,IT,6.17,2025
+S213,Nensi Mehta,MBIT,Computer Engineering,6.89,2027
+S214,Aditya Mehta,LDCE,AI & DS,8.55,2027
+S215,Ishita Mehta,PDEU,Civil,8.76,2026
+S216,Vivaan Mehta,PDEU,Mechanical,9.57,2026
+S217,Aarav Parmar,Nirma University,Mechanical,7.69,2025
+S218,Riya Patel,VGEC,AI & DS,8.07,2027
+S219,Riya Patel,LDCE,AI & DS,6.72,2025
+S220,Dhruv Patel,VGEC,IT,8.44,2027
+S221,Aarav Patel,DAIICT,IT,9.76,2027
+S222,Krisha Patel,PDEU,IT,8.23,2025
+S223,Riya Shah,PDEU,Computer Engineering,7.05,2025
+S224,Aditya Desai,DAIICT,IT,6.42,2025
+S225,Aditya Patel,DAIICT,IT,8.24,2025
+S226,Aditya Parmar,MBIT,IT,8.82,2027
+S227,Vivaan Patel,LDCE,Mechanical,8.96,2027
+S228,Mira Patel,LDCE,Electrical,6.84,2027
+S229,Aarav Desai,DAIICT,Mechanical,8.44,2025
+S230,Aarav Mehta,LDCE,Mechanical,8.61,2026
+S231,Dhruv Patel,MBIT,AI & DS,8.31,2025
+S232,Aditya Parmar,PDEU,Civil,8.22,2027
+S233,Riya Mehta,PDEU,Electrical,7.12,2027
+S234,Mira Mehta,MBIT,Civil,6.43,2027
+S235,Ishita Shah,LDCE,Mechanical,9.37,2026
+S236,Riya Mehta,LDCE,Mechanical,8.77,2026
+S237,Harsh Parmar,VGEC,AI & DS,7.42,2025
+S238,Dhruv Patel,MBIT,Computer Engineering,6.35,2025
+S239,Riya Shah,PDEU,Computer Engineering,8.23,2027
+S240,Ishita Parmar,VGEC,Computer Engineering,7.56,2027
+S241,Harsh Patel,DAIICT,Electrical,7.19,2025
+S242,Mira Desai,Nirma University,IT,8.5,2025
+S243,Vivaan Parmar,PDEU,AI & DS,6.44,2026
+S244,Mira Shah,LDCE,Electrical,9.7,2027
+S245,Mira Desai,MBIT,Electrical,9.53,2027
+S246,Nensi Patel,Nirma University,AI & DS,8.67,2026
+S247,Riya Parmar,MBIT,IT,9.31,2027
+S248,Harsh Patel,Nirma University,Civil,8.41,2025
+S249,Vivaan Desai,Nirma University,Mechanical,7.6,2026
+S250,Aditya Parmar,DAIICT,Civil,7.23,2027
+S251,Mira Patel,MBIT,IT,6.6,2027
+S252,Aarav Patel,DAIICT,Mechanical,8.52,2026
+S253,Mira Mehta,LDCE,AI & DS,6.82,2027
+S254,Vivaan Parmar,LDCE,Computer Engineering,7.08,2027
+S255,Mira Mehta,PDEU,Civil,7.17,2025
+S256,Harsh Desai,MBIT,Computer Engineering,6.78,2025
+S257,Aditya Parmar,DAIICT,AI & DS,6.46,2026
+S258,Harsh Shah,Nirma University,Mechanical,8.02,2025
+S259,Ishita Desai,VGEC,AI & DS,6.27,2027
+S260,Aarav Mehta,MBIT,Mechanical,9.5,2026
+S261,Mira Mehta,PDEU,Mechanical,8.7,2026
+S262,Nensi Patel,LDCE,Computer Engineering,9.67,2025
+S263,Mira Mehta,VGEC,AI & DS,6.33,2025
+S264,Krisha Mehta,PDEU,Mechanical,7.99,2026
+S265,Nensi Parmar,Nirma University,AI & DS,8.96,2025
+S266,Ishita Patel,PDEU,Electrical,6.74,2026
+S267,Riya Shah,Nirma University,Computer Engineering,6.56,2025
+S268,Aditya Desai,Nirma University,Civil,6.29,2027
+S269,Dhruv Mehta,PDEU,Electrical,7.71,2027
+S270,Mira Parmar,VGEC,AI & DS,6.57,2025
+S271,Dhruv Mehta,VGEC,AI & DS,9.03,2027
+S272,Aarav Parmar,PDEU,Computer Engineering,7.18,2026
+S273,Aarav Patel,DAIICT,AI & DS,6.29,2025
+S274,Mira Desai,PDEU,Mechanical,7.76,2027
+S275,Aarav Mehta,PDEU,Civil,6.72,2027
+S276,Dhruv Desai,Nirma University,Computer Engineering,7.71,2026
+S277,Vivaan Desai,VGEC,IT,6.15,2027
+S278,Dhruv Mehta,PDEU,Electrical,8.32,2026
+S279,Riya Parmar,LDCE,Mechanical,8.94,2027
+S280,Mira Patel,VGEC,Civil,7.27,2026
+S281,Vivaan Desai,VGEC,Mechanical,7.08,2027
+S282,Mira Shah,DAIICT,Computer Engineering,8.21,2025
+S283,Riya Parmar,VGEC,Civil,8.52,2025
+S284,Mira Patel,DAIICT,Electrical,7.43,2026
+S285,Aditya Desai,MBIT,Civil,8.55,2027
+S286,Riya Patel,DAIICT,AI & DS,6.68,2025
+S287,Riya Mehta,Nirma University,IT,9.8,2025
+S288,Vivaan Parmar,MBIT,Electrical,8.93,2027
+S289,Ishita Patel,VGEC,AI & DS,9.33,2027
+S290,Aditya Desai,LDCE,IT,6.62,2027
+S291,Mira Shah,VGEC,Mechanical,6.17,2026
+S292,Krisha Mehta,PDEU,AI & DS,8.86,2026
+S293,Krisha Desai,Nirma University,AI & DS,9.67,2026
+S294,Krisha Parmar,VGEC,Electrical,9.74,2026
+S295,Nensi Mehta,PDEU,Electrical,7.59,2025
+S296,Krisha Desai,Nirma University,AI & DS,6.2,2026
+S297,Riya Desai,MBIT,Civil,9.21,2025
+S298,Nensi Patel,Nirma University,AI & DS,7.71,2027
+S299,Aditya Mehta,MBIT,IT,9.1,2026
+S300,Aarav Mehta,MBIT,Mechanical,7.91,2025
+S301,Harsh Patel,DAIICT,IT,6.11,2025
+S302,Riya Shah,Nirma University,Computer Engineering,7.09,2026
+S303,Aditya Mehta,LDCE,Electrical,6.02,2025
+S304,Aarav Parmar,Nirma University,IT,8.09,2027
+S305,Mira Desai,LDCE,Computer Engineering,8.95,2025
+S306,Nensi Patel,MBIT,IT,7.6,2027
+S307,Dhruv Patel,MBIT,Mechanical,8.27,2025
+S308,Ishita Desai,Nirma University,Civil,6.55,2026
+S309,Aarav Desai,DAIICT,IT,8.17,2025
+S310,Vivaan Desai,DAIICT,Computer Engineering,9.62,2027
+S311,Ishita Desai,PDEU,Computer Engineering,7.48,2026
+S312,Aarav Mehta,DAIICT,AI & DS,8.84,2026
+S313,Vivaan Parmar,Nirma University,Civil,8.5,2025
+S314,Mira Parmar,Nirma University,Computer Engineering,7.34,2026
+S315,Aditya Mehta,VGEC,Mechanical,8.4,2025
+S316,Vivaan Mehta,MBIT,AI & DS,6.77,2025
+S317,Aarav Parmar,DAIICT,Electrical,7.51,2027
+S318,Dhruv Parmar,MBIT,Civil,6.73,2026
+S319,Aarav Parmar,DAIICT,Computer Engineering,9.04,2026
+S320,Harsh Mehta,LDCE,AI & DS,9.7,2026
+S321,Dhruv Parmar,PDEU,AI & DS,9.04,2027
+S322,Harsh Patel,LDCE,Electrical,9.78,2025
+S323,Ishita Parmar,DAIICT,Computer Engineering,6.3,2027
+S324,Nensi Parmar,LDCE,Electrical,8.73,2025
+S325,Dhruv Parmar,LDCE,Computer Engineering,8.76,2026
+S326,Mira Mehta,DAIICT,Civil,9.72,2025
+S327,Vivaan Mehta,DAIICT,Electrical,9.04,2027
+S328,Aditya Patel,Nirma University,Electrical,8.58,2026
+S329,Aarav Shah,MBIT,IT,8.96,2026
+S330,Riya Mehta,PDEU,Computer Engineering,8.3,2027
+S331,Dhruv Parmar,DAIICT,Mechanical,8.9,2027
+S332,Aditya Desai,DAIICT,Mechanical,7.19,2026
+S333,Krisha Patel,MBIT,Civil,6.71,2027
+S334,Harsh Desai,MBIT,AI & DS,8.94,2027
+S335,Dhruv Shah,PDEU,AI & DS,8.64,2026
+S336,Krisha Patel,Nirma University,Computer Engineering,7.72,2027
+S337,Dhruv Patel,VGEC,AI & DS,8.54,2027
+S338,Vivaan Desai,PDEU,AI & DS,9.39,2025
+S339,Aditya Parmar,PDEU,IT,6.46,2025
+S340,Aditya Shah,LDCE,Computer Engineering,7.37,2027
+S341,Riya Mehta,PDEU,IT,8.33,2025
+S342,Vivaan Parmar,LDCE,Civil,8.73,2027
+S343,Harsh Mehta,PDEU,Computer Engineering,6.48,2026
+S344,Vivaan Mehta,LDCE,Civil,7.97,2025
+S345,Ishita Desai,Nirma University,IT,7.64,2025
+S346,Vivaan Desai,Nirma University,AI & DS,6.63,2026
+S347,Krisha Parmar,PDEU,AI & DS,9.21,2026
+S348,Krisha Desai,DAIICT,IT,8.38,2027
+S349,Ishita Patel,PDEU,Civil,6.64,2027
+S350,Aditya Shah,VGEC,Electrical,8.74,2027
+S351,Riya Desai,MBIT,Computer Engineering,6.31,2027
+S352,Mira Parmar,VGEC,IT,8.91,2026
+S353,Mira Patel,LDCE,Civil,8.07,2027
+S354,Nensi Mehta,Nirma University,Civil,7.54,2026
+S355,Vivaan Patel,Nirma University,Mechanical,7.58,2026
+S356,Krisha Parmar,PDEU,IT,7.19,2027
+S357,Riya Parmar,LDCE,IT,8.89,2027
+S358,Ishita Patel,DAIICT,IT,7.77,2026
+S359,Dhruv Shah,Nirma University,Computer Engineering,6.19,2026
+S360,Mira Mehta,Nirma University,IT,9.09,2027
+S361,Riya Shah,Nirma University,Mechanical,9.78,2026
+S362,Dhruv Parmar,LDCE,Computer Engineering,6.34,2026
+S363,Ishita Mehta,Nirma University,IT,8.22,2025
+S364,Aarav Parmar,LDCE,Electrical,9.35,2027
+S365,Dhruv Parmar,PDEU,Computer Engineering,9.22,2026
+S366,Aditya Parmar,VGEC,AI & DS,8.9,2026
+S367,Aarav Mehta,MBIT,Electrical,8.13,2026
+S368,Ishita Parmar,MBIT,Mechanical,7.92,2027
+S369,Nensi Desai,VGEC,Electrical,6.45,2025
+S370,Harsh Parmar,DAIICT,Electrical,9.57,2025
+S371,Krisha Desai,PDEU,Mechanical,7.9,2025
+S372,Aarav Shah,VGEC,AI & DS,9.06,2027
+S373,Dhruv Shah,PDEU,Electrical,6.53,2027
+S374,Riya Shah,LDCE,Electrical,8.81,2026
+S375,Mira Parmar,PDEU,Electrical,8.02,2027
+S376,Mira Parmar,LDCE,Computer Engineering,7.4,2027
+S377,Vivaan Mehta,PDEU,AI & DS,9.03,2027
+S378,Aarav Desai,LDCE,AI & DS,9.67,2027
+S379,Mira Shah,VGEC,Computer Engineering,8.22,2025
+S380,Ishita Desai,LDCE,IT,9.12,2025
+S381,Aarav Desai,VGEC,Computer Engineering,6.72,2026
+S382,Riya Mehta,Nirma University,Mechanical,8.62,2026
+S383,Ishita Desai,LDCE,Civil,8.76,2027
+S384,Aditya Desai,Nirma University,Electrical,7.24,2027
+S385,Dhruv Desai,LDCE,AI & DS,9.64,2026
+S386,Ishita Parmar,PDEU,AI & DS,8.57,2027
+S387,Nensi Desai,LDCE,IT,9.64,2026
+S388,Ishita Parmar,Nirma University,AI & DS,8.93,2027
+S389,Krisha Mehta,DAIICT,Mechanical,7.33,2027
+S390,Nensi Parmar,MBIT,Electrical,8.57,2026
+S391,Harsh Parmar,Nirma University,AI & DS,6.16,2027
+S392,Vivaan Parmar,LDCE,Civil,6.97,2026
+S393,Krisha Shah,PDEU,AI & DS,9.55,2027
+S394,Nensi Shah,MBIT,Electrical,8.82,2025
+S395,Krisha Patel,VGEC,Electrical,6.86,2025
+S396,Aarav Patel,LDCE,AI & DS,8.73,2025
+S397,Aditya Patel,PDEU,IT,7.55,2026
+S398,Dhruv Shah,DAIICT,AI & DS,7.08,2025
+S399,Vivaan Desai,Nirma University,Electrical,8.81,2025
+S400,Aditya Mehta,Nirma University,Computer Engineering,9.79,2026
+S401,Dhruv Shah,VGEC,AI & DS,9.33,2025
+S402,Nensi Desai,PDEU,Computer Engineering,9.53,2026
+S403,Nensi Mehta,VGEC,Electrical,7.99,2025
+S404,Ishita Mehta,DAIICT,IT,9.07,2026
+S405,Aditya Mehta,VGEC,AI & DS,8.73,2025
+S406,Riya Parmar,PDEU,Civil,8.88,2025
+S407,Mira Mehta,LDCE,Electrical,7.25,2026
+S408,Vivaan Shah,Nirma University,Mechanical,7.23,2025
+S409,Aarav Parmar,LDCE,IT,7.7,2026
+S410,Riya Parmar,PDEU,Civil,8.18,2026
+S411,Riya Shah,MBIT,Civil,6.45,2026
+S412,Aditya Mehta,VGEC,Electrical,9.51,2027
+S413,Nensi Patel,VGEC,AI & DS,7.4,2025
+S414,Krisha Shah,LDCE,IT,7.73,2027
+S415,Riya Mehta,VGEC,Electrical,9.47,2027
+S416,Krisha Shah,VGEC,Electrical,9.32,2025
+S417,Ishita Mehta,PDEU,Civil,7.37,2027
+S418,Vivaan Patel,PDEU,Electrical,6.77,2027
+S419,Aditya Shah,DAIICT,Electrical,7.68,2027
+S420,Krisha Desai,LDCE,Computer Engineering,9.42,2026
+S421,Aarav Mehta,Nirma University,Electrical,7.58,2027
+S422,Aarav Desai,LDCE,Civil,9.07,2027
+S423,Aarav Mehta,DAIICT,Computer Engineering,8.83,2027
+S424,Vivaan Patel,LDCE,AI & DS,8.66,2027
+S425,Aarav Patel,LDCE,Computer Engineering,7.09,2025
+S426,Aditya Mehta,DAIICT,Mechanical,7.7,2026
+S427,Harsh Patel,VGEC,Civil,9.32,2025
+S428,Riya Patel,Nirma University,Electrical,7.49,2025
+S429,Krisha Patel,MBIT,AI & DS,7.76,2027
+S430,Ishita Mehta,PDEU,Mechanical,9.13,2025
+S431,Dhruv Parmar,Nirma University,AI & DS,6.72,2027
+S432,Vivaan Patel,VGEC,Mechanical,8.34,2025
+S433,Krisha Shah,MBIT,Computer Engineering,8.26,2026
+S434,Mira Patel,Nirma University,Civil,6.17,2026
+S435,Krisha Desai,Nirma University,Computer Engineering,6.53,2026
+S436,Krisha Desai,DAIICT,Electrical,8.27,2027
+S437,Riya Shah,DAIICT,IT,9.75,2027
+S438,Krisha Mehta,DAIICT,AI & DS,6.23,2027
+S439,Aditya Mehta,PDEU,Mechanical,6.18,2026
+S440,Harsh Desai,DAIICT,Civil,7.58,2025
+S441,Nensi Mehta,Nirma University,Electrical,7.8,2025
+S442,Nensi Shah,LDCE,Computer Engineering,8.14,2026
+S443,Ishita Desai,Nirma University,Mechanical,6.92,2025
+S444,Riya Patel,LDCE,AI & DS,6.35,2027
+S445,Krisha Patel,DAIICT,Mechanical,8.56,2027
+S446,Aarav Patel,Nirma University,Electrical,8.75,2027
+S447,Krisha Mehta,Nirma University,AI & DS,7.15,2025
+S448,Krisha Shah,VGEC,Computer Engineering,8.84,2026
+S449,Krisha Desai,VGEC,IT,7.51,2025
+S450,Ishita Parmar,DAIICT,Mechanical,7.77,2027
+S451,Riya Parmar,DAIICT,AI & DS,7.95,2026
+S452,Dhruv Patel,VGEC,Mechanical,8.89,2026
+S453,Krisha Parmar,DAIICT,Mechanical,6.17,2025
+S454,Aditya Patel,DAIICT,Electrical,9.55,2027
+S455,Harsh Parmar,Nirma University,IT,7.25,2026
+S456,Mira Shah,LDCE,Electrical,8.49,2027
+S457,Riya Parmar,LDCE,Civil,8.44,2026
+S458,Dhruv Shah,VGEC,AI & DS,6.64,2027
+S459,Ishita Mehta,Nirma University,Electrical,9.76,2025
+S460,Ishita Patel,MBIT,Civil,6.18,2025
+S461,Harsh Shah,VGEC,IT,6.26,2025
+S462,Aarav Shah,PDEU,Mechanical,7.42,2027
+S463,Mira Mehta,VGEC,Mechanical,6.06,2027
+S464,Ishita Mehta,MBIT,Computer Engineering,8.01,2026
+S465,Ishita Parmar,MBIT,Electrical,9.09,2027
+S466,Harsh Shah,MBIT,Computer Engineering,7.99,2025
+S467,Krisha Desai,PDEU,AI & DS,9.1,2026
+S468,Harsh Patel,DAIICT,Mechanical,7.74,2025
+S469,Krisha Parmar,VGEC,Computer Engineering,8.48,2027
+S470,Aarav Patel,LDCE,Mechanical,7.43,2026
+S471,Aarav Patel,VGEC,IT,6.31,2026
+S472,Riya Desai,MBIT,Electrical,9.49,2025
+S473,Krisha Desai,LDCE,AI & DS,6.18,2025
+S474,Nensi Desai,PDEU,Civil,6.13,2026
+S475,Aarav Shah,PDEU,IT,8.86,2027
+S476,Harsh Patel,DAIICT,IT,8.14,2027
+S477,Harsh Desai,DAIICT,Mechanical,8.87,2025
+S478,Vivaan Desai,VGEC,AI & DS,6.2,2026
+S479,Krisha Patel,DAIICT,Electrical,8.92,2027
+S480,Harsh Parmar,MBIT,Civil,7.04,2026
+S481,Dhruv Shah,DAIICT,Electrical,9.58,2026
+S482,Aditya Desai,VGEC,Mechanical,6.33,2027
+S483,Nensi Shah,VGEC,Computer Engineering,6.31,2025
+S484,Harsh Shah,VGEC,Mechanical,7.2,2025
+S485,Vivaan Patel,DAIICT,Mechanical,7.37,2026
+S486,Vivaan Shah,MBIT,IT,7.64,2027
+S487,Ishita Desai,LDCE,Computer Engineering,6.1,2026
+S488,Ishita Patel,PDEU,Electrical,8.98,2026
+S489,Aarav Parmar,LDCE,Mechanical,8.96,2027
+S490,Ishita Shah,PDEU,Electrical,6.64,2026
+S491,Aditya Shah,DAIICT,AI & DS,7.02,2025
+S492,Vivaan Shah,LDCE,AI & DS,7.6,2026
+S493,Vivaan Parmar,DAIICT,IT,8.74,2026
+S494,Mira Desai,Nirma University,Mechanical,6.41,2026
+S495,Aarav Mehta,DAIICT,Electrical,7.44,2026
+S496,Dhruv Parmar,LDCE,Civil,9.7,2025
+S497,Nensi Parmar,PDEU,Civil,6.76,2026
+S498,Aditya Mehta,DAIICT,AI & DS,8.79,2027
+S499,Dhruv Desai,Nirma University,AI & DS,7.43,2026
+S500,Riya Patel,PDEU,IT,8.25,2027

@@ -1,0 +1,3001 @@
+Application_ID,Student_ID,Company_ID,Applied_Date,Source,Status
+A0001,S293,C005,2025-08-08,Company Website,Rejected
+A0002,S008,C027,2025-08-25,Company Website,Interview
+A0003,S335,C021,2025-01-18,Referral,Selected
+A0004,S168,C010,2025-05-08,Internshala,Applied
+A0005,S216,C018,2025-11-05,Internshala,Selected
+A0006,S216,C037,2025-12-12,Internshala,Selected
+A0007,S090,C088,2025-06-05,Internshala,Shortlisted
+A0008,S234,C099,2025-05-03,Company Website,Rejected
+A0009,S193,C006,2025-10-26,LinkedIn,Shortlisted
+A0010,S069,C025,2025-06-05,Referral,Interview
+A0011,S396,C031,2025-06-10,Referral,Selected
+A0012,S224,C061,2025-02-03,Referral,Interview
+A0013,S433,C065,2025-03-22,Naukri,Selected
+A0014,S123,C005,2025-01-17,Company Website,Interview
+A0015,S419,C078,2025-12-03,LinkedIn,Rejected
+A0016,S474,C011,2025-03-18,Company Website,Rejected
+A0017,S485,C048,2025-11-04,Naukri,Applied
+A0018,S494,C100,2025-02-19,Company Website,Shortlisted
+A0019,S414,C025,2025-06-28,Company Website,Selected
+A0020,S229,C032,2025-12-15,Internshala,Shortlisted
+A0021,S317,C067,2025-04-02,LinkedIn,Interview
+A0022,S234,C039,2025-03-26,Naukri,Shortlisted
+A0023,S246,C099,2025-06-27,Internshala,Selected
+A0024,S115,C001,2025-10-06,LinkedIn,Interview
+A0025,S460,C041,2025-05-05,LinkedIn,Interview
+A0026,S230,C052,2025-10-26,Naukri,Selected
+A0027,S472,C064,2025-12-11,Naukri,Rejected
+A0028,S467,C035,2025-09-24,Company Website,Rejected
+A0029,S256,C009,2025-03-27,Company Website,Selected
+A0030,S460,C052,2025-03-11,Company Website,Rejected
+A0031,S300,C045,2025-10-03,Company Website,Selected
+A0032,S360,C022,2025-10-14,Company Website,Applied
+A0033,S496,C054,2025-01-19,LinkedIn,Selected
+A0034,S275,C009,2025-01-26,Internshala,Applied
+A0035,S078,C014,2025-11-08,Company Website,Selected
+A0036,S072,C059,2025-08-12,Referral,Selected
+A0037,S176,C093,2025-05-13,Company Website,Selected
+A0038,S169,C084,2025-09-24,Referral,Shortlisted
+A0039,S379,C031,2025-06-15,Referral,Applied
+A0040,S352,C026,2025-11-26,Referral,Rejected
+A0041,S425,C081,2025-09-03,LinkedIn,Applied
+A0042,S493,C038,2025-08-11,Naukri,Interview
+A0043,S456,C012,2025-01-24,Referral,Rejected
+A0044,S393,C014,2025-05-27,Naukri,Selected
+A0045,S073,C047,2025-11-01,Company Website,Shortlisted
+A0046,S180,C024,2025-02-10,Referral,Shortlisted
+A0047,S219,C027,2025-02-19,Internshala,Selected
+A0048,S442,C096,2025-12-22,Referral,Selected
+A0049,S230,C086,2025-10-12,Naukri,Interview
+A0050,S306,C047,2025-03-01,LinkedIn,Shortlisted
+A0051,S218,C079,2025-07-29,Company Website,Shortlisted
+A0052,S036,C099,2025-08-05,LinkedIn,Applied
+A0053,S179,C033,2025-07-04,Company Website,Selected
+A0054,S389,C025,2025-11-18,Internshala,Selected
+A0055,S356,C038,2025-09-17,Company Website,Rejected
+A0056,S465,C034,2025-07-27,Company Website,Interview
+A0057,S179,C093,2025-05-22,Company Website,Selected
+A0058,S437,C062,2025-10-28,Company Website,Applied
+A0059,S354,C070,2025-07-07,Company Website,Shortlisted
+A0060,S494,C078,2025-08-01,Referral,Applied
+A0061,S305,C094,2025-06-06,LinkedIn,Rejected
+A0062,S168,C084,2025-06-14,LinkedIn,Selected
+A0063,S313,C048,2025-05-25,Referral,Shortlisted
+A0064,S124,C022,2025-06-07,LinkedIn,Rejected
+A0065,S405,C007,2025-04-23,Referral,Applied
+A0066,S487,C054,2025-04-09,Referral,Rejected
+A0067,S225,C076,2025-01-09,Company Website,Shortlisted
+A0068,S174,C074,2025-04-08,Referral,Rejected
+A0069,S392,C099,2025-06-17,LinkedIn,Rejected
+A0070,S026,C005,2025-10-17,Internshala,Selected
+A0071,S167,C077,2025-11-23,Naukri,Shortlisted
+A0072,S061,C078,2025-06-26,Naukri,Applied
+A0073,S371,C069,2025-09-19,Internshala,Applied
+A0074,S204,C057,2025-10-23,Internshala,Applied
+A0075,S075,C057,2025-12-28,Company Website,Rejected
+A0076,S232,C093,2025-08-15,Referral,Shortlisted
+A0077,S182,C055,2025-06-25,Referral,Rejected
+A0078,S235,C050,2025-04-10,LinkedIn,Selected
+A0079,S329,C020,2025-01-22,Naukri,Shortlisted
+A0080,S292,C055,2025-07-04,Referral,Selected
+A0081,S492,C007,2025-11-06,LinkedIn,Shortlisted
+A0082,S160,C029,2025-01-26,Referral,Shortlisted
+A0083,S052,C082,2025-10-17,Internshala,Shortlisted
+A0084,S155,C006,2025-07-22,Referral,Selected
+A0085,S040,C045,2025-04-10,Company Website,Shortlisted
+A0086,S087,C052,2025-08-28,Internshala,Applied
+A0087,S089,C023,2025-10-25,Company Website,Shortlisted
+A0088,S263,C083,2025-12-23,Company Website,Applied
+A0089,S204,C016,2025-05-01,LinkedIn,Selected
+A0090,S370,C082,2025-06-09,Internshala,Rejected
+A0091,S333,C013,2025-06-26,Referral,Rejected
+A0092,S244,C078,2025-05-06,Referral,Interview
+A0093,S007,C086,2025-03-22,Company Website,Shortlisted
+A0094,S050,C066,2025-11-23,Company Website,Applied
+A0095,S296,C052,2025-10-26,Naukri,Interview
+A0096,S182,C009,2025-04-07,Referral,Rejected
+A0097,S272,C004,2025-02-08,Company Website,Applied
+A0098,S009,C084,2025-08-09,Internshala,Shortlisted
+A0099,S373,C007,2025-07-03,Internshala,Selected
+A0100,S404,C022,2025-01-10,Naukri,Shortlisted
+A0101,S149,C026,2025-05-07,Naukri,Selected
+A0102,S315,C070,2025-10-27,Referral,Selected
+A0103,S448,C071,2025-01-16,Naukri,Applied
+A0104,S064,C004,2025-01-29,Naukri,Applied
+A0105,S355,C050,2025-02-04,LinkedIn,Selected
+A0106,S379,C085,2025-04-04,Referral,Selected
+A0107,S462,C007,2025-10-10,Naukri,Applied
+A0108,S360,C049,2025-10-24,Company Website,Selected
+A0109,S172,C024,2025-01-18,Company Website,Selected
+A0110,S251,C091,2026-01-01,Internshala,Applied
+A0111,S072,C034,2025-05-10,Naukri,Applied
+A0112,S236,C002,2025-03-20,Internshala,Applied
+A0113,S466,C068,2025-06-07,Naukri,Applied
+A0114,S275,C016,2025-05-28,Referral,Interview
+A0115,S415,C001,2025-10-22,Internshala,Rejected
+A0116,S219,C066,2025-03-16,LinkedIn,Applied
+A0117,S312,C008,2025-11-27,Naukri,Rejected
+A0118,S008,C028,2025-03-17,Internshala,Selected
+A0119,S078,C004,2025-07-11,Referral,Applied
+A0120,S245,C039,2025-08-26,Company Website,Shortlisted
+A0121,S463,C081,2025-03-14,LinkedIn,Selected
+A0122,S312,C020,2025-08-20,Naukri,Interview
+A0123,S260,C086,2025-08-29,Naukri,Applied
+A0124,S251,C076,2025-07-19,Naukri,Selected
+A0125,S360,C036,2025-04-19,Company Website,Rejected
+A0126,S181,C084,2025-10-16,Referral,Selected
+A0127,S077,C083,2025-06-12,Internshala,Shortlisted
+A0128,S029,C059,2025-01-28,Internshala,Rejected
+A0129,S268,C007,2025-07-14,Referral,Applied
+A0130,S468,C090,2025-01-19,Naukri,Applied
+A0131,S006,C047,2025-08-11,Naukri,Selected
+A0132,S428,C073,2025-12-05,LinkedIn,Applied
+A0133,S035,C047,2025-08-22,Company Website,Interview
+A0134,S091,C096,2025-03-06,Company Website,Rejected
+A0135,S358,C070,2025-04-09,Naukri,Shortlisted
+A0136,S430,C049,2025-04-22,Referral,Rejected
+A0137,S251,C088,2025-12-06,Company Website,Shortlisted
+A0138,S035,C069,2025-03-21,Referral,Rejected
+A0139,S276,C017,2025-02-06,Company Website,Selected
+A0140,S046,C027,2025-01-07,Company Website,Shortlisted
+A0141,S341,C022,2025-07-07,Company Website,Shortlisted
+A0142,S127,C043,2025-06-03,Referral,Interview
+A0143,S080,C008,2025-09-06,Company Website,Interview
+A0144,S175,C001,2025-06-16,Internshala,Rejected
+A0145,S460,C100,2025-12-24,Referral,Applied
+A0146,S209,C092,2025-05-26,Company Website,Shortlisted
+A0147,S448,C015,2025-08-03,Company Website,Applied
+A0148,S062,C060,2025-03-24,LinkedIn,Selected
+A0149,S273,C011,2025-01-04,Referral,Rejected
+A0150,S134,C074,2025-09-05,LinkedIn,Selected
+A0151,S484,C015,2025-07-28,Company Website,Shortlisted
+A0152,S202,C003,2025-08-16,Company Website,Rejected
+A0153,S365,C064,2025-12-23,Company Website,Interview
+A0154,S288,C085,2025-03-21,Company Website,Shortlisted
+A0155,S117,C061,2025-09-13,Referral,Selected
+A0156,S207,C039,2025-10-10,Company Website,Rejected
+A0157,S389,C003,2025-09-14,Referral,Interview
+A0158,S324,C091,2025-08-26,Internshala,Shortlisted
+A0159,S121,C029,2025-07-11,Referral,Shortlisted
+A0160,S272,C100,2025-01-14,Referral,Rejected
+A0161,S410,C005,2025-01-30,Naukri,Selected
+A0162,S390,C040,2025-03-26,Naukri,Applied
+A0163,S087,C060,2025-06-10,LinkedIn,Rejected
+A0164,S126,C005,2025-01-09,Naukri,Selected
+A0165,S233,C099,2025-06-30,LinkedIn,Selected
+A0166,S324,C088,2025-07-02,Internshala,Applied
+A0167,S080,C033,2025-01-22,Naukri,Shortlisted
+A0168,S059,C066,2026-01-01,Company Website,Interview
+A0169,S180,C041,2025-10-10,Company Website,Interview
+A0170,S306,C038,2025-08-08,LinkedIn,Applied
+A0171,S247,C086,2025-07-04,Company Website,Selected
+A0172,S242,C046,2025-02-05,Naukri,Rejected
+A0173,S098,C071,2025-06-14,Internshala,Shortlisted
+A0174,S003,C094,2025-10-27,Company Website,Applied
+A0175,S391,C094,2025-03-29,Naukri,Selected
+A0176,S185,C051,2025-03-03,Company Website,Shortlisted
+A0177,S405,C026,2025-10-22,LinkedIn,Selected
+A0178,S419,C007,2025-10-09,Internshala,Selected
+A0179,S043,C100,2025-12-04,Referral,Applied
+A0180,S126,C083,2025-03-31,Naukri,Selected
+A0181,S208,C091,2025-10-14,Naukri,Selected
+A0182,S359,C030,2025-08-11,Company Website,Shortlisted
+A0183,S119,C093,2025-12-26,Internshala,Selected
+A0184,S429,C092,2025-03-08,Naukri,Rejected
+A0185,S337,C095,2025-01-27,Referral,Shortlisted
+A0186,S097,C011,2025-07-21,Referral,Applied
+A0187,S310,C065,2025-04-27,Referral,Interview
+A0188,S162,C063,2025-10-26,Naukri,Selected
+A0189,S125,C049,2025-07-24,Company Website,Rejected
+A0190,S055,C054,2025-11-05,Referral,Applied
+A0191,S127,C008,2025-02-25,LinkedIn,Interview
+A0192,S127,C036,2025-12-25,Internshala,Interview
+A0193,S274,C048,2025-03-11,Internshala,Rejected
+A0194,S327,C017,2025-12-25,LinkedIn,Applied
+A0195,S387,C099,2025-08-19,LinkedIn,Selected
+A0196,S491,C079,2025-11-13,LinkedIn,Shortlisted
+A0197,S306,C018,2025-07-28,Naukri,Selected
+A0198,S237,C009,2025-03-29,LinkedIn,Interview
+A0199,S333,C085,2025-05-18,Naukri,Applied
+A0200,S227,C090,2025-09-24,LinkedIn,Applied
+A0201,S018,C057,2025-09-29,Company Website,Rejected
+A0202,S275,C040,2025-11-05,Referral,Interview
+A0203,S150,C076,2025-03-11,Company Website,Interview
+A0204,S183,C009,2025-05-14,Internshala,Interview
+A0205,S360,C072,2025-02-22,Internshala,Selected
+A0206,S161,C060,2025-08-08,Company Website,Shortlisted
+A0207,S141,C015,2025-03-18,Referral,Rejected
+A0208,S087,C001,2025-08-16,Internshala,Selected
+A0209,S452,C035,2025-03-23,Internshala,Shortlisted
+A0210,S349,C082,2025-12-10,Naukri,Applied
+A0211,S028,C098,2025-10-27,Naukri,Rejected
+A0212,S275,C071,2025-03-19,LinkedIn,Rejected
+A0213,S152,C046,2025-08-25,Internshala,Interview
+A0214,S441,C033,2025-02-06,Naukri,Interview
+A0215,S434,C009,2025-11-28,LinkedIn,Rejected
+A0216,S127,C057,2025-10-05,Naukri,Rejected
+A0217,S319,C035,2025-10-12,Internshala,Applied
+A0218,S433,C065,2025-08-09,Internshala,Selected
+A0219,S308,C090,2025-01-29,Internshala,Interview
+A0220,S245,C063,2025-05-25,Referral,Selected
+A0221,S477,C001,2025-07-11,Internshala,Rejected
+A0222,S298,C083,2025-08-29,Naukri,Shortlisted
+A0223,S199,C056,2025-06-14,Internshala,Applied
+A0224,S175,C015,2025-02-16,LinkedIn,Interview
+A0225,S224,C031,2025-04-01,Referral,Shortlisted
+A0226,S394,C001,2025-09-15,Referral,Interview
+A0227,S328,C021,2025-06-25,Referral,Shortlisted
+A0228,S463,C076,2025-12-22,LinkedIn,Shortlisted
+A0229,S162,C002,2025-06-24,Company Website,Shortlisted
+A0230,S230,C008,2025-11-01,Company Website,Rejected
+A0231,S069,C003,2025-10-13,Internshala,Rejected
+A0232,S092,C067,2025-10-30,LinkedIn,Shortlisted
+A0233,S255,C081,2025-06-09,Referral,Interview
+A0234,S025,C050,2025-03-27,Naukri,Selected
+A0235,S335,C084,2025-01-05,Company Website,Selected
+A0236,S453,C053,2025-11-08,Referral,Applied
+A0237,S016,C075,2025-03-26,Internshala,Selected
+A0238,S099,C076,2025-09-19,Referral,Selected
+A0239,S195,C031,2025-06-24,Referral,Shortlisted
+A0240,S185,C074,2025-10-26,LinkedIn,Rejected
+A0241,S428,C002,2025-03-17,LinkedIn,Shortlisted
+A0242,S105,C035,2025-05-05,LinkedIn,Selected
+A0243,S212,C094,2025-01-31,Company Website,Interview
+A0244,S358,C001,2025-11-17,Naukri,Shortlisted
+A0245,S316,C074,2025-04-15,Internshala,Applied
+A0246,S152,C020,2025-09-23,Referral,Selected
+A0247,S197,C012,2025-03-06,Company Website,Applied
+A0248,S155,C086,2025-04-04,Company Website,Selected
+A0249,S150,C098,2025-01-29,Company Website,Interview
+A0250,S024,C047,2025-02-04,LinkedIn,Interview
+A0251,S270,C055,2025-01-20,LinkedIn,Rejected
+A0252,S486,C084,2025-03-29,Naukri,Applied
+A0253,S407,C030,2025-12-10,Company Website,Applied
+A0254,S040,C039,2025-01-24,Company Website,Interview
+A0255,S171,C066,2025-11-08,Referral,Rejected
+A0256,S497,C038,2025-07-17,Internshala,Selected
+A0257,S008,C072,2025-10-05,LinkedIn,Selected
+A0258,S117,C072,2025-02-05,Company Website,Rejected
+A0259,S359,C046,2025-05-18,Referral,Applied
+A0260,S026,C042,2025-10-26,Company Website,Interview
+A0261,S165,C022,2025-03-22,Internshala,Selected
+A0262,S049,C096,2025-07-04,Naukri,Interview
+A0263,S027,C082,2025-06-06,LinkedIn,Rejected
+A0264,S146,C015,2025-12-31,Internshala,Applied
+A0265,S068,C074,2025-01-16,Internshala,Shortlisted
+A0266,S182,C069,2025-01-10,Referral,Interview
+A0267,S279,C088,2025-07-14,Referral,Selected
+A0268,S320,C058,2025-06-12,LinkedIn,Shortlisted
+A0269,S151,C025,2025-06-30,Internshala,Rejected
+A0270,S457,C037,2025-08-01,LinkedIn,Selected
+A0271,S074,C029,2025-07-15,Referral,Interview
+A0272,S345,C087,2025-06-03,Naukri,Rejected
+A0273,S351,C056,2025-01-11,LinkedIn,Shortlisted
+A0274,S195,C099,2025-12-25,Naukri,Shortlisted
+A0275,S026,C011,2025-07-05,Internshala,Applied
+A0276,S345,C024,2025-12-04,Referral,Applied
+A0277,S490,C083,2025-02-09,LinkedIn,Selected
+A0278,S121,C090,2025-02-04,Referral,Selected
+A0279,S420,C064,2025-05-14,LinkedIn,Applied
+A0280,S278,C014,2025-04-11,Referral,Rejected
+A0281,S323,C010,2025-07-13,Internshala,Applied
+A0282,S167,C078,2025-02-28,Internshala,Shortlisted
+A0283,S124,C058,2025-03-07,Company Website,Interview
+A0284,S388,C038,2025-04-14,Company Website,Applied
+A0285,S223,C017,2025-08-11,Internshala,Shortlisted
+A0286,S386,C047,2025-03-14,Referral,Interview
+A0287,S341,C073,2025-11-23,Referral,Rejected
+A0288,S208,C027,2025-09-09,Company Website,Applied
+A0289,S133,C007,2025-03-23,Company Website,Rejected
+A0290,S349,C013,2025-03-15,Referral,Shortlisted
+A0291,S141,C029,2025-02-27,LinkedIn,Applied
+A0292,S356,C054,2025-07-24,Referral,Applied
+A0293,S393,C093,2025-02-20,Naukri,Selected
+A0294,S157,C007,2025-04-24,Company Website,Interview
+A0295,S145,C057,2025-11-11,Referral,Selected
+A0296,S421,C003,2025-11-08,Naukri,Shortlisted
+A0297,S342,C093,2025-04-17,LinkedIn,Applied
+A0298,S315,C019,2025-11-08,Internshala,Interview
+A0299,S481,C033,2025-09-26,Referral,Interview
+A0300,S336,C007,2025-12-13,Referral,Shortlisted
+A0301,S390,C074,2025-04-17,Company Website,Interview
+A0302,S249,C055,2025-10-20,Company Website,Selected
+A0303,S184,C054,2025-06-15,Referral,Shortlisted
+A0304,S163,C069,2025-07-21,LinkedIn,Applied
+A0305,S387,C089,2025-09-06,Company Website,Shortlisted
+A0306,S461,C005,2025-08-18,Naukri,Applied
+A0307,S244,C076,2025-03-29,LinkedIn,Shortlisted
+A0308,S360,C083,2025-12-29,LinkedIn,Rejected
+A0309,S377,C083,2025-03-23,Referral,Shortlisted
+A0310,S312,C048,2025-11-09,Naukri,Applied
+A0311,S265,C060,2025-05-04,Naukri,Selected
+A0312,S329,C010,2025-11-28,Naukri,Selected
+A0313,S052,C008,2025-03-30,Naukri,Shortlisted
+A0314,S313,C031,2025-02-09,Company Website,Applied
+A0315,S060,C013,2025-02-07,LinkedIn,Applied
+A0316,S246,C057,2025-02-09,Referral,Rejected
+A0317,S299,C027,2025-02-24,Naukri,Applied
+A0318,S488,C082,2025-10-23,Internshala,Shortlisted
+A0319,S272,C036,2025-06-12,Naukri,Rejected
+A0320,S277,C027,2025-08-12,Naukri,Rejected
+A0321,S229,C060,2025-10-26,Referral,Interview
+A0322,S337,C058,2025-01-01,Internshala,Applied
+A0323,S134,C068,2025-05-11,LinkedIn,Rejected
+A0324,S209,C053,2025-06-04,Company Website,Applied
+A0325,S153,C021,2025-06-26,Naukri,Applied
+A0326,S034,C049,2025-11-21,Internshala,Shortlisted
+A0327,S124,C006,2025-06-25,Internshala,Selected
+A0328,S204,C067,2025-02-02,Internshala,Interview
+A0329,S421,C091,2025-07-23,Naukri,Applied
+A0330,S463,C096,2025-05-30,Naukri,Interview
+A0331,S124,C003,2025-04-16,Naukri,Shortlisted
+A0332,S005,C016,2025-05-15,Internshala,Selected
+A0333,S058,C045,2025-02-12,Referral,Rejected
+A0334,S362,C052,2025-12-18,Internshala,Applied
+A0335,S204,C053,2025-08-06,Company Website,Rejected
+A0336,S404,C091,2025-01-25,Internshala,Interview
+A0337,S002,C065,2025-11-04,LinkedIn,Selected
+A0338,S278,C074,2025-09-20,LinkedIn,Rejected
+A0339,S224,C016,2025-09-13,Referral,Shortlisted
+A0340,S460,C050,2025-02-09,Internshala,Applied
+A0341,S072,C090,2025-12-08,Internshala,Interview
+A0342,S156,C078,2025-09-30,Naukri,Applied
+A0343,S222,C055,2025-06-21,Naukri,Selected
+A0344,S474,C009,2025-11-12,Company Website,Applied
+A0345,S062,C060,2025-09-07,Internshala,Interview
+A0346,S406,C019,2025-10-21,LinkedIn,Applied
+A0347,S272,C089,2025-09-03,Internshala,Selected
+A0348,S377,C034,2025-03-18,Naukri,Selected
+A0349,S153,C008,2025-10-20,Internshala,Rejected
+A0350,S236,C070,2025-12-31,Internshala,Selected
+A0351,S008,C073,2025-06-01,Naukri,Rejected
+A0352,S421,C086,2025-05-17,Naukri,Rejected
+A0353,S105,C065,2025-11-14,Naukri,Applied
+A0354,S101,C012,2025-08-29,Internshala,Interview
+A0355,S388,C057,2025-06-25,LinkedIn,Interview
+A0356,S361,C021,2025-02-18,Referral,Applied
+A0357,S424,C067,2025-12-05,Referral,Interview
+A0358,S046,C047,2025-11-05,Referral,Interview
+A0359,S292,C047,2025-03-11,Company Website,Applied
+A0360,S454,C083,2025-06-01,Internshala,Selected
+A0361,S416,C056,2025-02-03,LinkedIn,Rejected
+A0362,S184,C063,2025-08-15,Internshala,Selected
+A0363,S441,C083,2025-03-22,Internshala,Rejected
+A0364,S118,C090,2025-01-23,Naukri,Selected
+A0365,S403,C005,2025-10-16,LinkedIn,Applied
+A0366,S364,C027,2025-10-31,Internshala,Selected
+A0367,S210,C092,2025-01-07,Company Website,Selected
+A0368,S006,C010,2025-05-24,Company Website,Applied
+A0369,S377,C097,2025-04-27,Company Website,Selected
+A0370,S096,C067,2025-10-29,LinkedIn,Rejected
+A0371,S097,C044,2025-07-31,Company Website,Rejected
+A0372,S242,C024,2025-09-23,LinkedIn,Applied
+A0373,S055,C006,2025-04-25,Referral,Applied
+A0374,S436,C097,2025-01-29,Company Website,Interview
+A0375,S293,C094,2025-05-21,Company Website,Rejected
+A0376,S342,C066,2025-06-20,Referral,Applied
+A0377,S387,C069,2025-03-29,Internshala,Selected
+A0378,S332,C058,2025-08-20,Company Website,Selected
+A0379,S316,C057,2025-05-01,Company Website,Interview
+A0380,S451,C071,2025-03-20,Naukri,Shortlisted
+A0381,S016,C094,2025-12-23,Internshala,Shortlisted
+A0382,S021,C002,2025-03-19,Referral,Applied
+A0383,S492,C082,2025-07-24,LinkedIn,Selected
+A0384,S089,C077,2025-01-21,Referral,Selected
+A0385,S426,C005,2025-02-18,LinkedIn,Rejected
+A0386,S402,C086,2025-03-27,Naukri,Selected
+A0387,S172,C010,2025-10-07,Company Website,Applied
+A0388,S105,C097,2025-12-20,Company Website,Selected
+A0389,S463,C077,2025-11-05,Referral,Interview
+A0390,S238,C066,2025-08-10,Referral,Rejected
+A0391,S404,C043,2025-09-11,Referral,Interview
+A0392,S174,C071,2025-06-29,Referral,Applied
+A0393,S112,C018,2025-06-01,Naukri,Applied
+A0394,S160,C042,2025-02-07,Company Website,Shortlisted
+A0395,S456,C100,2025-08-21,Company Website,Rejected
+A0396,S266,C072,2025-02-02,Company Website,Selected
+A0397,S478,C031,2025-03-22,Referral,Applied
+A0398,S327,C021,2025-05-01,Company Website,Selected
+A0399,S379,C051,2025-05-10,Naukri,Selected
+A0400,S158,C058,2025-07-28,Referral,Applied
+A0401,S201,C086,2025-01-24,Company Website,Applied
+A0402,S410,C085,2025-12-31,LinkedIn,Applied
+A0403,S207,C056,2025-10-08,LinkedIn,Shortlisted
+A0404,S201,C003,2025-12-11,Company Website,Rejected
+A0405,S086,C057,2025-03-16,Internshala,Selected
+A0406,S307,C015,2025-09-05,LinkedIn,Selected
+A0407,S189,C061,2025-09-27,Company Website,Selected
+A0408,S379,C006,2025-05-07,Referral,Applied
+A0409,S228,C099,2025-03-13,Referral,Shortlisted
+A0410,S241,C058,2025-04-02,Internshala,Interview
+A0411,S251,C035,2025-11-17,Company Website,Interview
+A0412,S085,C035,2025-01-29,Company Website,Interview
+A0413,S038,C040,2025-08-01,LinkedIn,Selected
+A0414,S057,C098,2025-12-22,Naukri,Interview
+A0415,S114,C069,2025-02-04,Referral,Rejected
+A0416,S234,C014,2025-12-15,Internshala,Shortlisted
+A0417,S261,C083,2025-05-30,Naukri,Rejected
+A0418,S414,C036,2025-02-03,Naukri,Interview
+A0419,S490,C039,2025-09-24,Company Website,Shortlisted
+A0420,S153,C006,2025-08-06,Referral,Rejected
+A0421,S330,C074,2025-04-15,Company Website,Applied
+A0422,S316,C002,2025-04-06,Internshala,Interview
+A0423,S486,C065,2025-12-04,LinkedIn,Applied
+A0424,S262,C001,2025-07-29,Company Website,Applied
+A0425,S020,C008,2025-02-12,LinkedIn,Interview
+A0426,S278,C036,2025-08-29,Referral,Rejected
+A0427,S419,C069,2025-02-04,Internshala,Selected
+A0428,S204,C016,2025-11-06,Referral,Rejected
+A0429,S089,C017,2025-12-22,Referral,Shortlisted
+A0430,S325,C021,2025-10-18,Naukri,Rejected
+A0431,S200,C093,2025-02-25,Company Website,Interview
+A0432,S158,C012,2025-10-23,Referral,Selected
+A0433,S321,C030,2025-07-07,Internshala,Rejected
+A0434,S421,C079,2025-02-02,Naukri,Applied
+A0435,S483,C074,2025-11-04,Referral,Rejected
+A0436,S185,C065,2025-12-21,Company Website,Applied
+A0437,S334,C095,2025-09-13,Naukri,Rejected
+A0438,S124,C055,2025-11-02,Internshala,Shortlisted
+A0439,S197,C078,2025-09-20,Naukri,Rejected
+A0440,S198,C059,2025-01-31,Referral,Selected
+A0441,S289,C079,2025-12-20,Company Website,Rejected
+A0442,S338,C033,2025-05-18,LinkedIn,Rejected
+A0443,S437,C038,2025-07-14,Company Website,Selected
+A0444,S247,C058,2025-12-26,Company Website,Applied
+A0445,S490,C032,2025-05-20,Naukri,Shortlisted
+A0446,S217,C016,2025-07-28,Referral,Rejected
+A0447,S408,C081,2025-12-23,Company Website,Interview
+A0448,S422,C087,2025-07-02,Company Website,Applied
+A0449,S159,C015,2025-07-25,LinkedIn,Interview
+A0450,S318,C030,2025-09-05,Naukri,Interview
+A0451,S086,C021,2025-01-08,Internshala,Rejected
+A0452,S008,C025,2025-08-21,Internshala,Interview
+A0453,S330,C036,2025-07-14,LinkedIn,Applied
+A0454,S165,C035,2025-08-27,Internshala,Interview
+A0455,S138,C054,2025-01-18,Company Website,Interview
+A0456,S238,C008,2025-11-12,Referral,Shortlisted
+A0457,S159,C033,2025-07-22,LinkedIn,Interview
+A0458,S157,C004,2025-12-22,Referral,Rejected
+A0459,S229,C067,2025-02-14,Company Website,Interview
+A0460,S388,C077,2025-07-16,Internshala,Interview
+A0461,S361,C015,2025-01-18,Company Website,Selected
+A0462,S276,C064,2025-04-08,Naukri,Shortlisted
+A0463,S370,C096,2025-03-19,Company Website,Shortlisted
+A0464,S304,C042,2025-08-13,Naukri,Interview
+A0465,S487,C015,2025-02-13,Referral,Applied
+A0466,S497,C097,2025-12-03,Company Website,Shortlisted
+A0467,S429,C035,2025-11-20,Referral,Selected
+A0468,S242,C012,2025-04-03,Naukri,Selected
+A0469,S231,C034,2025-06-21,Naukri,Rejected
+A0470,S188,C098,2025-06-04,LinkedIn,Rejected
+A0471,S075,C071,2025-08-07,Internshala,Interview
+A0472,S383,C076,2025-02-10,Internshala,Shortlisted
+A0473,S089,C062,2025-01-26,Company Website,Rejected
+A0474,S298,C094,2025-01-21,Referral,Rejected
+A0475,S463,C020,2025-12-05,Internshala,Interview
+A0476,S403,C004,2025-07-21,Company Website,Shortlisted
+A0477,S326,C052,2025-05-23,Internshala,Shortlisted
+A0478,S151,C008,2025-02-16,LinkedIn,Rejected
+A0479,S175,C022,2025-11-21,Internshala,Interview
+A0480,S023,C011,2025-08-03,Internshala,Rejected
+A0481,S216,C099,2025-10-19,Referral,Rejected
+A0482,S490,C088,2025-05-14,Naukri,Rejected
+A0483,S492,C018,2025-07-10,Internshala,Shortlisted
+A0484,S308,C071,2025-05-23,Company Website,Applied
+A0485,S388,C098,2025-11-22,Referral,Shortlisted
+A0486,S177,C077,2025-12-23,Referral,Interview
+A0487,S252,C056,2025-05-21,LinkedIn,Selected
+A0488,S145,C087,2025-12-08,Company Website,Rejected
+A0489,S378,C044,2025-10-27,LinkedIn,Rejected
+A0490,S487,C050,2025-06-22,Naukri,Applied
+A0491,S099,C087,2025-11-14,Naukri,Interview
+A0492,S379,C073,2025-06-17,Company Website,Interview
+A0493,S225,C099,2025-11-02,LinkedIn,Applied
+A0494,S406,C016,2025-10-25,Internshala,Shortlisted
+A0495,S336,C071,2025-11-01,Referral,Rejected
+A0496,S275,C003,2025-03-31,Naukri,Rejected
+A0497,S172,C055,2025-10-24,Internshala,Selected
+A0498,S487,C033,2025-02-23,Company Website,Shortlisted
+A0499,S186,C013,2025-07-03,Internshala,Selected
+A0500,S452,C034,2025-06-12,Referral,Shortlisted
+A0501,S468,C002,2025-08-11,Referral,Shortlisted
+A0502,S128,C014,2025-06-15,Referral,Selected
+A0503,S498,C099,2025-08-06,LinkedIn,Selected
+A0504,S138,C090,2025-08-10,Referral,Interview
+A0505,S272,C079,2025-12-15,Referral,Rejected
+A0506,S175,C071,2025-12-23,Internshala,Shortlisted
+A0507,S499,C054,2025-10-12,LinkedIn,Applied
+A0508,S344,C027,2025-01-19,Naukri,Shortlisted
+A0509,S237,C072,2025-03-05,LinkedIn,Rejected
+A0510,S147,C060,2025-08-28,Naukri,Rejected
+A0511,S018,C018,2025-01-04,Naukri,Shortlisted
+A0512,S010,C075,2025-11-22,Referral,Selected
+A0513,S268,C047,2025-09-14,LinkedIn,Applied
+A0514,S405,C033,2025-11-06,Naukri,Applied
+A0515,S185,C021,2025-12-06,Naukri,Selected
+A0516,S394,C053,2025-01-10,LinkedIn,Applied
+A0517,S435,C083,2025-06-09,Internshala,Rejected
+A0518,S471,C089,2025-12-15,Referral,Applied
+A0519,S037,C065,2025-06-22,Company Website,Selected
+A0520,S114,C037,2025-08-25,Referral,Selected
+A0521,S047,C018,2025-05-14,LinkedIn,Applied
+A0522,S012,C090,2025-01-27,Internshala,Selected
+A0523,S456,C071,2025-09-07,Referral,Shortlisted
+A0524,S289,C010,2025-07-27,Naukri,Shortlisted
+A0525,S157,C053,2025-10-30,LinkedIn,Selected
+A0526,S056,C084,2025-12-26,Company Website,Selected
+A0527,S013,C022,2025-09-14,Referral,Selected
+A0528,S475,C094,2025-04-05,Company Website,Shortlisted
+A0529,S340,C078,2025-05-10,Company Website,Interview
+A0530,S102,C034,2025-07-04,Referral,Shortlisted
+A0531,S442,C048,2025-10-01,LinkedIn,Shortlisted
+A0532,S115,C064,2025-11-15,LinkedIn,Selected
+A0533,S111,C074,2025-08-02,Naukri,Applied
+A0534,S216,C029,2025-07-25,LinkedIn,Shortlisted
+A0535,S102,C050,2025-08-28,Naukri,Applied
+A0536,S258,C066,2025-08-24,Naukri,Shortlisted
+A0537,S053,C093,2025-09-12,Naukri,Shortlisted
+A0538,S467,C069,2025-05-18,LinkedIn,Shortlisted
+A0539,S269,C039,2025-11-12,Referral,Interview
+A0540,S258,C015,2025-03-23,LinkedIn,Rejected
+A0541,S111,C018,2025-03-12,Referral,Interview
+A0542,S116,C051,2025-08-02,Company Website,Rejected
+A0543,S333,C089,2025-06-15,Naukri,Selected
+A0544,S185,C087,2025-07-09,LinkedIn,Applied
+A0545,S388,C078,2025-04-26,LinkedIn,Applied
+A0546,S286,C080,2025-04-26,Company Website,Selected
+A0547,S150,C067,2025-08-05,LinkedIn,Applied
+A0548,S437,C041,2025-04-30,Company Website,Applied
+A0549,S107,C008,2025-12-26,Internshala,Applied
+A0550,S030,C057,2025-08-22,Naukri,Shortlisted
+A0551,S402,C093,2025-04-14,LinkedIn,Applied
+A0552,S096,C063,2025-09-16,Referral,Interview
+A0553,S141,C009,2025-05-01,LinkedIn,Shortlisted
+A0554,S005,C014,2025-07-13,Company Website,Selected
+A0555,S167,C036,2025-10-21,Referral,Applied
+A0556,S042,C027,2025-02-27,Company Website,Rejected
+A0557,S365,C046,2025-10-20,LinkedIn,Interview
+A0558,S272,C089,2025-07-15,Company Website,Selected
+A0559,S097,C018,2025-04-20,Referral,Shortlisted
+A0560,S422,C083,2025-11-13,LinkedIn,Selected
+A0561,S174,C067,2025-11-04,Internshala,Applied
+A0562,S001,C054,2025-09-03,Company Website,Interview
+A0563,S274,C090,2025-04-20,Referral,Applied
+A0564,S433,C068,2025-01-01,Internshala,Rejected
+A0565,S490,C044,2025-10-19,Company Website,Applied
+A0566,S221,C050,2025-01-31,Referral,Applied
+A0567,S400,C048,2025-07-23,Naukri,Applied
+A0568,S068,C073,2025-04-16,Internshala,Shortlisted
+A0569,S222,C014,2025-11-22,Internshala,Applied
+A0570,S273,C064,2025-06-10,Internshala,Rejected
+A0571,S103,C013,2025-08-22,Company Website,Selected
+A0572,S308,C023,2025-07-22,Internshala,Rejected
+A0573,S278,C052,2025-12-24,Internshala,Selected
+A0574,S499,C021,2025-11-25,Internshala,Interview
+A0575,S497,C084,2025-02-23,LinkedIn,Shortlisted
+A0576,S257,C085,2025-04-18,Naukri,Shortlisted
+A0577,S086,C021,2025-02-10,Company Website,Interview
+A0578,S209,C092,2025-06-07,Company Website,Rejected
+A0579,S241,C058,2025-11-06,Naukri,Interview
+A0580,S072,C074,2025-01-13,Company Website,Rejected
+A0581,S251,C083,2025-12-05,Internshala,Selected
+A0582,S150,C078,2025-11-15,Naukri,Interview
+A0583,S377,C066,2025-10-01,LinkedIn,Rejected
+A0584,S004,C022,2025-05-24,LinkedIn,Selected
+A0585,S071,C010,2025-02-22,Internshala,Shortlisted
+A0586,S099,C072,2025-06-25,Naukri,Rejected
+A0587,S207,C078,2025-12-10,Naukri,Selected
+A0588,S334,C043,2025-05-05,LinkedIn,Selected
+A0589,S235,C017,2025-06-27,Internshala,Interview
+A0590,S091,C087,2025-04-04,Referral,Selected
+A0591,S460,C045,2025-10-18,Referral,Applied
+A0592,S480,C047,2025-03-19,Internshala,Interview
+A0593,S474,C018,2025-02-27,Referral,Rejected
+A0594,S220,C072,2025-09-07,Internshala,Selected
+A0595,S344,C050,2025-07-06,Referral,Shortlisted
+A0596,S391,C050,2025-02-05,LinkedIn,Shortlisted
+A0597,S379,C033,2025-02-06,Internshala,Rejected
+A0598,S132,C078,2025-02-23,Naukri,Applied
+A0599,S454,C025,2025-04-04,Company Website,Applied
+A0600,S162,C023,2025-12-31,Internshala,Rejected
+A0601,S287,C029,2025-05-04,Internshala,Selected
+A0602,S259,C044,2025-05-03,Referral,Shortlisted
+A0603,S141,C070,2025-01-04,Internshala,Applied
+A0604,S188,C002,2025-09-14,Company Website,Applied
+A0605,S360,C010,2025-10-02,Internshala,Selected
+A0606,S121,C039,2025-05-10,Referral,Shortlisted
+A0607,S021,C043,2025-08-06,Internshala,Selected
+A0608,S036,C076,2025-03-31,Company Website,Selected
+A0609,S245,C047,2025-12-10,Referral,Shortlisted
+A0610,S252,C065,2025-03-06,Referral,Selected
+A0611,S004,C020,2025-03-23,Naukri,Interview
+A0612,S330,C089,2025-12-24,Referral,Interview
+A0613,S012,C089,2025-10-07,Referral,Interview
+A0614,S218,C005,2025-01-06,LinkedIn,Shortlisted
+A0615,S468,C043,2025-08-05,Naukri,Shortlisted
+A0616,S029,C007,2025-03-07,LinkedIn,Selected
+A0617,S180,C099,2025-01-05,Internshala,Rejected
+A0618,S237,C044,2025-07-07,LinkedIn,Shortlisted
+A0619,S335,C037,2025-07-22,Company Website,Rejected
+A0620,S253,C089,2025-03-24,Naukri,Applied
+A0621,S141,C067,2025-09-05,Naukri,Shortlisted
+A0622,S387,C054,2025-07-25,Naukri,Applied
+A0623,S054,C068,2025-04-06,Internshala,Applied
+A0624,S124,C090,2025-09-28,Naukri,Selected
+A0625,S278,C008,2025-06-25,Company Website,Applied
+A0626,S488,C063,2025-08-04,Naukri,Applied
+A0627,S144,C025,2025-05-19,Referral,Selected
+A0628,S182,C064,2025-04-26,Company Website,Shortlisted
+A0629,S042,C026,2025-11-07,Naukri,Rejected
+A0630,S429,C076,2025-10-19,Company Website,Shortlisted
+A0631,S206,C006,2025-01-01,LinkedIn,Selected
+A0632,S430,C082,2025-05-21,LinkedIn,Interview
+A0633,S074,C095,2025-09-28,Referral,Interview
+A0634,S409,C026,2025-03-24,Referral,Shortlisted
+A0635,S468,C070,2025-10-22,Referral,Selected
+A0636,S390,C064,2025-09-04,Naukri,Selected
+A0637,S173,C084,2025-01-03,Naukri,Interview
+A0638,S125,C048,2025-05-19,Naukri,Shortlisted
+A0639,S041,C068,2025-02-25,Company Website,Selected
+A0640,S302,C045,2025-01-13,Company Website,Applied
+A0641,S368,C095,2025-10-18,Company Website,Applied
+A0642,S191,C054,2025-07-27,Referral,Shortlisted
+A0643,S204,C068,2025-01-23,Internshala,Shortlisted
+A0644,S022,C030,2025-07-28,Referral,Rejected
+A0645,S012,C072,2025-03-01,Company Website,Shortlisted
+A0646,S257,C027,2025-06-18,Referral,Interview
+A0647,S462,C042,2025-04-24,Internshala,Rejected
+A0648,S046,C100,2025-11-18,LinkedIn,Selected
+A0649,S029,C035,2025-05-16,Internshala,Rejected
+A0650,S308,C028,2025-08-12,Internshala,Applied
+A0651,S041,C020,2025-03-17,Internshala,Rejected
+A0652,S498,C023,2025-09-14,Internshala,Shortlisted
+A0653,S211,C027,2025-01-29,Naukri,Interview
+A0654,S348,C008,2025-03-04,Company Website,Applied
+A0655,S228,C005,2025-02-13,Company Website,Selected
+A0656,S391,C022,2025-03-13,LinkedIn,Shortlisted
+A0657,S499,C022,2025-03-07,Naukri,Rejected
+A0658,S390,C069,2025-11-14,Internshala,Applied
+A0659,S387,C087,2025-12-05,Company Website,Interview
+A0660,S133,C100,2025-07-04,Naukri,Selected
+A0661,S487,C043,2025-11-21,LinkedIn,Selected
+A0662,S330,C071,2025-05-16,Naukri,Selected
+A0663,S317,C090,2025-10-23,Referral,Rejected
+A0664,S124,C082,2025-03-30,Internshala,Interview
+A0665,S066,C055,2025-10-29,Naukri,Shortlisted
+A0666,S216,C019,2025-02-07,LinkedIn,Applied
+A0667,S336,C060,2025-10-29,Company Website,Selected
+A0668,S474,C047,2025-07-06,Internshala,Interview
+A0669,S175,C093,2025-01-12,Internshala,Interview
+A0670,S219,C054,2025-04-12,Company Website,Shortlisted
+A0671,S369,C077,2025-12-05,LinkedIn,Shortlisted
+A0672,S491,C037,2025-04-24,Company Website,Applied
+A0673,S038,C072,2025-11-25,Company Website,Interview
+A0674,S290,C074,2025-06-23,Company Website,Applied
+A0675,S069,C082,2025-01-17,Company Website,Shortlisted
+A0676,S435,C013,2025-07-08,LinkedIn,Shortlisted
+A0677,S343,C099,2025-04-09,LinkedIn,Shortlisted
+A0678,S407,C011,2025-01-21,Company Website,Rejected
+A0679,S017,C079,2025-08-27,Referral,Selected
+A0680,S362,C064,2025-08-24,Referral,Selected
+A0681,S146,C064,2025-01-23,Naukri,Rejected
+A0682,S406,C069,2025-02-13,Referral,Shortlisted
+A0683,S150,C004,2025-01-05,Company Website,Applied
+A0684,S308,C029,2025-12-10,Referral,Applied
+A0685,S389,C027,2025-02-20,Company Website,Shortlisted
+A0686,S017,C057,2025-11-25,Internshala,Interview
+A0687,S459,C068,2025-09-08,Internshala,Interview
+A0688,S424,C054,2025-05-18,Naukri,Shortlisted
+A0689,S041,C099,2025-11-10,Company Website,Interview
+A0690,S296,C040,2025-02-13,LinkedIn,Selected
+A0691,S284,C003,2025-01-14,Naukri,Rejected
+A0692,S222,C007,2025-04-16,Internshala,Applied
+A0693,S386,C071,2025-10-07,LinkedIn,Applied
+A0694,S138,C073,2025-03-25,Referral,Interview
+A0695,S110,C098,2025-11-09,Internshala,Interview
+A0696,S436,C019,2025-09-19,Naukri,Shortlisted
+A0697,S069,C042,2025-07-05,Naukri,Rejected
+A0698,S498,C076,2025-01-21,Internshala,Selected
+A0699,S385,C064,2025-04-05,Company Website,Rejected
+A0700,S051,C018,2025-09-21,LinkedIn,Applied
+A0701,S315,C039,2025-08-28,Naukri,Interview
+A0702,S224,C014,2025-08-12,LinkedIn,Applied
+A0703,S321,C035,2025-06-03,Internshala,Interview
+A0704,S390,C080,2025-10-09,Company Website,Rejected
+A0705,S432,C097,2025-08-02,Company Website,Interview
+A0706,S216,C024,2025-09-05,Naukri,Selected
+A0707,S365,C030,2025-11-02,Company Website,Selected
+A0708,S322,C039,2025-07-31,Referral,Shortlisted
+A0709,S221,C047,2025-09-21,Company Website,Rejected
+A0710,S383,C087,2025-09-11,LinkedIn,Selected
+A0711,S206,C072,2025-04-29,Internshala,Shortlisted
+A0712,S492,C025,2025-08-09,Internshala,Interview
+A0713,S454,C090,2025-11-01,Internshala,Shortlisted
+A0714,S443,C090,2025-09-13,Naukri,Selected
+A0715,S178,C042,2025-11-05,LinkedIn,Applied
+A0716,S430,C028,2025-09-10,Naukri,Selected
+A0717,S014,C063,2025-12-10,Naukri,Shortlisted
+A0718,S272,C089,2025-06-26,Naukri,Shortlisted
+A0719,S101,C018,2025-01-12,Naukri,Rejected
+A0720,S234,C069,2025-03-04,Internshala,Rejected
+A0721,S109,C038,2025-08-30,Company Website,Rejected
+A0722,S291,C082,2025-09-16,Referral,Interview
+A0723,S148,C077,2025-06-09,LinkedIn,Shortlisted
+A0724,S132,C057,2025-07-19,LinkedIn,Rejected
+A0725,S331,C079,2025-09-25,LinkedIn,Selected
+A0726,S074,C096,2025-07-24,Internshala,Applied
+A0727,S336,C044,2025-04-03,LinkedIn,Interview
+A0728,S166,C007,2025-03-18,Referral,Selected
+A0729,S133,C027,2025-05-29,Naukri,Rejected
+A0730,S486,C030,2025-11-07,Internshala,Applied
+A0731,S043,C027,2025-11-05,Company Website,Applied
+A0732,S206,C044,2025-05-30,Company Website,Shortlisted
+A0733,S233,C050,2025-08-13,Company Website,Rejected
+A0734,S385,C086,2025-10-20,Company Website,Shortlisted
+A0735,S309,C091,2025-04-10,Naukri,Shortlisted
+A0736,S120,C054,2025-04-07,Company Website,Selected
+A0737,S399,C076,2025-12-19,Naukri,Selected
+A0738,S313,C024,2025-06-21,LinkedIn,Interview
+A0739,S172,C012,2025-01-04,Naukri,Rejected
+A0740,S499,C064,2025-02-05,LinkedIn,Applied
+A0741,S320,C088,2025-01-27,Referral,Shortlisted
+A0742,S399,C012,2025-08-24,Internshala,Interview
+A0743,S202,C050,2025-01-26,Company Website,Rejected
+A0744,S325,C032,2025-01-11,Naukri,Applied
+A0745,S057,C072,2025-09-27,Referral,Shortlisted
+A0746,S169,C054,2025-07-31,Naukri,Selected
+A0747,S198,C002,2025-02-19,LinkedIn,Interview
+A0748,S180,C019,2025-09-24,Naukri,Selected
+A0749,S356,C071,2025-12-26,Referral,Shortlisted
+A0750,S246,C039,2025-01-29,Company Website,Interview
+A0751,S168,C034,2025-04-22,Internshala,Applied
+A0752,S068,C060,2025-06-13,Company Website,Interview
+A0753,S216,C074,2025-11-26,Internshala,Rejected
+A0754,S188,C088,2025-07-12,Company Website,Applied
+A0755,S160,C095,2025-08-26,Company Website,Shortlisted
+A0756,S058,C093,2025-03-17,LinkedIn,Shortlisted
+A0757,S320,C012,2025-11-10,Referral,Rejected
+A0758,S237,C012,2025-01-04,Naukri,Rejected
+A0759,S435,C062,2025-05-20,Internshala,Shortlisted
+A0760,S285,C019,2025-07-07,Referral,Applied
+A0761,S198,C057,2025-03-15,Referral,Applied
+A0762,S199,C092,2025-02-07,Company Website,Rejected
+A0763,S043,C015,2025-07-30,LinkedIn,Applied
+A0764,S292,C042,2025-08-08,Naukri,Rejected
+A0765,S124,C036,2025-03-26,Naukri,Applied
+A0766,S019,C056,2025-07-30,LinkedIn,Rejected
+A0767,S018,C002,2025-04-27,Naukri,Rejected
+A0768,S192,C027,2025-02-17,Referral,Rejected
+A0769,S431,C031,2025-02-23,Naukri,Applied
+A0770,S284,C073,2025-06-03,Internshala,Applied
+A0771,S069,C027,2025-11-01,Company Website,Interview
+A0772,S062,C096,2025-09-16,Naukri,Rejected
+A0773,S166,C067,2025-03-04,Referral,Applied
+A0774,S495,C100,2025-09-12,Naukri,Selected
+A0775,S108,C040,2025-03-28,Naukri,Rejected
+A0776,S109,C024,2025-12-07,Naukri,Applied
+A0777,S430,C088,2025-06-22,Internshala,Shortlisted
+A0778,S146,C052,2025-08-18,Referral,Interview
+A0779,S097,C085,2025-06-17,LinkedIn,Applied
+A0780,S079,C026,2025-08-31,Internshala,Shortlisted
+A0781,S156,C096,2025-03-10,Naukri,Selected
+A0782,S078,C073,2025-08-01,Internshala,Interview
+A0783,S046,C091,2025-09-07,Referral,Selected
+A0784,S490,C022,2025-09-27,LinkedIn,Interview
+A0785,S114,C098,2025-06-26,Referral,Shortlisted
+A0786,S297,C016,2025-10-07,Referral,Applied
+A0787,S086,C038,2025-01-16,Internshala,Selected
+A0788,S399,C092,2025-07-11,LinkedIn,Applied
+A0789,S195,C068,2025-09-18,Company Website,Interview
+A0790,S401,C024,2025-12-22,LinkedIn,Applied
+A0791,S074,C096,2025-07-28,Naukri,Applied
+A0792,S498,C085,2025-09-30,Company Website,Selected
+A0793,S321,C022,2025-10-21,Internshala,Interview
+A0794,S316,C001,2025-08-24,LinkedIn,Rejected
+A0795,S248,C077,2025-05-15,LinkedIn,Interview
+A0796,S139,C047,2025-12-22,Internshala,Applied
+A0797,S174,C018,2025-10-17,Naukri,Applied
+A0798,S104,C067,2025-11-29,Naukri,Interview
+A0799,S347,C041,2025-07-05,LinkedIn,Interview
+A0800,S059,C096,2025-05-14,LinkedIn,Shortlisted
+A0801,S403,C037,2025-05-04,LinkedIn,Shortlisted
+A0802,S496,C068,2025-04-24,Company Website,Rejected
+A0803,S222,C026,2025-07-26,Internshala,Selected
+A0804,S108,C040,2025-02-03,Naukri,Shortlisted
+A0805,S127,C014,2025-08-27,Referral,Rejected
+A0806,S129,C033,2025-04-27,Internshala,Applied
+A0807,S234,C070,2025-04-08,Internshala,Rejected
+A0808,S104,C039,2025-01-14,LinkedIn,Shortlisted
+A0809,S070,C060,2025-07-24,Internshala,Applied
+A0810,S214,C037,2025-07-31,Internshala,Applied
+A0811,S315,C038,2025-05-12,Referral,Rejected
+A0812,S397,C039,2025-05-15,Naukri,Shortlisted
+A0813,S366,C093,2025-12-04,Company Website,Selected
+A0814,S455,C056,2025-06-08,Company Website,Shortlisted
+A0815,S489,C059,2025-10-22,LinkedIn,Interview
+A0816,S179,C033,2025-09-29,Internshala,Interview
+A0817,S349,C098,2025-02-04,Company Website,Selected
+A0818,S022,C022,2025-05-31,Naukri,Interview
+A0819,S396,C067,2025-02-16,Internshala,Rejected
+A0820,S270,C039,2025-03-16,Referral,Interview
+A0821,S216,C071,2025-11-05,Referral,Shortlisted
+A0822,S300,C047,2025-12-10,Internshala,Interview
+A0823,S064,C047,2025-09-17,Company Website,Selected
+A0824,S265,C069,2025-08-30,Internshala,Interview
+A0825,S267,C061,2025-05-10,LinkedIn,Interview
+A0826,S126,C027,2025-05-21,LinkedIn,Applied
+A0827,S333,C081,2025-05-27,Company Website,Selected
+A0828,S272,C002,2025-10-02,Referral,Shortlisted
+A0829,S175,C036,2025-07-10,LinkedIn,Shortlisted
+A0830,S369,C043,2025-06-07,LinkedIn,Interview
+A0831,S037,C021,2025-06-26,Referral,Shortlisted
+A0832,S300,C054,2025-07-10,Naukri,Rejected
+A0833,S439,C046,2025-08-25,LinkedIn,Rejected
+A0834,S357,C032,2025-11-23,Company Website,Applied
+A0835,S214,C041,2025-01-30,Internshala,Interview
+A0836,S469,C011,2025-04-10,Naukri,Selected
+A0837,S215,C012,2025-11-22,Internshala,Interview
+A0838,S017,C078,2025-08-12,Naukri,Rejected
+A0839,S309,C098,2025-08-22,Naukri,Rejected
+A0840,S443,C026,2025-01-03,Referral,Shortlisted
+A0841,S237,C092,2025-11-06,Internshala,Rejected
+A0842,S408,C076,2025-10-05,Referral,Selected
+A0843,S054,C061,2025-12-27,Internshala,Shortlisted
+A0844,S114,C062,2025-10-11,Company Website,Shortlisted
+A0845,S305,C073,2025-08-20,Company Website,Interview
+A0846,S247,C003,2025-01-05,Internshala,Interview
+A0847,S429,C046,2025-10-08,Company Website,Selected
+A0848,S491,C097,2025-10-27,LinkedIn,Interview
+A0849,S316,C018,2025-06-23,Company Website,Shortlisted
+A0850,S193,C096,2025-04-02,LinkedIn,Applied
+A0851,S176,C094,2025-07-03,Referral,Interview
+A0852,S463,C078,2025-01-21,Internshala,Rejected
+A0853,S026,C048,2025-09-27,Internshala,Interview
+A0854,S245,C073,2025-12-25,Naukri,Rejected
+A0855,S493,C017,2025-01-18,Company Website,Selected
+A0856,S158,C077,2025-06-24,LinkedIn,Applied
+A0857,S050,C058,2025-11-12,Company Website,Applied
+A0858,S305,C068,2025-03-12,Company Website,Rejected
+A0859,S459,C077,2025-10-08,Referral,Rejected
+A0860,S278,C035,2025-10-30,Naukri,Shortlisted
+A0861,S053,C002,2025-03-21,Naukri,Selected
+A0862,S380,C056,2025-11-09,Company Website,Interview
+A0863,S244,C002,2025-07-08,Internshala,Rejected
+A0864,S112,C021,2025-10-06,Company Website,Rejected
+A0865,S475,C100,2025-04-08,LinkedIn,Applied
+A0866,S050,C056,2025-02-22,Internshala,Rejected
+A0867,S326,C068,2025-06-19,Internshala,Selected
+A0868,S070,C003,2025-09-25,Referral,Selected
+A0869,S096,C019,2025-03-07,Referral,Rejected
+A0870,S182,C007,2025-07-20,Naukri,Applied
+A0871,S097,C068,2025-07-29,Naukri,Applied
+A0872,S226,C068,2025-04-04,Referral,Selected
+A0873,S209,C070,2025-05-17,Naukri,Interview
+A0874,S398,C078,2025-12-27,LinkedIn,Applied
+A0875,S466,C005,2025-10-16,LinkedIn,Shortlisted
+A0876,S452,C058,2025-06-05,LinkedIn,Selected
+A0877,S406,C073,2025-05-22,Internshala,Interview
+A0878,S369,C087,2025-01-24,Company Website,Applied
+A0879,S305,C004,2025-09-23,Company Website,Interview
+A0880,S492,C074,2025-09-25,Internshala,Interview
+A0881,S232,C067,2025-07-16,Company Website,Selected
+A0882,S486,C042,2025-07-04,Company Website,Shortlisted
+A0883,S377,C029,2025-07-30,LinkedIn,Rejected
+A0884,S368,C095,2025-08-03,Naukri,Interview
+A0885,S029,C007,2025-07-13,Referral,Applied
+A0886,S001,C049,2025-01-14,Naukri,Shortlisted
+A0887,S433,C027,2025-01-12,LinkedIn,Rejected
+A0888,S260,C061,2025-08-18,Company Website,Selected
+A0889,S151,C032,2025-09-09,Naukri,Selected
+A0890,S144,C010,2025-03-29,LinkedIn,Applied
+A0891,S332,C054,2025-12-16,Internshala,Rejected
+A0892,S264,C061,2025-08-10,Internshala,Interview
+A0893,S134,C028,2025-10-19,Naukri,Rejected
+A0894,S166,C062,2025-12-13,Naukri,Selected
+A0895,S373,C098,2025-09-05,Company Website,Applied
+A0896,S306,C056,2025-08-12,LinkedIn,Rejected
+A0897,S190,C050,2025-05-11,Internshala,Rejected
+A0898,S155,C033,2025-10-03,Internshala,Selected
+A0899,S223,C001,2025-08-08,Internshala,Applied
+A0900,S337,C026,2025-06-26,Referral,Shortlisted
+A0901,S085,C063,2025-12-19,Referral,Applied
+A0902,S225,C013,2025-08-23,LinkedIn,Shortlisted
+A0903,S399,C039,2025-03-02,Referral,Applied
+A0904,S076,C045,2025-11-24,Internshala,Selected
+A0905,S021,C014,2025-10-21,Company Website,Rejected
+A0906,S389,C042,2025-11-17,LinkedIn,Shortlisted
+A0907,S445,C040,2025-11-01,Referral,Selected
+A0908,S481,C015,2025-07-03,Internshala,Applied
+A0909,S379,C078,2025-03-30,Internshala,Selected
+A0910,S355,C030,2025-04-08,Referral,Selected
+A0911,S051,C032,2025-09-27,LinkedIn,Rejected
+A0912,S378,C085,2025-06-02,Naukri,Interview
+A0913,S114,C027,2025-06-26,Referral,Rejected
+A0914,S024,C057,2025-02-02,Internshala,Selected
+A0915,S249,C065,2025-08-25,Naukri,Selected
+A0916,S031,C066,2025-05-13,Referral,Selected
+A0917,S442,C079,2025-05-31,Internshala,Shortlisted
+A0918,S455,C041,2025-12-04,Referral,Shortlisted
+A0919,S098,C054,2025-07-15,Naukri,Interview
+A0920,S084,C082,2025-04-21,LinkedIn,Interview
+A0921,S292,C077,2025-02-25,Referral,Interview
+A0922,S144,C059,2025-04-23,Naukri,Shortlisted
+A0923,S392,C011,2025-02-27,Naukri,Interview
+A0924,S249,C053,2025-04-29,Referral,Interview
+A0925,S411,C050,2025-09-06,Company Website,Rejected
+A0926,S478,C084,2025-06-29,Internshala,Selected
+A0927,S327,C031,2025-08-29,Referral,Shortlisted
+A0928,S321,C028,2025-06-16,Company Website,Interview
+A0929,S347,C007,2025-12-15,Internshala,Applied
+A0930,S405,C055,2025-12-05,Referral,Rejected
+A0931,S058,C025,2025-01-20,Naukri,Interview
+A0932,S335,C010,2025-01-23,LinkedIn,Interview
+A0933,S388,C054,2025-05-06,Naukri,Rejected
+A0934,S416,C034,2025-06-15,Company Website,Interview
+A0935,S097,C065,2025-01-07,LinkedIn,Shortlisted
+A0936,S443,C038,2025-05-25,Company Website,Selected
+A0937,S188,C092,2025-12-06,LinkedIn,Interview
+A0938,S452,C088,2025-07-16,LinkedIn,Selected
+A0939,S467,C037,2025-07-05,Internshala,Selected
+A0940,S472,C009,2025-07-22,Referral,Shortlisted
+A0941,S109,C006,2025-08-29,Internshala,Shortlisted
+A0942,S200,C028,2025-10-20,Company Website,Rejected
+A0943,S246,C016,2026-01-01,Internshala,Selected
+A0944,S482,C086,2025-07-29,Naukri,Rejected
+A0945,S132,C095,2025-11-16,LinkedIn,Interview
+A0946,S315,C099,2025-05-29,Internshala,Interview
+A0947,S252,C050,2025-02-08,LinkedIn,Rejected
+A0948,S182,C068,2025-08-16,Naukri,Rejected
+A0949,S485,C082,2025-06-02,Internshala,Rejected
+A0950,S356,C073,2025-05-15,Referral,Selected
+A0951,S443,C079,2025-10-28,Referral,Interview
+A0952,S443,C011,2026-01-01,Company Website,Rejected
+A0953,S438,C035,2025-09-26,Company Website,Shortlisted
+A0954,S497,C006,2025-12-01,Referral,Applied
+A0955,S272,C100,2025-01-26,Naukri,Selected
+A0956,S153,C065,2025-12-19,LinkedIn,Interview
+A0957,S443,C090,2025-08-02,LinkedIn,Shortlisted
+A0958,S063,C065,2025-07-04,Naukri,Applied
+A0959,S079,C068,2025-05-29,LinkedIn,Shortlisted
+A0960,S425,C090,2025-12-16,Referral,Shortlisted
+A0961,S439,C038,2025-08-08,Company Website,Selected
+A0962,S039,C052,2025-10-02,Internshala,Rejected
+A0963,S107,C031,2025-12-14,Referral,Applied
+A0964,S322,C038,2025-06-29,Referral,Rejected
+A0965,S137,C098,2025-10-07,Naukri,Interview
+A0966,S479,C060,2025-09-11,Naukri,Applied
+A0967,S006,C037,2025-11-16,Naukri,Shortlisted
+A0968,S477,C001,2025-04-06,Company Website,Selected
+A0969,S223,C062,2025-01-14,Company Website,Interview
+A0970,S128,C029,2025-07-20,Company Website,Shortlisted
+A0971,S095,C030,2025-02-21,Naukri,Interview
+A0972,S429,C005,2025-10-09,Naukri,Rejected
+A0973,S436,C045,2025-09-16,Internshala,Shortlisted
+A0974,S142,C048,2025-12-16,Naukri,Shortlisted
+A0975,S443,C090,2025-06-04,Company Website,Selected
+A0976,S013,C039,2025-08-26,LinkedIn,Interview
+A0977,S446,C091,2025-03-06,Company Website,Rejected
+A0978,S142,C019,2025-08-01,Internshala,Applied
+A0979,S294,C060,2025-06-29,LinkedIn,Shortlisted
+A0980,S014,C049,2025-07-29,Company Website,Shortlisted
+A0981,S468,C078,2025-03-14,Internshala,Applied
+A0982,S391,C023,2025-09-14,Internshala,Interview
+A0983,S140,C074,2025-08-06,Internshala,Applied
+A0984,S100,C023,2025-01-01,Internshala,Interview
+A0985,S278,C046,2025-06-06,LinkedIn,Selected
+A0986,S355,C090,2025-09-05,Naukri,Rejected
+A0987,S049,C003,2025-11-26,LinkedIn,Rejected
+A0988,S033,C011,2025-09-07,Referral,Interview
+A0989,S122,C093,2025-10-31,Naukri,Shortlisted
+A0990,S004,C026,2025-08-06,LinkedIn,Selected
+A0991,S300,C038,2025-01-03,Company Website,Shortlisted
+A0992,S454,C096,2025-12-29,Naukri,Selected
+A0993,S002,C064,2025-06-10,Referral,Shortlisted
+A0994,S061,C014,2025-01-07,LinkedIn,Interview
+A0995,S141,C052,2025-08-05,LinkedIn,Applied
+A0996,S024,C071,2025-11-26,Internshala,Rejected
+A0997,S216,C010,2025-09-07,LinkedIn,Interview
+A0998,S386,C023,2025-03-21,Referral,Rejected
+A0999,S257,C088,2025-03-15,Internshala,Shortlisted
+A1000,S090,C059,2025-02-23,LinkedIn,Interview
+A1001,S043,C029,2025-03-15,Internshala,Selected
+A1002,S093,C092,2025-12-19,Company Website,Rejected
+A1003,S445,C022,2025-09-04,LinkedIn,Interview
+A1004,S421,C010,2025-05-27,Referral,Applied
+A1005,S012,C094,2025-04-21,Referral,Rejected
+A1006,S244,C002,2025-05-07,Internshala,Applied
+A1007,S401,C040,2025-02-12,Naukri,Applied
+A1008,S049,C023,2025-02-24,Referral,Shortlisted
+A1009,S332,C030,2025-05-09,Internshala,Shortlisted
+A1010,S234,C099,2025-03-06,LinkedIn,Selected
+A1011,S063,C063,2025-11-20,Naukri,Selected
+A1012,S385,C090,2025-11-20,Referral,Applied
+A1013,S183,C055,2025-03-13,Referral,Selected
+A1014,S173,C065,2025-11-20,Referral,Rejected
+A1015,S326,C095,2025-05-06,Naukri,Interview
+A1016,S332,C073,2025-02-06,Internshala,Applied
+A1017,S155,C071,2025-09-21,Internshala,Interview
+A1018,S100,C017,2025-05-22,Internshala,Selected
+A1019,S453,C092,2025-01-01,LinkedIn,Interview
+A1020,S028,C094,2025-03-05,Naukri,Interview
+A1021,S028,C003,2025-07-06,Internshala,Applied
+A1022,S377,C088,2025-02-04,Company Website,Selected
+A1023,S274,C052,2025-05-03,Referral,Selected
+A1024,S332,C032,2025-10-30,Referral,Applied
+A1025,S007,C074,2025-08-14,Internshala,Applied
+A1026,S177,C013,2025-05-25,Company Website,Shortlisted
+A1027,S122,C054,2025-03-30,LinkedIn,Applied
+A1028,S099,C095,2025-11-03,LinkedIn,Applied
+A1029,S388,C015,2025-05-17,Naukri,Rejected
+A1030,S181,C053,2025-03-19,Company Website,Interview
+A1031,S198,C083,2025-07-01,Naukri,Interview
+A1032,S101,C050,2025-10-16,LinkedIn,Rejected
+A1033,S477,C031,2025-09-18,Company Website,Rejected
+A1034,S365,C094,2025-03-09,Company Website,Applied
+A1035,S310,C008,2025-09-01,Naukri,Interview
+A1036,S182,C077,2025-08-12,LinkedIn,Applied
+A1037,S453,C033,2025-01-21,Referral,Shortlisted
+A1038,S011,C036,2025-06-12,Referral,Rejected
+A1039,S256,C041,2025-12-11,Company Website,Interview
+A1040,S455,C009,2025-07-26,Internshala,Applied
+A1041,S229,C062,2025-03-24,Naukri,Rejected
+A1042,S185,C096,2025-08-16,Company Website,Applied
+A1043,S387,C013,2025-11-23,Referral,Shortlisted
+A1044,S025,C043,2025-05-06,Company Website,Applied
+A1045,S096,C042,2025-10-26,Company Website,Rejected
+A1046,S366,C035,2025-01-19,Referral,Selected
+A1047,S139,C058,2025-01-06,Internshala,Interview
+A1048,S484,C072,2025-10-28,Internshala,Applied
+A1049,S411,C063,2025-05-19,Company Website,Interview
+A1050,S417,C038,2025-07-29,Company Website,Selected
+A1051,S237,C070,2025-03-28,Internshala,Interview
+A1052,S259,C095,2025-03-27,Naukri,Rejected
+A1053,S470,C027,2025-07-05,Referral,Rejected
+A1054,S051,C081,2025-01-15,Referral,Interview
+A1055,S470,C056,2025-06-14,Internshala,Selected
+A1056,S332,C018,2025-09-23,Internshala,Selected
+A1057,S255,C038,2025-12-01,Internshala,Selected
+A1058,S065,C091,2025-05-07,Company Website,Applied
+A1059,S035,C063,2025-05-30,Internshala,Shortlisted
+A1060,S265,C070,2025-09-25,Internshala,Shortlisted
+A1061,S420,C042,2025-10-04,Naukri,Selected
+A1062,S370,C068,2025-12-22,Company Website,Shortlisted
+A1063,S160,C020,2025-05-31,Internshala,Interview
+A1064,S323,C019,2025-04-05,Company Website,Selected
+A1065,S168,C072,2025-09-05,Referral,Rejected
+A1066,S480,C066,2025-10-22,Company Website,Interview
+A1067,S316,C051,2025-05-29,Internshala,Interview
+A1068,S337,C092,2025-06-18,Naukri,Interview
+A1069,S265,C071,2025-06-28,Internshala,Interview
+A1070,S153,C015,2025-07-18,Company Website,Interview
+A1071,S202,C089,2025-06-21,Internshala,Applied
+A1072,S175,C045,2025-12-27,LinkedIn,Applied
+A1073,S057,C047,2025-02-19,LinkedIn,Selected
+A1074,S146,C069,2025-06-18,Naukri,Shortlisted
+A1075,S193,C063,2025-05-29,Internshala,Interview
+A1076,S211,C028,2025-06-11,Referral,Interview
+A1077,S190,C004,2025-10-26,Company Website,Rejected
+A1078,S028,C022,2025-06-30,Naukri,Rejected
+A1079,S346,C048,2025-11-18,Company Website,Rejected
+A1080,S439,C084,2025-01-25,Naukri,Selected
+A1081,S301,C031,2025-02-13,Company Website,Interview
+A1082,S294,C074,2025-04-23,Referral,Applied
+A1083,S303,C079,2025-02-20,Naukri,Applied
+A1084,S036,C047,2025-07-21,Company Website,Applied
+A1085,S241,C037,2025-09-23,Referral,Interview
+A1086,S464,C017,2025-08-13,Naukri,Applied
+A1087,S174,C021,2025-06-25,Naukri,Rejected
+A1088,S207,C002,2025-03-18,LinkedIn,Rejected
+A1089,S434,C023,2025-07-08,Naukri,Applied
+A1090,S076,C048,2025-05-10,Naukri,Interview
+A1091,S042,C089,2025-04-11,Company Website,Rejected
+A1092,S237,C040,2025-05-20,LinkedIn,Selected
+A1093,S409,C002,2025-05-17,Naukri,Applied
+A1094,S143,C048,2025-07-20,Naukri,Interview
+A1095,S391,C014,2025-07-26,Referral,Rejected
+A1096,S401,C081,2025-05-20,Naukri,Rejected
+A1097,S476,C052,2025-01-28,Naukri,Shortlisted
+A1098,S221,C010,2025-11-14,Referral,Interview
+A1099,S089,C008,2025-05-08,Internshala,Selected
+A1100,S198,C002,2025-02-12,Company Website,Rejected
+A1101,S432,C033,2025-04-11,Company Website,Applied
+A1102,S200,C051,2025-09-05,Referral,Shortlisted
+A1103,S382,C095,2025-12-05,Referral,Rejected
+A1104,S344,C089,2025-03-28,Naukri,Applied
+A1105,S365,C023,2025-04-05,Naukri,Shortlisted
+A1106,S024,C034,2025-03-05,Referral,Applied
+A1107,S172,C098,2025-10-22,Internshala,Rejected
+A1108,S138,C007,2025-06-07,Internshala,Interview
+A1109,S178,C074,2025-02-26,Company Website,Interview
+A1110,S101,C002,2025-12-15,Internshala,Rejected
+A1111,S250,C023,2025-10-02,Referral,Applied
+A1112,S467,C018,2025-11-05,Internshala,Applied
+A1113,S363,C062,2025-09-24,Naukri,Shortlisted
+A1114,S172,C087,2025-09-20,Referral,Applied
+A1115,S318,C074,2025-10-13,Internshala,Selected
+A1116,S104,C058,2025-05-01,Internshala,Shortlisted
+A1117,S053,C031,2025-01-20,Naukri,Interview
+A1118,S061,C076,2025-04-03,LinkedIn,Interview
+A1119,S267,C087,2025-04-12,LinkedIn,Applied
+A1120,S330,C047,2025-04-17,LinkedIn,Rejected
+A1121,S484,C030,2025-09-01,Company Website,Shortlisted
+A1122,S425,C046,2025-09-01,Company Website,Selected
+A1123,S275,C058,2025-07-07,Company Website,Interview
+A1124,S142,C024,2025-01-21,Naukri,Rejected
+A1125,S301,C042,2025-11-30,LinkedIn,Selected
+A1126,S153,C026,2025-08-28,Internshala,Rejected
+A1127,S117,C002,2025-07-17,Internshala,Rejected
+A1128,S263,C015,2025-03-23,Referral,Shortlisted
+A1129,S381,C018,2025-11-26,Naukri,Applied
+A1130,S469,C012,2025-09-29,LinkedIn,Selected
+A1131,S150,C008,2025-11-05,LinkedIn,Applied
+A1132,S382,C074,2025-06-09,Referral,Rejected
+A1133,S331,C014,2025-11-01,Internshala,Interview
+A1134,S468,C074,2025-06-29,Company Website,Shortlisted
+A1135,S389,C097,2025-06-09,Company Website,Selected
+A1136,S468,C024,2025-02-21,Referral,Interview
+A1137,S028,C092,2025-02-08,Naukri,Selected
+A1138,S223,C013,2025-04-30,Internshala,Rejected
+A1139,S388,C084,2025-01-30,Internshala,Rejected
+A1140,S246,C071,2025-08-31,Naukri,Selected
+A1141,S048,C088,2025-06-25,Internshala,Interview
+A1142,S016,C096,2025-09-17,Internshala,Interview
+A1143,S495,C060,2025-03-06,Referral,Rejected
+A1144,S353,C019,2025-10-22,Company Website,Interview
+A1145,S432,C029,2025-07-11,Company Website,Selected
+A1146,S247,C003,2025-06-26,Naukri,Rejected
+A1147,S210,C029,2025-08-28,Naukri,Applied
+A1148,S424,C074,2025-09-01,Internshala,Rejected
+A1149,S234,C068,2025-10-11,LinkedIn,Interview
+A1150,S123,C098,2025-07-30,Internshala,Selected
+A1151,S331,C096,2025-01-18,Naukri,Applied
+A1152,S102,C026,2025-04-23,Company Website,Rejected
+A1153,S435,C003,2025-11-09,Company Website,Shortlisted
+A1154,S487,C085,2025-12-30,Naukri,Selected
+A1155,S427,C059,2025-03-19,Internshala,Rejected
+A1156,S195,C060,2025-07-21,Referral,Rejected
+A1157,S218,C092,2025-04-11,Company Website,Shortlisted
+A1158,S063,C086,2025-01-04,Company Website,Interview
+A1159,S062,C005,2025-04-01,Internshala,Shortlisted
+A1160,S047,C094,2025-07-21,Company Website,Rejected
+A1161,S450,C070,2025-10-14,Internshala,Rejected
+A1162,S405,C017,2025-10-14,Naukri,Rejected
+A1163,S097,C082,2025-05-22,Referral,Applied
+A1164,S151,C006,2025-02-15,Referral,Selected
+A1165,S041,C043,2025-11-08,Referral,Selected
+A1166,S391,C031,2025-07-06,Company Website,Applied
+A1167,S281,C004,2025-11-26,Naukri,Shortlisted
+A1168,S480,C071,2025-12-11,Company Website,Shortlisted
+A1169,S143,C068,2025-10-17,Naukri,Shortlisted
+A1170,S406,C042,2025-12-28,Referral,Selected
+A1171,S169,C100,2025-01-25,Company Website,Rejected
+A1172,S093,C050,2025-02-20,Naukri,Shortlisted
+A1173,S068,C072,2025-08-05,Internshala,Interview
+A1174,S149,C087,2025-01-13,Referral,Selected
+A1175,S246,C007,2025-09-21,Internshala,Applied
+A1176,S055,C004,2025-01-21,Internshala,Selected
+A1177,S265,C025,2025-10-26,Company Website,Rejected
+A1178,S327,C001,2025-06-04,Internshala,Interview
+A1179,S270,C004,2025-12-26,Naukri,Selected
+A1180,S093,C063,2025-01-04,Internshala,Shortlisted
+A1181,S454,C045,2025-10-08,Naukri,Applied
+A1182,S336,C082,2025-05-27,LinkedIn,Shortlisted
+A1183,S136,C074,2025-12-07,Naukri,Rejected
+A1184,S292,C034,2025-11-14,Naukri,Applied
+A1185,S197,C001,2025-05-09,LinkedIn,Interview
+A1186,S391,C066,2025-10-12,Internshala,Rejected
+A1187,S230,C066,2025-01-07,Internshala,Rejected
+A1188,S181,C009,2025-10-19,Internshala,Rejected
+A1189,S265,C018,2025-04-04,Company Website,Interview
+A1190,S156,C063,2025-03-31,LinkedIn,Applied
+A1191,S128,C095,2025-09-30,Company Website,Interview
+A1192,S093,C021,2025-09-02,Internshala,Interview
+A1193,S359,C001,2025-04-13,Referral,Rejected
+A1194,S437,C043,2025-02-15,Internshala,Applied
+A1195,S188,C065,2025-04-23,Company Website,Selected
+A1196,S177,C088,2025-10-09,LinkedIn,Shortlisted
+A1197,S402,C016,2025-08-01,Internshala,Rejected
+A1198,S030,C026,2025-06-23,LinkedIn,Applied
+A1199,S289,C032,2025-02-02,Referral,Interview
+A1200,S003,C049,2025-07-04,Naukri,Rejected
+A1201,S206,C005,2025-09-22,LinkedIn,Rejected
+A1202,S154,C010,2025-08-05,Internshala,Rejected
+A1203,S382,C097,2025-10-26,Company Website,Interview
+A1204,S494,C044,2025-01-18,LinkedIn,Shortlisted
+A1205,S367,C001,2025-09-12,LinkedIn,Interview
+A1206,S139,C092,2025-05-19,Naukri,Interview
+A1207,S394,C016,2025-06-05,Naukri,Applied
+A1208,S372,C069,2025-08-07,Referral,Rejected
+A1209,S477,C051,2026-01-01,Naukri,Shortlisted
+A1210,S084,C021,2025-05-16,Referral,Shortlisted
+A1211,S310,C083,2025-02-03,Internshala,Selected
+A1212,S341,C007,2025-08-31,Referral,Interview
+A1213,S483,C004,2025-01-19,Company Website,Selected
+A1214,S234,C081,2025-11-15,Internshala,Selected
+A1215,S047,C046,2025-03-18,Internshala,Applied
+A1216,S269,C042,2025-01-17,Internshala,Selected
+A1217,S083,C068,2025-03-23,Company Website,Shortlisted
+A1218,S179,C014,2025-08-12,Internshala,Shortlisted
+A1219,S116,C028,2025-10-27,LinkedIn,Shortlisted
+A1220,S228,C011,2025-03-28,Company Website,Rejected
+A1221,S052,C056,2025-03-30,LinkedIn,Selected
+A1222,S292,C071,2025-01-31,Referral,Interview
+A1223,S124,C080,2025-07-31,LinkedIn,Shortlisted
+A1224,S140,C056,2025-01-25,Company Website,Shortlisted
+A1225,S134,C095,2025-09-15,Naukri,Applied
+A1226,S199,C040,2025-11-15,Company Website,Rejected
+A1227,S124,C018,2025-11-23,Internshala,Interview
+A1228,S394,C038,2025-06-26,Naukri,Applied
+A1229,S371,C003,2025-04-28,Company Website,Selected
+A1230,S139,C045,2025-05-05,Naukri,Rejected
+A1231,S294,C076,2025-03-19,Internshala,Applied
+A1232,S376,C072,2025-09-25,LinkedIn,Interview
+A1233,S187,C040,2025-08-02,Referral,Shortlisted
+A1234,S495,C032,2025-06-14,LinkedIn,Rejected
+A1235,S141,C046,2025-02-17,Internshala,Applied
+A1236,S300,C057,2025-02-16,Referral,Shortlisted
+A1237,S476,C077,2025-07-10,LinkedIn,Rejected
+A1238,S179,C040,2025-09-19,LinkedIn,Interview
+A1239,S265,C009,2025-10-27,Internshala,Shortlisted
+A1240,S475,C086,2025-06-26,Referral,Interview
+A1241,S263,C065,2025-06-25,Company Website,Applied
+A1242,S208,C050,2025-07-08,Naukri,Applied
+A1243,S278,C050,2025-04-27,Naukri,Selected
+A1244,S267,C093,2025-10-12,Company Website,Rejected
+A1245,S238,C097,2025-12-20,Company Website,Selected
+A1246,S424,C064,2025-07-04,Company Website,Rejected
+A1247,S146,C023,2025-07-12,Internshala,Interview
+A1248,S499,C077,2025-10-11,Naukri,Shortlisted
+A1249,S038,C069,2025-03-23,Naukri,Rejected
+A1250,S470,C017,2025-07-31,Naukri,Shortlisted
+A1251,S374,C011,2025-03-08,Internshala,Interview
+A1252,S412,C082,2025-08-08,LinkedIn,Applied
+A1253,S434,C067,2025-08-08,Naukri,Rejected
+A1254,S044,C011,2025-03-02,Referral,Applied
+A1255,S216,C067,2025-10-01,Company Website,Shortlisted
+A1256,S105,C042,2025-12-21,LinkedIn,Interview
+A1257,S379,C009,2025-11-21,Internshala,Selected
+A1258,S309,C083,2025-09-16,Naukri,Rejected
+A1259,S409,C028,2025-10-21,Company Website,Applied
+A1260,S152,C035,2025-03-21,Internshala,Shortlisted
+A1261,S210,C092,2025-02-11,Naukri,Rejected
+A1262,S285,C040,2025-11-30,Company Website,Applied
+A1263,S257,C003,2025-04-15,Naukri,Interview
+A1264,S161,C020,2025-05-10,Company Website,Interview
+A1265,S484,C070,2025-03-20,Referral,Shortlisted
+A1266,S450,C059,2025-04-10,Naukri,Selected
+A1267,S413,C033,2025-08-13,Internshala,Rejected
+A1268,S307,C012,2025-03-25,Company Website,Applied
+A1269,S102,C034,2025-10-07,LinkedIn,Interview
+A1270,S142,C050,2025-03-16,Naukri,Applied
+A1271,S080,C029,2025-01-27,Naukri,Applied
+A1272,S278,C083,2025-06-23,LinkedIn,Selected
+A1273,S318,C025,2025-06-08,Naukri,Applied
+A1274,S336,C060,2025-10-16,Naukri,Applied
+A1275,S293,C079,2025-04-14,Company Website,Selected
+A1276,S245,C024,2025-07-07,LinkedIn,Rejected
+A1277,S223,C048,2025-10-10,Referral,Selected
+A1278,S479,C044,2025-06-14,Company Website,Rejected
+A1279,S404,C086,2025-03-06,LinkedIn,Interview
+A1280,S143,C013,2025-02-23,Internshala,Rejected
+A1281,S489,C050,2025-12-15,Naukri,Selected
+A1282,S350,C033,2026-01-01,Naukri,Interview
+A1283,S425,C015,2025-03-04,Referral,Interview
+A1284,S349,C089,2025-07-19,Company Website,Shortlisted
+A1285,S041,C068,2025-12-22,Naukri,Interview
+A1286,S210,C077,2025-02-23,Referral,Rejected
+A1287,S475,C087,2025-07-28,Internshala,Rejected
+A1288,S196,C084,2025-09-08,Company Website,Shortlisted
+A1289,S086,C021,2025-01-18,Company Website,Interview
+A1290,S144,C041,2026-01-01,Referral,Applied
+A1291,S300,C082,2025-07-20,Internshala,Shortlisted
+A1292,S367,C075,2025-09-01,LinkedIn,Interview
+A1293,S063,C055,2025-08-07,Referral,Rejected
+A1294,S003,C095,2025-06-06,Internshala,Rejected
+A1295,S235,C059,2025-10-15,LinkedIn,Applied
+A1296,S416,C066,2025-09-29,LinkedIn,Interview
+A1297,S247,C091,2025-03-18,Naukri,Rejected
+A1298,S375,C091,2025-04-19,Naukri,Applied
+A1299,S486,C017,2025-09-27,Company Website,Applied
+A1300,S472,C052,2025-12-07,Referral,Rejected
+A1301,S427,C033,2025-08-24,Naukri,Selected
+A1302,S201,C079,2025-11-11,Referral,Applied
+A1303,S289,C012,2025-03-25,Referral,Selected
+A1304,S222,C023,2025-01-30,Naukri,Rejected
+A1305,S437,C077,2025-04-21,Company Website,Interview
+A1306,S085,C099,2025-09-16,Referral,Shortlisted
+A1307,S014,C043,2025-12-02,Company Website,Shortlisted
+A1308,S246,C075,2025-11-06,LinkedIn,Selected
+A1309,S007,C038,2025-03-05,Company Website,Applied
+A1310,S468,C010,2025-11-22,Company Website,Selected
+A1311,S342,C082,2025-10-07,Internshala,Rejected
+A1312,S183,C016,2025-12-26,LinkedIn,Applied
+A1313,S450,C061,2025-03-29,Naukri,Shortlisted
+A1314,S273,C026,2025-01-24,Company Website,Rejected
+A1315,S447,C064,2025-12-08,Naukri,Shortlisted
+A1316,S406,C044,2025-03-16,Company Website,Selected
+A1317,S464,C053,2025-09-17,Referral,Rejected
+A1318,S440,C082,2025-07-20,LinkedIn,Applied
+A1319,S459,C100,2025-07-19,Internshala,Rejected
+A1320,S405,C009,2025-06-30,Naukri,Shortlisted
+A1321,S315,C047,2025-08-08,LinkedIn,Rejected
+A1322,S160,C085,2025-02-14,LinkedIn,Interview
+A1323,S244,C037,2025-09-08,Naukri,Applied
+A1324,S039,C033,2025-05-10,Internshala,Shortlisted
+A1325,S420,C055,2025-11-05,Naukri,Rejected
+A1326,S158,C044,2025-09-22,Naukri,Rejected
+A1327,S430,C016,2025-11-18,Company Website,Shortlisted
+A1328,S352,C014,2025-08-16,Referral,Applied
+A1329,S052,C063,2025-12-08,Referral,Interview
+A1330,S212,C026,2025-04-07,Internshala,Rejected
+A1331,S467,C085,2025-12-10,LinkedIn,Interview
+A1332,S313,C095,2025-08-15,Company Website,Interview
+A1333,S068,C007,2025-04-18,Company Website,Rejected
+A1334,S105,C054,2025-09-07,Internshala,Applied
+A1335,S102,C045,2025-07-22,Internshala,Interview
+A1336,S154,C082,2025-05-29,Naukri,Interview
+A1337,S262,C071,2025-04-25,LinkedIn,Rejected
+A1338,S392,C078,2025-03-20,Referral,Interview
+A1339,S002,C082,2025-10-13,Referral,Rejected
+A1340,S249,C002,2025-07-01,Internshala,Interview
+A1341,S136,C012,2025-02-26,Referral,Applied
+A1342,S496,C057,2025-04-26,Naukri,Shortlisted
+A1343,S256,C022,2025-04-29,Internshala,Shortlisted
+A1344,S442,C032,2025-12-14,Company Website,Shortlisted
+A1345,S288,C098,2025-10-20,Referral,Applied
+A1346,S279,C071,2025-05-12,Referral,Selected
+A1347,S077,C076,2025-05-07,Referral,Shortlisted
+A1348,S275,C033,2025-12-06,Internshala,Selected
+A1349,S241,C062,2025-05-23,Company Website,Interview
+A1350,S283,C070,2025-08-26,Internshala,Interview
+A1351,S370,C010,2025-03-10,Company Website,Selected
+A1352,S316,C079,2025-07-01,Internshala,Shortlisted
+A1353,S274,C080,2025-08-29,LinkedIn,Selected
+A1354,S255,C020,2025-07-19,Referral,Interview
+A1355,S494,C090,2025-10-14,Referral,Rejected
+A1356,S216,C072,2025-04-22,Company Website,Selected
+A1357,S059,C025,2025-11-28,Internshala,Interview
+A1358,S438,C011,2025-05-02,LinkedIn,Applied
+A1359,S489,C063,2025-09-30,Internshala,Shortlisted
+A1360,S287,C033,2025-12-04,LinkedIn,Shortlisted
+A1361,S419,C038,2025-07-20,Naukri,Interview
+A1362,S347,C048,2025-02-02,LinkedIn,Rejected
+A1363,S360,C035,2025-10-05,Referral,Interview
+A1364,S166,C007,2025-03-03,LinkedIn,Selected
+A1365,S389,C039,2025-05-30,Naukri,Applied
+A1366,S025,C021,2025-02-03,Internshala,Rejected
+A1367,S077,C041,2025-04-11,LinkedIn,Rejected
+A1368,S198,C009,2025-05-16,Referral,Interview
+A1369,S234,C077,2025-02-04,Referral,Rejected
+A1370,S186,C090,2025-12-25,LinkedIn,Selected
+A1371,S480,C022,2025-11-23,Naukri,Rejected
+A1372,S274,C047,2025-02-06,LinkedIn,Rejected
+A1373,S218,C023,2025-07-05,Referral,Selected
+A1374,S179,C070,2025-09-26,Company Website,Interview
+A1375,S275,C018,2025-05-02,Naukri,Applied
+A1376,S496,C089,2025-09-30,Internshala,Interview
+A1377,S267,C088,2025-11-28,LinkedIn,Rejected
+A1378,S378,C044,2025-02-01,Company Website,Rejected
+A1379,S482,C001,2025-06-13,Company Website,Interview
+A1380,S389,C056,2025-05-28,LinkedIn,Shortlisted
+A1381,S414,C090,2025-07-15,Company Website,Selected
+A1382,S259,C034,2025-12-06,Referral,Shortlisted
+A1383,S470,C074,2025-05-16,Company Website,Rejected
+A1384,S442,C028,2025-10-06,Naukri,Rejected
+A1385,S376,C033,2025-05-30,Referral,Shortlisted
+A1386,S167,C069,2025-10-11,Naukri,Shortlisted
+A1387,S135,C068,2025-11-01,Naukri,Applied
+A1388,S075,C067,2025-11-23,Company Website,Shortlisted
+A1389,S255,C015,2025-12-21,Referral,Selected
+A1390,S135,C091,2025-05-02,Internshala,Selected
+A1391,S216,C048,2025-06-23,Internshala,Applied
+A1392,S393,C085,2025-07-18,LinkedIn,Selected
+A1393,S375,C003,2025-07-05,Naukri,Applied
+A1394,S125,C076,2025-03-09,Referral,Rejected
+A1395,S032,C100,2025-01-03,LinkedIn,Selected
+A1396,S091,C035,2025-09-01,Referral,Selected
+A1397,S205,C001,2025-05-15,Referral,Applied
+A1398,S144,C008,2025-11-20,Naukri,Applied
+A1399,S345,C035,2025-05-05,Referral,Selected
+A1400,S053,C067,2025-11-27,Internshala,Selected
+A1401,S344,C096,2025-11-01,Company Website,Shortlisted
+A1402,S185,C097,2025-03-14,Internshala,Interview
+A1403,S303,C066,2025-04-12,LinkedIn,Selected
+A1404,S191,C056,2025-11-03,Internshala,Applied
+A1405,S037,C056,2025-03-28,Company Website,Interview
+A1406,S473,C086,2025-02-22,Naukri,Interview
+A1407,S376,C066,2025-10-01,Referral,Interview
+A1408,S250,C090,2025-04-27,Naukri,Selected
+A1409,S075,C098,2025-04-17,Company Website,Applied
+A1410,S375,C052,2025-02-28,Referral,Shortlisted
+A1411,S162,C092,2025-08-04,Internshala,Shortlisted
+A1412,S162,C007,2025-02-01,Referral,Shortlisted
+A1413,S027,C056,2025-01-31,Internshala,Shortlisted
+A1414,S219,C036,2025-10-31,LinkedIn,Interview
+A1415,S486,C012,2025-10-15,Naukri,Rejected
+A1416,S091,C036,2025-11-19,Internshala,Selected
+A1417,S188,C006,2025-10-30,Referral,Selected
+A1418,S395,C006,2025-01-06,Internshala,Rejected
+A1419,S159,C035,2025-03-07,Internshala,Applied
+A1420,S411,C067,2025-12-03,Internshala,Selected
+A1421,S132,C041,2025-11-27,Internshala,Applied
+A1422,S078,C031,2025-04-29,LinkedIn,Applied
+A1423,S450,C011,2025-06-25,LinkedIn,Interview
+A1424,S270,C090,2025-06-23,Referral,Rejected
+A1425,S252,C073,2025-06-07,Company Website,Interview
+A1426,S285,C045,2025-08-05,Company Website,Selected
+A1427,S384,C096,2025-06-29,Referral,Interview
+A1428,S070,C021,2025-08-08,Naukri,Applied
+A1429,S102,C028,2025-07-06,Internshala,Applied
+A1430,S461,C027,2025-05-25,LinkedIn,Selected
+A1431,S458,C058,2025-05-03,LinkedIn,Shortlisted
+A1432,S028,C039,2025-06-10,LinkedIn,Rejected
+A1433,S193,C035,2025-01-01,Naukri,Applied
+A1434,S021,C024,2025-11-17,Company Website,Shortlisted
+A1435,S080,C034,2025-09-20,Internshala,Selected
+A1436,S136,C041,2025-03-31,Naukri,Selected
+A1437,S311,C072,2025-06-15,Referral,Applied
+A1438,S073,C037,2025-07-30,Referral,Selected
+A1439,S300,C100,2025-07-04,LinkedIn,Selected
+A1440,S041,C049,2025-09-18,Referral,Shortlisted
+A1441,S143,C065,2025-09-26,LinkedIn,Selected
+A1442,S198,C035,2025-02-21,Referral,Interview
+A1443,S303,C017,2025-08-24,Company Website,Interview
+A1444,S326,C032,2025-10-09,LinkedIn,Interview
+A1445,S301,C010,2025-08-15,Company Website,Shortlisted
+A1446,S403,C071,2025-01-28,LinkedIn,Interview
+A1447,S216,C093,2025-10-23,LinkedIn,Rejected
+A1448,S116,C093,2025-03-08,Naukri,Rejected
+A1449,S274,C096,2025-01-31,Referral,Selected
+A1450,S161,C009,2025-09-30,Naukri,Shortlisted
+A1451,S419,C055,2025-08-24,LinkedIn,Selected
+A1452,S085,C025,2025-02-09,Naukri,Applied
+A1453,S415,C030,2025-09-27,Internshala,Selected
+A1454,S413,C062,2025-03-04,Naukri,Applied
+A1455,S219,C006,2025-07-23,Naukri,Applied
+A1456,S125,C020,2025-02-04,LinkedIn,Shortlisted
+A1457,S401,C082,2025-10-08,Company Website,Applied
+A1458,S395,C020,2025-06-03,Naukri,Applied
+A1459,S325,C078,2025-09-26,LinkedIn,Rejected
+A1460,S030,C006,2025-08-02,Referral,Rejected
+A1461,S058,C061,2025-12-16,Naukri,Shortlisted
+A1462,S152,C009,2025-07-26,Naukri,Applied
+A1463,S118,C049,2025-06-20,Referral,Interview
+A1464,S116,C018,2025-11-01,Naukri,Interview
+A1465,S173,C067,2025-11-14,Company Website,Selected
+A1466,S486,C096,2025-01-05,Company Website,Applied
+A1467,S393,C059,2025-01-08,Referral,Applied
+A1468,S043,C050,2025-12-12,Internshala,Selected
+A1469,S463,C003,2025-10-22,Company Website,Shortlisted
+A1470,S039,C005,2025-08-22,Internshala,Rejected
+A1471,S114,C046,2025-01-03,LinkedIn,Interview
+A1472,S230,C090,2025-03-04,LinkedIn,Interview
+A1473,S136,C055,2025-06-20,Naukri,Rejected
+A1474,S459,C031,2025-08-05,Internshala,Interview
+A1475,S013,C049,2025-02-06,Internshala,Selected
+A1476,S045,C068,2025-05-30,Naukri,Selected
+A1477,S213,C065,2025-08-01,Company Website,Interview
+A1478,S303,C034,2025-09-27,Internshala,Shortlisted
+A1479,S440,C055,2025-06-30,Referral,Rejected
+A1480,S447,C044,2025-04-28,LinkedIn,Applied
+A1481,S496,C078,2025-05-14,Referral,Applied
+A1482,S383,C041,2025-11-06,Company Website,Rejected
+A1483,S052,C038,2025-05-24,Company Website,Selected
+A1484,S432,C032,2025-11-12,Company Website,Shortlisted
+A1485,S276,C096,2025-12-12,Naukri,Shortlisted
+A1486,S277,C099,2025-12-01,Company Website,Applied
+A1487,S323,C016,2025-12-09,Naukri,Applied
+A1488,S429,C085,2025-09-27,Referral,Rejected
+A1489,S496,C019,2025-03-23,Internshala,Shortlisted
+A1490,S325,C052,2025-07-30,Naukri,Selected
+A1491,S434,C064,2025-09-10,Naukri,Interview
+A1492,S037,C020,2025-01-26,Internshala,Rejected
+A1493,S136,C022,2025-01-18,Internshala,Interview
+A1494,S257,C032,2025-10-01,Naukri,Applied
+A1495,S258,C082,2025-10-31,LinkedIn,Interview
+A1496,S464,C076,2025-01-24,Company Website,Interview
+A1497,S098,C012,2025-06-20,Referral,Rejected
+A1498,S470,C042,2025-03-02,LinkedIn,Shortlisted
+A1499,S263,C074,2025-02-09,Referral,Applied
+A1500,S206,C066,2025-10-24,Company Website,Selected
+A1501,S370,C094,2025-08-18,Internshala,Interview
+A1502,S091,C094,2025-05-26,Naukri,Selected
+A1503,S240,C051,2025-10-14,LinkedIn,Rejected
+A1504,S257,C080,2025-02-11,LinkedIn,Interview
+A1505,S443,C041,2025-02-09,Internshala,Interview
+A1506,S439,C029,2025-06-14,LinkedIn,Selected
+A1507,S077,C055,2025-04-27,Company Website,Applied
+A1508,S405,C081,2025-02-07,Referral,Selected
+A1509,S357,C078,2025-08-19,Internshala,Rejected
+A1510,S282,C019,2025-07-17,Referral,Shortlisted
+A1511,S192,C041,2025-07-04,Naukri,Rejected
+A1512,S365,C100,2025-05-11,LinkedIn,Interview
+A1513,S394,C061,2025-07-18,Internshala,Applied
+A1514,S357,C079,2025-09-09,Referral,Applied
+A1515,S136,C094,2025-04-20,LinkedIn,Shortlisted
+A1516,S288,C047,2025-04-12,Internshala,Applied
+A1517,S268,C035,2025-03-20,Referral,Applied
+A1518,S162,C060,2025-10-10,Company Website,Rejected
+A1519,S096,C039,2025-12-20,Referral,Interview
+A1520,S088,C041,2025-05-08,Naukri,Shortlisted
+A1521,S244,C038,2025-04-06,LinkedIn,Selected
+A1522,S079,C058,2025-08-09,Naukri,Rejected
+A1523,S405,C047,2025-07-03,Internshala,Applied
+A1524,S388,C099,2025-11-25,Referral,Shortlisted
+A1525,S182,C054,2025-03-26,LinkedIn,Shortlisted
+A1526,S265,C080,2025-04-03,LinkedIn,Selected
+A1527,S471,C098,2025-07-22,Naukri,Rejected
+A1528,S283,C041,2025-09-25,Naukri,Interview
+A1529,S296,C041,2025-01-19,LinkedIn,Shortlisted
+A1530,S035,C066,2025-01-02,Referral,Rejected
+A1531,S331,C013,2025-09-29,Referral,Rejected
+A1532,S303,C084,2025-01-11,Company Website,Applied
+A1533,S437,C046,2025-01-09,LinkedIn,Interview
+A1534,S087,C098,2025-11-22,Internshala,Interview
+A1535,S377,C056,2025-01-17,Naukri,Rejected
+A1536,S094,C031,2025-05-14,Referral,Shortlisted
+A1537,S238,C029,2025-07-08,LinkedIn,Interview
+A1538,S336,C085,2025-02-21,Company Website,Applied
+A1539,S069,C096,2025-03-04,Internshala,Interview
+A1540,S100,C057,2025-02-22,Internshala,Shortlisted
+A1541,S080,C066,2025-09-13,Internshala,Applied
+A1542,S319,C035,2025-02-25,Internshala,Selected
+A1543,S128,C054,2025-05-25,Referral,Shortlisted
+A1544,S493,C063,2025-12-03,Company Website,Shortlisted
+A1545,S025,C056,2025-09-23,Company Website,Selected
+A1546,S177,C063,2025-02-24,Naukri,Rejected
+A1547,S198,C028,2025-11-29,Internshala,Rejected
+A1548,S137,C012,2025-11-11,LinkedIn,Selected
+A1549,S212,C098,2025-02-01,Referral,Rejected
+A1550,S165,C011,2025-01-29,Referral,Interview
+A1551,S230,C007,2025-08-14,Naukri,Interview
+A1552,S377,C059,2025-02-04,Company Website,Applied
+A1553,S381,C025,2025-09-18,Naukri,Shortlisted
+A1554,S462,C038,2025-11-05,Internshala,Shortlisted
+A1555,S112,C084,2025-06-17,Company Website,Applied
+A1556,S454,C079,2025-05-01,Naukri,Selected
+A1557,S446,C006,2025-10-18,Company Website,Interview
+A1558,S175,C043,2025-03-03,Company Website,Applied
+A1559,S230,C049,2025-02-10,Internshala,Applied
+A1560,S171,C064,2025-11-30,Company Website,Rejected
+A1561,S397,C088,2025-10-22,Internshala,Selected
+A1562,S406,C100,2025-11-30,Internshala,Applied
+A1563,S029,C076,2025-04-16,Internshala,Interview
+A1564,S135,C023,2025-12-19,Naukri,Shortlisted
+A1565,S394,C029,2025-08-03,LinkedIn,Selected
+A1566,S186,C093,2025-03-22,Internshala,Selected
+A1567,S113,C064,2025-08-29,Company Website,Selected
+A1568,S162,C062,2025-03-30,Internshala,Applied
+A1569,S179,C017,2025-05-01,Internshala,Shortlisted
+A1570,S449,C075,2025-08-02,LinkedIn,Shortlisted
+A1571,S168,C070,2025-06-19,Naukri,Applied
+A1572,S337,C098,2025-10-14,LinkedIn,Shortlisted
+A1573,S478,C046,2025-09-25,LinkedIn,Rejected
+A1574,S416,C067,2025-12-19,Company Website,Selected
+A1575,S371,C062,2025-12-15,Naukri,Shortlisted
+A1576,S143,C067,2025-09-02,Referral,Shortlisted
+A1577,S151,C059,2025-11-04,Referral,Rejected
+A1578,S159,C034,2025-03-27,Company Website,Selected
+A1579,S072,C086,2025-12-12,Naukri,Shortlisted
+A1580,S357,C003,2025-12-13,Company Website,Selected
+A1581,S077,C033,2025-03-31,Company Website,Shortlisted
+A1582,S285,C033,2025-08-31,Internshala,Applied
+A1583,S488,C050,2025-01-21,Referral,Applied
+A1584,S260,C085,2025-11-15,Referral,Applied
+A1585,S182,C035,2025-04-25,Company Website,Shortlisted
+A1586,S424,C076,2025-07-18,Referral,Interview
+A1587,S420,C008,2025-05-01,LinkedIn,Applied
+A1588,S456,C046,2025-11-30,Company Website,Selected
+A1589,S308,C096,2025-03-14,Referral,Applied
+A1590,S098,C041,2025-06-10,Company Website,Shortlisted
+A1591,S421,C009,2025-03-14,Company Website,Shortlisted
+A1592,S314,C085,2025-05-23,Internshala,Shortlisted
+A1593,S386,C061,2025-11-16,Internshala,Shortlisted
+A1594,S422,C002,2025-10-09,Referral,Selected
+A1595,S090,C042,2025-02-20,Naukri,Interview
+A1596,S123,C060,2025-02-20,Internshala,Interview
+A1597,S099,C009,2025-08-05,Naukri,Shortlisted
+A1598,S277,C026,2025-10-24,Company Website,Selected
+A1599,S245,C005,2025-10-14,Referral,Applied
+A1600,S334,C056,2025-04-08,Naukri,Applied
+A1601,S202,C012,2025-07-02,Company Website,Rejected
+A1602,S012,C018,2025-11-09,Internshala,Rejected
+A1603,S325,C004,2025-12-12,Referral,Rejected
+A1604,S087,C038,2025-01-01,Naukri,Applied
+A1605,S344,C083,2025-09-29,Company Website,Applied
+A1606,S114,C085,2025-07-14,Company Website,Rejected
+A1607,S468,C057,2025-02-12,Internshala,Applied
+A1608,S103,C074,2025-03-09,Company Website,Rejected
+A1609,S288,C037,2025-04-27,Naukri,Selected
+A1610,S379,C090,2025-08-31,Naukri,Interview
+A1611,S195,C071,2025-12-20,Naukri,Selected
+A1612,S390,C084,2025-01-05,Company Website,Rejected
+A1613,S208,C085,2025-07-12,Internshala,Interview
+A1614,S050,C026,2025-05-15,Company Website,Selected
+A1615,S294,C009,2025-10-11,LinkedIn,Applied
+A1616,S453,C028,2025-03-24,Internshala,Selected
+A1617,S170,C079,2025-12-20,LinkedIn,Applied
+A1618,S280,C012,2025-01-21,Referral,Selected
+A1619,S012,C062,2025-09-24,Referral,Applied
+A1620,S101,C029,2025-04-10,Naukri,Selected
+A1621,S381,C091,2025-11-22,Naukri,Rejected
+A1622,S418,C032,2025-10-25,Internshala,Applied
+A1623,S186,C048,2025-09-04,Company Website,Interview
+A1624,S462,C082,2025-01-19,LinkedIn,Selected
+A1625,S272,C034,2025-10-22,LinkedIn,Rejected
+A1626,S075,C077,2025-06-11,Naukri,Applied
+A1627,S495,C021,2025-06-21,Internshala,Rejected
+A1628,S410,C050,2025-06-09,Referral,Shortlisted
+A1629,S082,C031,2025-04-26,Naukri,Applied
+A1630,S226,C040,2025-07-17,Company Website,Selected
+A1631,S002,C085,2025-07-11,Naukri,Shortlisted
+A1632,S459,C018,2025-12-10,Naukri,Applied
+A1633,S173,C019,2025-03-15,Naukri,Rejected
+A1634,S203,C035,2025-02-26,Naukri,Rejected
+A1635,S191,C043,2025-08-05,Naukri,Interview
+A1636,S415,C001,2025-05-14,Naukri,Rejected
+A1637,S494,C066,2025-12-28,Internshala,Applied
+A1638,S331,C037,2025-04-17,Internshala,Rejected
+A1639,S274,C048,2025-11-18,Internshala,Selected
+A1640,S264,C060,2025-08-28,LinkedIn,Interview
+A1641,S154,C036,2025-12-09,LinkedIn,Interview
+A1642,S420,C020,2025-08-30,LinkedIn,Rejected
+A1643,S410,C095,2025-08-06,Company Website,Selected
+A1644,S367,C018,2025-01-14,Company Website,Applied
+A1645,S183,C077,2025-06-17,Internshala,Rejected
+A1646,S065,C017,2025-02-28,LinkedIn,Applied
+A1647,S149,C080,2025-12-01,LinkedIn,Selected
+A1648,S036,C042,2025-03-23,LinkedIn,Selected
+A1649,S128,C011,2025-12-25,Company Website,Interview
+A1650,S485,C003,2025-08-26,LinkedIn,Applied
+A1651,S368,C003,2025-10-24,LinkedIn,Applied
+A1652,S020,C064,2025-08-06,Referral,Rejected
+A1653,S360,C036,2025-02-12,Internshala,Applied
+A1654,S295,C075,2025-09-01,Company Website,Applied
+A1655,S417,C054,2025-07-24,Referral,Selected
+A1656,S272,C046,2025-01-20,Naukri,Rejected
+A1657,S236,C090,2025-04-15,Company Website,Shortlisted
+A1658,S155,C053,2025-06-30,LinkedIn,Shortlisted
+A1659,S216,C076,2025-06-18,Naukri,Rejected
+A1660,S228,C093,2025-05-19,Internshala,Rejected
+A1661,S255,C063,2025-10-13,Internshala,Selected
+A1662,S118,C085,2025-08-07,Naukri,Selected
+A1663,S411,C068,2025-01-13,Company Website,Applied
+A1664,S007,C097,2025-01-30,Naukri,Rejected
+A1665,S399,C050,2025-08-26,Company Website,Selected
+A1666,S421,C021,2025-12-24,Company Website,Applied
+A1667,S343,C084,2025-08-06,LinkedIn,Rejected
+A1668,S370,C022,2025-08-07,Referral,Selected
+A1669,S408,C057,2025-03-01,Naukri,Shortlisted
+A1670,S270,C060,2025-10-08,Naukri,Applied
+A1671,S286,C012,2025-03-28,Internshala,Interview
+A1672,S390,C053,2025-05-29,Company Website,Interview
+A1673,S375,C023,2025-03-23,Naukri,Interview
+A1674,S414,C041,2025-07-10,Internshala,Shortlisted
+A1675,S010,C095,2025-05-11,Internshala,Interview
+A1676,S129,C025,2025-10-01,Internshala,Shortlisted
+A1677,S258,C094,2025-08-29,Naukri,Applied
+A1678,S435,C031,2025-04-29,Company Website,Shortlisted
+A1679,S206,C097,2025-08-02,Naukri,Applied
+A1680,S343,C039,2025-11-24,Referral,Shortlisted
+A1681,S057,C088,2025-02-15,Naukri,Rejected
+A1682,S362,C089,2025-07-21,Company Website,Rejected
+A1683,S263,C074,2025-08-01,Internshala,Shortlisted
+A1684,S382,C020,2025-04-26,LinkedIn,Interview
+A1685,S153,C093,2025-11-12,Internshala,Selected
+A1686,S457,C090,2025-12-22,Naukri,Applied
+A1687,S462,C075,2026-01-01,Internshala,Shortlisted
+A1688,S310,C025,2025-06-22,Company Website,Interview
+A1689,S270,C054,2025-03-22,Internshala,Shortlisted
+A1690,S075,C015,2025-01-24,Company Website,Shortlisted
+A1691,S296,C007,2025-02-05,Internshala,Selected
+A1692,S213,C019,2025-03-23,LinkedIn,Interview
+A1693,S424,C030,2025-12-22,LinkedIn,Interview
+A1694,S055,C028,2025-01-21,Naukri,Applied
+A1695,S117,C036,2025-02-09,LinkedIn,Interview
+A1696,S321,C060,2025-08-23,Company Website,Selected
+A1697,S439,C037,2025-07-11,Internshala,Applied
+A1698,S312,C053,2025-11-03,LinkedIn,Rejected
+A1699,S162,C004,2025-02-14,Referral,Interview
+A1700,S305,C072,2025-01-19,LinkedIn,Shortlisted
+A1701,S110,C090,2025-06-04,Referral,Rejected
+A1702,S386,C047,2025-09-25,Internshala,Interview
+A1703,S392,C032,2025-11-27,Referral,Rejected
+A1704,S187,C018,2025-08-10,LinkedIn,Selected
+A1705,S092,C064,2025-10-09,Referral,Interview
+A1706,S148,C021,2025-06-24,Internshala,Interview
+A1707,S223,C043,2025-02-26,Company Website,Rejected
+A1708,S147,C069,2025-11-03,Naukri,Shortlisted
+A1709,S369,C023,2025-05-22,Referral,Interview
+A1710,S483,C008,2025-02-01,Internshala,Interview
+A1711,S161,C083,2025-12-08,Company Website,Shortlisted
+A1712,S490,C019,2025-03-08,Internshala,Applied
+A1713,S234,C022,2025-08-09,Company Website,Interview
+A1714,S328,C038,2025-09-07,Referral,Shortlisted
+A1715,S429,C019,2025-01-12,Company Website,Interview
+A1716,S198,C037,2025-09-29,Referral,Shortlisted
+A1717,S353,C076,2025-08-03,Internshala,Applied
+A1718,S279,C028,2025-01-05,Referral,Shortlisted
+A1719,S145,C056,2025-06-28,LinkedIn,Shortlisted
+A1720,S435,C067,2025-09-24,Company Website,Shortlisted
+A1721,S126,C077,2025-04-29,Company Website,Shortlisted
+A1722,S179,C079,2025-03-11,Naukri,Rejected
+A1723,S075,C026,2025-07-03,LinkedIn,Applied
+A1724,S421,C041,2025-11-23,LinkedIn,Shortlisted
+A1725,S168,C019,2025-06-13,Internshala,Shortlisted
+A1726,S186,C073,2025-11-24,Company Website,Rejected
+A1727,S466,C062,2025-12-17,LinkedIn,Interview
+A1728,S218,C050,2025-08-19,Naukri,Shortlisted
+A1729,S310,C044,2025-12-24,Internshala,Applied
+A1730,S267,C053,2025-10-21,LinkedIn,Selected
+A1731,S365,C013,2025-12-24,LinkedIn,Interview
+A1732,S224,C007,2025-09-14,Referral,Selected
+A1733,S431,C022,2025-07-10,LinkedIn,Interview
+A1734,S144,C049,2025-06-29,LinkedIn,Applied
+A1735,S122,C053,2025-03-30,LinkedIn,Shortlisted
+A1736,S419,C001,2025-04-04,Internshala,Rejected
+A1737,S087,C061,2025-12-10,Naukri,Shortlisted
+A1738,S309,C088,2025-06-08,Referral,Shortlisted
+A1739,S489,C048,2025-07-17,LinkedIn,Rejected
+A1740,S096,C005,2025-01-22,Internshala,Rejected
+A1741,S286,C068,2025-05-31,Company Website,Rejected
+A1742,S029,C079,2025-06-29,LinkedIn,Applied
+A1743,S354,C008,2025-01-01,Internshala,Selected
+A1744,S341,C054,2025-01-12,Company Website,Applied
+A1745,S163,C071,2025-01-07,Company Website,Rejected
+A1746,S039,C002,2025-05-21,Company Website,Interview
+A1747,S239,C086,2025-05-02,LinkedIn,Applied
+A1748,S099,C096,2025-05-21,Naukri,Rejected
+A1749,S175,C089,2025-10-07,LinkedIn,Rejected
+A1750,S039,C030,2025-09-06,Company Website,Applied
+A1751,S362,C047,2025-02-08,LinkedIn,Rejected
+A1752,S134,C018,2025-08-17,Internshala,Selected
+A1753,S049,C064,2025-01-01,Naukri,Applied
+A1754,S357,C057,2025-02-06,LinkedIn,Rejected
+A1755,S175,C081,2025-01-02,Internshala,Selected
+A1756,S137,C082,2025-03-19,Internshala,Applied
+A1757,S020,C098,2025-04-20,Internshala,Shortlisted
+A1758,S364,C098,2025-12-08,Company Website,Rejected
+A1759,S326,C065,2025-11-17,Internshala,Rejected
+A1760,S120,C064,2025-03-23,Naukri,Applied
+A1761,S219,C092,2025-02-02,Internshala,Selected
+A1762,S253,C096,2025-09-15,Internshala,Selected
+A1763,S478,C006,2025-01-24,Naukri,Selected
+A1764,S050,C085,2025-01-09,Internshala,Applied
+A1765,S100,C061,2025-12-13,Company Website,Shortlisted
+A1766,S275,C046,2025-09-03,Naukri,Applied
+A1767,S009,C093,2025-08-22,Referral,Applied
+A1768,S337,C056,2025-05-05,LinkedIn,Selected
+A1769,S463,C044,2025-08-03,Company Website,Selected
+A1770,S169,C066,2025-08-13,Company Website,Shortlisted
+A1771,S212,C018,2025-09-23,Company Website,Rejected
+A1772,S321,C018,2025-11-07,Internshala,Applied
+A1773,S455,C053,2025-05-21,Referral,Shortlisted
+A1774,S209,C042,2025-07-08,Internshala,Selected
+A1775,S342,C063,2025-10-12,Company Website,Interview
+A1776,S311,C020,2025-07-26,LinkedIn,Shortlisted
+A1777,S355,C066,2025-11-15,Referral,Applied
+A1778,S281,C007,2025-09-06,LinkedIn,Rejected
+A1779,S123,C010,2025-05-18,Company Website,Interview
+A1780,S153,C026,2025-01-12,Naukri,Selected
+A1781,S190,C094,2025-09-22,Company Website,Applied
+A1782,S468,C058,2025-06-16,Naukri,Interview
+A1783,S412,C026,2025-01-09,Internshala,Rejected
+A1784,S046,C001,2025-05-04,Company Website,Applied
+A1785,S281,C062,2025-06-02,Naukri,Rejected
+A1786,S500,C023,2025-04-28,Internshala,Selected
+A1787,S042,C088,2025-11-21,Referral,Selected
+A1788,S057,C081,2025-12-11,Internshala,Selected
+A1789,S363,C053,2025-10-14,Referral,Shortlisted
+A1790,S358,C089,2025-02-21,Internshala,Selected
+A1791,S344,C009,2025-03-24,Referral,Applied
+A1792,S473,C072,2026-01-01,Referral,Selected
+A1793,S276,C039,2025-04-12,LinkedIn,Applied
+A1794,S443,C038,2025-06-28,LinkedIn,Interview
+A1795,S283,C012,2025-05-15,Internshala,Applied
+A1796,S027,C028,2025-05-10,Internshala,Rejected
+A1797,S372,C049,2025-04-09,Naukri,Interview
+A1798,S264,C065,2025-02-01,LinkedIn,Selected
+A1799,S128,C058,2025-07-06,Naukri,Applied
+A1800,S076,C054,2025-08-24,Company Website,Rejected
+A1801,S411,C039,2025-03-16,Naukri,Interview
+A1802,S431,C049,2025-12-29,Internshala,Interview
+A1803,S442,C080,2025-11-09,Naukri,Shortlisted
+A1804,S467,C063,2025-05-16,Referral,Applied
+A1805,S360,C062,2025-12-24,Internshala,Selected
+A1806,S352,C008,2025-08-26,LinkedIn,Applied
+A1807,S162,C036,2025-03-17,Referral,Interview
+A1808,S068,C047,2025-12-25,Internshala,Shortlisted
+A1809,S344,C099,2025-03-05,Naukri,Interview
+A1810,S138,C044,2025-07-25,LinkedIn,Shortlisted
+A1811,S045,C035,2025-03-06,Company Website,Interview
+A1812,S038,C032,2025-11-18,Company Website,Applied
+A1813,S225,C029,2025-11-08,Company Website,Interview
+A1814,S153,C020,2025-06-26,LinkedIn,Shortlisted
+A1815,S319,C019,2025-07-01,Referral,Selected
+A1816,S162,C060,2025-10-22,Naukri,Interview
+A1817,S140,C094,2025-03-20,Referral,Selected
+A1818,S069,C081,2025-03-23,Company Website,Interview
+A1819,S253,C017,2025-08-22,Internshala,Rejected
+A1820,S329,C031,2025-10-09,Internshala,Rejected
+A1821,S486,C008,2025-02-14,Internshala,Shortlisted
+A1822,S069,C055,2025-12-16,Internshala,Shortlisted
+A1823,S008,C087,2025-09-25,LinkedIn,Applied
+A1824,S415,C011,2025-06-12,Naukri,Interview
+A1825,S026,C074,2025-12-10,Naukri,Interview
+A1826,S419,C038,2025-04-18,Company Website,Selected
+A1827,S439,C008,2025-08-19,Referral,Applied
+A1828,S067,C092,2025-11-17,Naukri,Shortlisted
+A1829,S206,C073,2025-08-16,LinkedIn,Selected
+A1830,S044,C074,2025-01-19,LinkedIn,Applied
+A1831,S038,C006,2025-02-20,Internshala,Shortlisted
+A1832,S231,C055,2025-04-13,Internshala,Rejected
+A1833,S335,C024,2025-07-18,Referral,Shortlisted
+A1834,S161,C026,2025-08-20,LinkedIn,Shortlisted
+A1835,S198,C023,2025-05-03,LinkedIn,Interview
+A1836,S066,C089,2025-03-27,Naukri,Applied
+A1837,S102,C015,2025-03-14,Company Website,Shortlisted
+A1838,S079,C058,2025-04-06,Internshala,Rejected
+A1839,S164,C075,2025-12-10,Referral,Selected
+A1840,S359,C007,2025-02-11,Internshala,Selected
+A1841,S019,C030,2025-05-31,Referral,Applied
+A1842,S187,C076,2025-10-12,Internshala,Shortlisted
+A1843,S136,C095,2025-12-11,LinkedIn,Applied
+A1844,S253,C009,2025-08-23,LinkedIn,Interview
+A1845,S416,C098,2025-08-03,Referral,Selected
+A1846,S031,C009,2025-12-19,Company Website,Applied
+A1847,S421,C020,2025-06-28,LinkedIn,Applied
+A1848,S211,C051,2025-07-12,Internshala,Applied
+A1849,S223,C046,2025-10-07,Company Website,Interview
+A1850,S233,C070,2025-03-23,Internshala,Shortlisted
+A1851,S376,C041,2025-11-06,LinkedIn,Rejected
+A1852,S268,C084,2025-11-18,LinkedIn,Selected
+A1853,S483,C016,2025-09-03,LinkedIn,Applied
+A1854,S103,C018,2025-09-26,LinkedIn,Interview
+A1855,S251,C097,2025-02-28,Referral,Shortlisted
+A1856,S345,C077,2025-06-16,Naukri,Rejected
+A1857,S312,C092,2025-12-06,Internshala,Rejected
+A1858,S294,C068,2025-11-04,Referral,Shortlisted
+A1859,S118,C063,2025-05-31,Internshala,Applied
+A1860,S025,C073,2025-07-02,Naukri,Applied
+A1861,S138,C090,2025-11-13,Referral,Shortlisted
+A1862,S489,C049,2025-04-24,Naukri,Applied
+A1863,S261,C034,2025-01-21,LinkedIn,Shortlisted
+A1864,S455,C037,2025-11-28,LinkedIn,Shortlisted
+A1865,S483,C022,2025-09-25,Referral,Interview
+A1866,S155,C063,2025-12-14,LinkedIn,Interview
+A1867,S021,C042,2025-10-22,LinkedIn,Interview
+A1868,S184,C039,2025-03-22,LinkedIn,Rejected
+A1869,S046,C079,2025-08-27,Internshala,Applied
+A1870,S171,C074,2025-10-26,Referral,Applied
+A1871,S058,C060,2025-07-23,Naukri,Applied
+A1872,S131,C096,2025-01-19,Naukri,Shortlisted
+A1873,S162,C059,2025-06-27,Internshala,Applied
+A1874,S168,C087,2025-04-20,Internshala,Applied
+A1875,S201,C057,2025-02-12,LinkedIn,Shortlisted
+A1876,S067,C094,2025-11-09,LinkedIn,Rejected
+A1877,S408,C084,2025-01-07,LinkedIn,Interview
+A1878,S275,C073,2025-11-21,LinkedIn,Interview
+A1879,S356,C074,2025-03-06,Company Website,Interview
+A1880,S444,C041,2025-03-16,Referral,Interview
+A1881,S262,C093,2025-04-24,Naukri,Applied
+A1882,S375,C054,2025-05-03,Company Website,Applied
+A1883,S007,C093,2025-11-09,Company Website,Shortlisted
+A1884,S269,C052,2025-08-18,Company Website,Rejected
+A1885,S176,C024,2025-12-20,LinkedIn,Applied
+A1886,S098,C009,2025-10-12,Naukri,Interview
+A1887,S269,C043,2025-06-11,Company Website,Interview
+A1888,S244,C022,2025-06-11,Company Website,Applied
+A1889,S063,C033,2025-06-29,LinkedIn,Applied
+A1890,S137,C083,2025-07-29,Referral,Selected
+A1891,S365,C002,2025-04-16,Company Website,Applied
+A1892,S479,C008,2025-05-13,LinkedIn,Selected
+A1893,S036,C070,2025-12-31,Referral,Selected
+A1894,S216,C066,2025-08-12,Referral,Selected
+A1895,S176,C087,2025-09-02,Internshala,Shortlisted
+A1896,S203,C068,2025-06-10,LinkedIn,Shortlisted
+A1897,S219,C069,2025-04-11,Referral,Shortlisted
+A1898,S253,C087,2025-03-04,Referral,Rejected
+A1899,S318,C062,2025-05-16,Internshala,Shortlisted
+A1900,S106,C074,2025-06-24,Company Website,Rejected
+A1901,S122,C097,2025-10-04,Internshala,Shortlisted
+A1902,S296,C099,2025-10-07,LinkedIn,Interview
+A1903,S336,C038,2025-08-20,Naukri,Applied
+A1904,S181,C023,2025-06-02,Naukri,Applied
+A1905,S027,C045,2025-09-17,Referral,Selected
+A1906,S197,C082,2025-12-11,Referral,Applied
+A1907,S041,C098,2025-10-10,Referral,Interview
+A1908,S309,C031,2025-07-10,Referral,Applied
+A1909,S094,C096,2025-12-12,Naukri,Applied
+A1910,S028,C028,2025-09-11,Company Website,Applied
+A1911,S065,C001,2025-05-28,Naukri,Selected
+A1912,S450,C009,2025-12-07,Internshala,Rejected
+A1913,S007,C100,2025-10-16,Referral,Applied
+A1914,S230,C030,2025-12-28,Referral,Rejected
+A1915,S230,C051,2025-04-12,Company Website,Interview
+A1916,S407,C089,2025-10-10,Referral,Applied
+A1917,S375,C042,2025-12-13,Naukri,Shortlisted
+A1918,S339,C068,2025-02-21,Naukri,Selected
+A1919,S069,C042,2025-08-10,LinkedIn,Interview
+A1920,S002,C097,2025-05-01,Naukri,Shortlisted
+A1921,S111,C007,2025-08-25,Company Website,Interview
+A1922,S184,C042,2025-10-03,Company Website,Rejected
+A1923,S143,C086,2025-06-18,Referral,Rejected
+A1924,S359,C051,2025-06-03,Internshala,Shortlisted
+A1925,S215,C026,2025-07-23,Company Website,Shortlisted
+A1926,S299,C073,2025-08-10,Company Website,Interview
+A1927,S053,C089,2025-02-03,Referral,Rejected
+A1928,S017,C044,2025-07-10,Referral,Interview
+A1929,S143,C088,2025-02-06,Referral,Interview
+A1930,S266,C026,2025-02-27,LinkedIn,Selected
+A1931,S173,C097,2025-07-02,Referral,Shortlisted
+A1932,S471,C086,2025-07-04,Internshala,Interview
+A1933,S012,C085,2025-12-12,Company Website,Applied
+A1934,S014,C053,2025-10-20,Referral,Rejected
+A1935,S074,C002,2025-04-20,LinkedIn,Selected
+A1936,S300,C034,2025-02-25,Referral,Rejected
+A1937,S442,C096,2025-02-17,Referral,Interview
+A1938,S267,C043,2025-03-21,LinkedIn,Interview
+A1939,S268,C023,2025-06-05,Naukri,Interview
+A1940,S179,C092,2025-10-24,Naukri,Interview
+A1941,S291,C045,2025-10-10,Referral,Applied
+A1942,S498,C007,2025-12-26,Internshala,Interview
+A1943,S051,C039,2025-06-02,Naukri,Applied
+A1944,S283,C002,2025-12-06,Internshala,Interview
+A1945,S314,C044,2025-08-18,LinkedIn,Rejected
+A1946,S479,C063,2025-02-19,Referral,Interview
+A1947,S057,C089,2025-12-18,Referral,Rejected
+A1948,S279,C095,2025-02-11,Naukri,Interview
+A1949,S315,C042,2025-05-10,LinkedIn,Selected
+A1950,S119,C043,2025-02-08,Internshala,Shortlisted
+A1951,S497,C027,2025-03-12,LinkedIn,Rejected
+A1952,S006,C025,2025-07-08,Internshala,Shortlisted
+A1953,S260,C072,2025-08-01,Company Website,Shortlisted
+A1954,S228,C070,2025-05-12,Internshala,Shortlisted
+A1955,S050,C014,2025-02-19,Internshala,Applied
+A1956,S423,C056,2025-05-07,Naukri,Selected
+A1957,S335,C052,2025-02-22,LinkedIn,Rejected
+A1958,S210,C006,2025-12-16,Naukri,Selected
+A1959,S395,C066,2025-10-13,Company Website,Rejected
+A1960,S257,C059,2025-05-12,Company Website,Interview
+A1961,S349,C089,2025-05-30,Naukri,Applied
+A1962,S208,C006,2025-10-13,Internshala,Rejected
+A1963,S183,C017,2025-10-16,Company Website,Shortlisted
+A1964,S014,C092,2025-08-16,Naukri,Selected
+A1965,S432,C052,2025-12-03,Referral,Interview
+A1966,S269,C092,2025-08-21,Referral,Selected
+A1967,S079,C058,2025-11-03,Internshala,Applied
+A1968,S071,C080,2025-06-21,Company Website,Interview
+A1969,S400,C098,2025-12-01,LinkedIn,Interview
+A1970,S234,C014,2025-12-17,Internshala,Applied
+A1971,S421,C092,2025-09-06,Referral,Selected
+A1972,S382,C058,2025-08-30,LinkedIn,Rejected
+A1973,S499,C037,2025-11-21,Company Website,Rejected
+A1974,S326,C080,2025-01-19,Referral,Interview
+A1975,S440,C082,2025-09-19,LinkedIn,Interview
+A1976,S263,C003,2025-07-21,Referral,Rejected
+A1977,S026,C020,2025-11-16,Company Website,Rejected
+A1978,S110,C010,2025-09-01,Company Website,Applied
+A1979,S204,C029,2025-07-08,Referral,Selected
+A1980,S236,C029,2025-07-12,LinkedIn,Shortlisted
+A1981,S110,C048,2025-10-24,LinkedIn,Applied
+A1982,S232,C090,2025-05-03,LinkedIn,Selected
+A1983,S448,C060,2025-06-05,Internshala,Shortlisted
+A1984,S387,C070,2025-05-27,Internshala,Shortlisted
+A1985,S064,C042,2025-01-30,Company Website,Selected
+A1986,S102,C002,2025-07-15,Company Website,Applied
+A1987,S428,C025,2025-05-30,Internshala,Interview
+A1988,S088,C097,2025-11-07,LinkedIn,Shortlisted
+A1989,S428,C007,2025-10-07,Referral,Interview
+A1990,S490,C089,2025-09-17,Internshala,Applied
+A1991,S217,C085,2025-03-12,Company Website,Selected
+A1992,S482,C073,2025-08-06,Company Website,Applied
+A1993,S333,C013,2025-02-01,Naukri,Selected
+A1994,S011,C002,2025-12-27,LinkedIn,Selected
+A1995,S236,C009,2025-03-21,LinkedIn,Shortlisted
+A1996,S200,C008,2025-03-20,Referral,Selected
+A1997,S294,C088,2025-10-16,Internshala,Applied
+A1998,S487,C009,2025-02-22,Referral,Applied
+A1999,S385,C028,2025-11-01,LinkedIn,Shortlisted
+A2000,S239,C085,2025-03-07,Naukri,Shortlisted
+A2001,S390,C004,2025-11-08,LinkedIn,Rejected
+A2002,S005,C033,2025-12-12,Company Website,Interview
+A2003,S468,C009,2025-10-26,Naukri,Rejected
+A2004,S303,C057,2025-06-23,Company Website,Selected
+A2005,S109,C006,2025-05-12,Naukri,Interview
+A2006,S176,C007,2025-04-11,Internshala,Rejected
+A2007,S164,C079,2025-06-22,Referral,Interview
+A2008,S097,C045,2025-05-20,Company Website,Shortlisted
+A2009,S432,C059,2025-01-29,LinkedIn,Selected
+A2010,S490,C019,2025-06-10,LinkedIn,Selected
+A2011,S096,C079,2025-11-07,Referral,Interview
+A2012,S442,C077,2025-01-17,Company Website,Selected
+A2013,S445,C078,2025-06-15,Referral,Applied
+A2014,S339,C092,2025-11-29,Naukri,Applied
+A2015,S473,C005,2025-10-15,Internshala,Rejected
+A2016,S483,C072,2025-02-13,Naukri,Selected
+A2017,S327,C082,2025-07-24,LinkedIn,Interview
+A2018,S375,C027,2025-11-16,LinkedIn,Applied
+A2019,S150,C084,2025-08-05,Referral,Shortlisted
+A2020,S131,C060,2025-05-03,Company Website,Shortlisted
+A2021,S466,C044,2025-09-30,Internshala,Interview
+A2022,S164,C098,2025-07-27,LinkedIn,Applied
+A2023,S098,C099,2025-05-02,Internshala,Selected
+A2024,S033,C037,2025-10-11,LinkedIn,Shortlisted
+A2025,S206,C001,2025-08-25,Referral,Selected
+A2026,S098,C034,2025-02-26,LinkedIn,Interview
+A2027,S327,C041,2025-09-18,Naukri,Interview
+A2028,S490,C055,2025-12-23,Referral,Applied
+A2029,S071,C082,2025-12-19,Referral,Applied
+A2030,S073,C075,2025-07-16,LinkedIn,Shortlisted
+A2031,S124,C027,2025-04-14,Referral,Interview
+A2032,S318,C044,2025-02-13,Company Website,Interview
+A2033,S480,C047,2025-01-03,LinkedIn,Applied
+A2034,S234,C052,2025-07-22,Referral,Selected
+A2035,S208,C048,2025-09-11,Company Website,Selected
+A2036,S018,C054,2025-09-28,LinkedIn,Interview
+A2037,S164,C007,2025-06-01,LinkedIn,Shortlisted
+A2038,S098,C009,2025-09-26,Internshala,Rejected
+A2039,S076,C024,2025-12-13,Internshala,Applied
+A2040,S157,C013,2025-07-12,Company Website,Applied
+A2041,S499,C024,2025-09-09,LinkedIn,Rejected
+A2042,S209,C029,2025-08-12,LinkedIn,Applied
+A2043,S389,C016,2025-12-26,Company Website,Interview
+A2044,S347,C009,2025-10-26,Referral,Shortlisted
+A2045,S411,C002,2025-12-04,LinkedIn,Applied
+A2046,S462,C082,2025-01-24,Naukri,Interview
+A2047,S063,C007,2025-12-31,Naukri,Interview
+A2048,S413,C070,2025-03-24,Referral,Shortlisted
+A2049,S252,C064,2025-09-12,Referral,Rejected
+A2050,S327,C019,2025-09-20,Referral,Rejected
+A2051,S055,C075,2025-03-10,LinkedIn,Shortlisted
+A2052,S252,C088,2025-11-27,LinkedIn,Interview
+A2053,S046,C011,2025-10-22,Naukri,Applied
+A2054,S127,C010,2025-04-24,Internshala,Selected
+A2055,S338,C095,2025-06-25,LinkedIn,Rejected
+A2056,S132,C011,2025-07-28,LinkedIn,Selected
+A2057,S414,C096,2025-02-25,LinkedIn,Applied
+A2058,S407,C070,2025-09-26,LinkedIn,Interview
+A2059,S028,C007,2025-01-17,Internshala,Selected
+A2060,S187,C072,2025-06-19,Company Website,Applied
+A2061,S004,C001,2025-04-09,LinkedIn,Applied
+A2062,S133,C047,2025-12-13,Referral,Selected
+A2063,S076,C083,2025-11-13,Company Website,Rejected
+A2064,S353,C097,2025-08-17,Company Website,Selected
+A2065,S325,C098,2025-03-08,Company Website,Interview
+A2066,S297,C100,2025-09-22,Referral,Shortlisted
+A2067,S134,C017,2025-02-19,LinkedIn,Rejected
+A2068,S386,C018,2025-11-04,Internshala,Applied
+A2069,S372,C018,2025-08-17,Referral,Interview
+A2070,S161,C060,2025-07-20,Naukri,Applied
+A2071,S339,C003,2025-10-13,Referral,Interview
+A2072,S462,C045,2025-10-09,Referral,Applied
+A2073,S239,C019,2025-05-16,Company Website,Interview
+A2074,S281,C048,2025-10-30,Internshala,Rejected
+A2075,S480,C082,2025-07-03,Referral,Selected
+A2076,S471,C054,2025-03-06,Referral,Selected
+A2077,S498,C055,2025-09-23,Referral,Applied
+A2078,S483,C098,2025-11-28,Internshala,Selected
+A2079,S339,C100,2025-08-07,Referral,Applied
+A2080,S168,C070,2025-03-15,Internshala,Interview
+A2081,S095,C034,2025-11-21,Internshala,Selected
+A2082,S052,C099,2025-07-06,LinkedIn,Shortlisted
+A2083,S402,C078,2025-06-08,Naukri,Applied
+A2084,S070,C012,2025-03-26,Referral,Applied
+A2085,S152,C079,2025-04-03,Referral,Selected
+A2086,S472,C061,2025-06-25,LinkedIn,Shortlisted
+A2087,S253,C084,2025-08-28,Company Website,Shortlisted
+A2088,S454,C035,2025-03-30,Referral,Rejected
+A2089,S289,C027,2025-03-25,Company Website,Applied
+A2090,S304,C016,2025-09-05,Referral,Shortlisted
+A2091,S193,C018,2025-02-12,Company Website,Interview
+A2092,S258,C087,2025-01-05,Referral,Shortlisted
+A2093,S438,C017,2025-10-03,Internshala,Applied
+A2094,S197,C074,2025-08-24,Company Website,Rejected
+A2095,S344,C053,2025-05-01,Referral,Interview
+A2096,S109,C088,2025-03-21,LinkedIn,Interview
+A2097,S357,C042,2025-05-04,Referral,Selected
+A2098,S137,C034,2025-05-29,Referral,Shortlisted
+A2099,S196,C075,2025-01-16,Naukri,Shortlisted
+A2100,S184,C097,2025-11-05,LinkedIn,Shortlisted
+A2101,S180,C052,2025-03-19,Naukri,Interview
+A2102,S010,C031,2025-02-15,Naukri,Applied
+A2103,S168,C015,2025-01-09,Company Website,Rejected
+A2104,S413,C009,2025-03-03,Naukri,Applied
+A2105,S222,C031,2025-03-16,Referral,Shortlisted
+A2106,S308,C006,2025-06-01,Naukri,Rejected
+A2107,S061,C022,2025-03-22,Referral,Applied
+A2108,S319,C088,2025-08-22,Internshala,Applied
+A2109,S170,C087,2025-01-05,Company Website,Interview
+A2110,S009,C055,2025-08-10,Naukri,Interview
+A2111,S295,C072,2025-02-01,Referral,Selected
+A2112,S272,C023,2025-08-21,Naukri,Selected
+A2113,S470,C019,2025-01-01,Naukri,Rejected
+A2114,S267,C090,2025-07-31,Company Website,Shortlisted
+A2115,S023,C079,2025-09-19,Internshala,Rejected
+A2116,S453,C002,2025-06-05,LinkedIn,Interview
+A2117,S351,C054,2025-04-06,LinkedIn,Selected
+A2118,S452,C044,2025-05-11,Naukri,Interview
+A2119,S226,C100,2025-07-08,Naukri,Selected
+A2120,S308,C006,2025-06-27,Internshala,Applied
+A2121,S283,C087,2025-07-13,Referral,Selected
+A2122,S476,C068,2025-05-02,LinkedIn,Selected
+A2123,S027,C084,2025-09-15,Internshala,Applied
+A2124,S187,C030,2025-11-08,LinkedIn,Interview
+A2125,S039,C008,2025-10-30,Internshala,Selected
+A2126,S137,C017,2025-10-23,Internshala,Rejected
+A2127,S183,C015,2025-10-09,Internshala,Rejected
+A2128,S314,C044,2025-07-05,Referral,Shortlisted
+A2129,S437,C071,2025-05-04,Naukri,Selected
+A2130,S133,C023,2025-02-01,Internshala,Rejected
+A2131,S174,C089,2025-10-29,Company Website,Selected
+A2132,S105,C065,2025-09-14,Internshala,Interview
+A2133,S375,C013,2025-06-08,Internshala,Rejected
+A2134,S488,C037,2025-11-04,Internshala,Selected
+A2135,S141,C068,2025-01-16,LinkedIn,Selected
+A2136,S281,C039,2025-11-10,Internshala,Applied
+A2137,S022,C017,2025-06-19,Referral,Selected
+A2138,S377,C064,2025-03-18,Company Website,Selected
+A2139,S308,C018,2025-07-08,Company Website,Selected
+A2140,S328,C018,2025-06-04,Company Website,Applied
+A2141,S441,C035,2025-02-26,Company Website,Applied
+A2142,S345,C004,2025-06-02,Naukri,Applied
+A2143,S491,C025,2025-09-14,Naukri,Rejected
+A2144,S226,C011,2025-10-05,Internshala,Rejected
+A2145,S319,C043,2025-07-05,Naukri,Shortlisted
+A2146,S084,C042,2025-03-31,Referral,Applied
+A2147,S289,C076,2025-11-02,Internshala,Rejected
+A2148,S464,C061,2025-01-21,Internshala,Selected
+A2149,S165,C084,2025-09-07,Company Website,Interview
+A2150,S349,C086,2025-08-06,Internshala,Selected
+A2151,S495,C039,2025-09-28,Internshala,Applied
+A2152,S145,C083,2025-12-10,Naukri,Interview
+A2153,S358,C055,2025-05-10,Referral,Interview
+A2154,S401,C054,2025-09-20,LinkedIn,Shortlisted
+A2155,S188,C009,2025-06-14,Referral,Selected
+A2156,S048,C075,2025-03-11,Referral,Interview
+A2157,S067,C020,2025-04-17,Internshala,Selected
+A2158,S440,C007,2025-01-19,Internshala,Interview
+A2159,S202,C093,2025-04-28,Naukri,Applied
+A2160,S165,C045,2025-08-01,LinkedIn,Rejected
+A2161,S092,C030,2025-07-22,Internshala,Rejected
+A2162,S304,C064,2025-08-26,Referral,Applied
+A2163,S497,C028,2025-12-13,Internshala,Rejected
+A2164,S142,C027,2025-11-05,LinkedIn,Shortlisted
+A2165,S430,C058,2025-01-19,Referral,Rejected
+A2166,S038,C094,2025-04-26,Internshala,Rejected
+A2167,S174,C032,2025-01-02,Referral,Selected
+A2168,S328,C087,2025-02-20,Internshala,Interview
+A2169,S387,C057,2025-01-18,Referral,Selected
+A2170,S067,C042,2025-07-10,Company Website,Rejected
+A2171,S379,C079,2025-01-10,Referral,Shortlisted
+A2172,S360,C087,2025-02-11,Referral,Shortlisted
+A2173,S438,C066,2025-03-17,Naukri,Applied
+A2174,S148,C070,2025-01-28,Company Website,Applied
+A2175,S184,C013,2025-02-02,Naukri,Interview
+A2176,S428,C059,2025-01-12,Naukri,Shortlisted
+A2177,S424,C100,2025-05-31,Referral,Applied
+A2178,S357,C010,2025-03-28,Referral,Rejected
+A2179,S451,C087,2025-02-23,Referral,Selected
+A2180,S333,C091,2025-06-18,Internshala,Interview
+A2181,S222,C039,2025-09-28,Internshala,Rejected
+A2182,S327,C016,2025-03-19,LinkedIn,Shortlisted
+A2183,S173,C022,2025-03-21,Company Website,Applied
+A2184,S291,C036,2025-09-02,Referral,Rejected
+A2185,S450,C096,2025-06-21,Naukri,Applied
+A2186,S300,C078,2025-08-25,LinkedIn,Rejected
+A2187,S351,C054,2025-04-08,LinkedIn,Shortlisted
+A2188,S148,C090,2025-11-20,Referral,Shortlisted
+A2189,S123,C038,2025-04-20,Internshala,Shortlisted
+A2190,S270,C057,2025-12-05,Referral,Rejected
+A2191,S173,C071,2025-05-28,LinkedIn,Rejected
+A2192,S500,C014,2025-04-01,LinkedIn,Rejected
+A2193,S408,C004,2025-08-18,Company Website,Rejected
+A2194,S350,C089,2025-04-10,Internshala,Shortlisted
+A2195,S361,C030,2025-06-16,Naukri,Rejected
+A2196,S080,C100,2025-08-04,Referral,Shortlisted
+A2197,S110,C075,2025-05-12,Internshala,Interview
+A2198,S070,C075,2025-10-07,Internshala,Shortlisted
+A2199,S234,C016,2025-12-20,Internshala,Applied
+A2200,S002,C096,2025-06-09,Referral,Selected
+A2201,S424,C060,2025-02-16,Company Website,Shortlisted
+A2202,S369,C020,2025-03-02,Naukri,Applied
+A2203,S089,C054,2025-04-24,Company Website,Applied
+A2204,S295,C011,2026-01-01,Naukri,Rejected
+A2205,S238,C087,2025-07-20,Internshala,Shortlisted
+A2206,S073,C020,2025-04-04,LinkedIn,Shortlisted
+A2207,S390,C050,2025-05-02,Company Website,Interview
+A2208,S082,C070,2025-08-22,Naukri,Rejected
+A2209,S171,C013,2025-04-12,Naukri,Shortlisted
+A2210,S466,C032,2025-08-17,Company Website,Rejected
+A2211,S413,C093,2025-09-21,Company Website,Interview
+A2212,S202,C060,2025-09-28,Company Website,Selected
+A2213,S273,C071,2025-04-05,Referral,Applied
+A2214,S083,C070,2025-07-31,Naukri,Interview
+A2215,S445,C043,2025-12-18,Company Website,Selected
+A2216,S102,C020,2025-02-14,LinkedIn,Applied
+A2217,S289,C085,2025-01-31,Naukri,Shortlisted
+A2218,S479,C012,2025-11-11,Naukri,Interview
+A2219,S304,C069,2025-07-09,Naukri,Interview
+A2220,S207,C014,2025-05-10,Naukri,Applied
+A2221,S154,C081,2025-07-18,Naukri,Rejected
+A2222,S019,C038,2025-11-05,LinkedIn,Interview
+A2223,S018,C034,2025-06-10,Naukri,Shortlisted
+A2224,S444,C092,2025-12-07,LinkedIn,Shortlisted
+A2225,S192,C042,2025-01-11,Referral,Interview
+A2226,S046,C047,2025-03-13,LinkedIn,Selected
+A2227,S088,C064,2025-05-07,Referral,Rejected
+A2228,S332,C081,2025-05-25,Referral,Selected
+A2229,S322,C093,2025-03-03,Internshala,Rejected
+A2230,S304,C005,2025-10-05,Naukri,Selected
+A2231,S378,C057,2025-04-23,Internshala,Applied
+A2232,S475,C017,2025-09-10,Referral,Selected
+A2233,S181,C047,2025-12-24,Company Website,Applied
+A2234,S380,C049,2025-04-22,Referral,Interview
+A2235,S107,C095,2025-10-16,Naukri,Applied
+A2236,S242,C026,2025-07-30,Referral,Interview
+A2237,S495,C070,2025-10-21,Company Website,Rejected
+A2238,S150,C046,2025-03-30,Naukri,Shortlisted
+A2239,S189,C016,2025-09-23,Company Website,Selected
+A2240,S486,C095,2025-05-25,Naukri,Rejected
+A2241,S307,C082,2025-11-18,Internshala,Rejected
+A2242,S066,C079,2025-04-13,Company Website,Applied
+A2243,S495,C015,2025-06-24,Naukri,Interview
+A2244,S229,C008,2025-09-19,Referral,Interview
+A2245,S328,C047,2025-04-09,Company Website,Shortlisted
+A2246,S348,C054,2025-03-14,Referral,Selected
+A2247,S323,C056,2025-01-18,Naukri,Selected
+A2248,S064,C015,2025-07-11,LinkedIn,Selected
+A2249,S433,C054,2025-11-19,Internshala,Interview
+A2250,S109,C047,2025-03-02,Company Website,Applied
+A2251,S088,C058,2025-09-13,Internshala,Applied
+A2252,S300,C009,2025-03-06,Company Website,Rejected
+A2253,S050,C089,2025-03-17,Referral,Interview
+A2254,S158,C075,2025-01-05,Internshala,Selected
+A2255,S188,C036,2025-12-24,Referral,Rejected
+A2256,S249,C048,2025-04-22,Internshala,Selected
+A2257,S135,C037,2025-07-08,LinkedIn,Interview
+A2258,S015,C011,2025-03-14,LinkedIn,Interview
+A2259,S329,C039,2025-05-24,Naukri,Selected
+A2260,S276,C036,2025-08-09,Internshala,Interview
+A2261,S183,C054,2025-01-31,Referral,Selected
+A2262,S347,C050,2025-02-13,Naukri,Rejected
+A2263,S417,C049,2025-09-10,Naukri,Selected
+A2264,S391,C071,2025-06-05,Company Website,Rejected
+A2265,S189,C061,2025-09-16,Internshala,Applied
+A2266,S223,C019,2025-12-07,LinkedIn,Selected
+A2267,S056,C079,2025-11-22,Company Website,Interview
+A2268,S423,C009,2025-08-30,LinkedIn,Selected
+A2269,S404,C052,2025-11-18,Company Website,Shortlisted
+A2270,S393,C098,2025-02-19,Naukri,Selected
+A2271,S138,C027,2025-07-09,Company Website,Selected
+A2272,S026,C057,2025-11-28,Company Website,Selected
+A2273,S040,C033,2025-11-10,Naukri,Applied
+A2274,S284,C007,2025-05-04,Naukri,Applied
+A2275,S187,C053,2025-05-23,Referral,Rejected
+A2276,S222,C014,2025-07-21,LinkedIn,Selected
+A2277,S301,C039,2025-07-09,LinkedIn,Interview
+A2278,S369,C074,2025-09-23,Referral,Shortlisted
+A2279,S324,C080,2025-08-01,Naukri,Interview
+A2280,S048,C055,2025-11-17,LinkedIn,Selected
+A2281,S008,C076,2025-03-03,LinkedIn,Rejected
+A2282,S154,C048,2025-01-24,Company Website,Shortlisted
+A2283,S127,C087,2025-06-08,Internshala,Shortlisted
+A2284,S161,C041,2025-10-04,Naukri,Selected
+A2285,S140,C009,2025-07-13,Internshala,Applied
+A2286,S354,C048,2025-12-20,Referral,Applied
+A2287,S360,C025,2025-04-20,Company Website,Applied
+A2288,S169,C084,2025-02-17,Referral,Applied
+A2289,S135,C084,2025-12-12,Internshala,Shortlisted
+A2290,S127,C078,2025-02-09,Internshala,Rejected
+A2291,S330,C080,2025-01-10,Referral,Applied
+A2292,S490,C096,2025-10-15,Internshala,Interview
+A2293,S357,C090,2025-07-19,Referral,Shortlisted
+A2294,S123,C093,2025-04-15,Internshala,Selected
+A2295,S495,C040,2025-11-11,LinkedIn,Rejected
+A2296,S139,C021,2025-09-18,Naukri,Rejected
+A2297,S351,C096,2025-10-08,Naukri,Selected
+A2298,S292,C028,2025-01-13,Referral,Selected
+A2299,S484,C008,2025-08-09,Referral,Interview
+A2300,S242,C088,2025-04-10,Internshala,Applied
+A2301,S135,C053,2025-06-04,Internshala,Rejected
+A2302,S306,C073,2025-11-24,Naukri,Rejected
+A2303,S007,C083,2025-09-04,Naukri,Selected
+A2304,S363,C039,2025-09-19,Referral,Shortlisted
+A2305,S481,C035,2025-03-05,LinkedIn,Applied
+A2306,S138,C098,2025-04-01,Internshala,Selected
+A2307,S046,C037,2025-05-27,LinkedIn,Applied
+A2308,S113,C019,2025-09-26,Naukri,Rejected
+A2309,S313,C013,2025-10-21,Company Website,Selected
+A2310,S102,C045,2025-10-20,Referral,Applied
+A2311,S290,C071,2025-01-22,Company Website,Rejected
+A2312,S497,C021,2025-01-17,Internshala,Rejected
+A2313,S474,C094,2025-03-06,Internshala,Shortlisted
+A2314,S161,C085,2025-05-18,Internshala,Shortlisted
+A2315,S470,C061,2025-10-25,Referral,Shortlisted
+A2316,S373,C065,2025-11-27,Company Website,Interview
+A2317,S158,C003,2025-11-29,Internshala,Interview
+A2318,S091,C048,2025-04-26,Company Website,Selected
+A2319,S048,C054,2025-09-05,Naukri,Applied
+A2320,S273,C021,2025-12-26,Company Website,Selected
+A2321,S293,C031,2025-07-17,LinkedIn,Applied
+A2322,S480,C040,2025-07-14,Referral,Selected
+A2323,S185,C068,2025-04-24,Referral,Applied
+A2324,S232,C087,2025-05-17,Internshala,Rejected
+A2325,S370,C060,2025-03-18,LinkedIn,Selected
+A2326,S299,C052,2025-12-31,Naukri,Interview
+A2327,S222,C081,2025-02-03,LinkedIn,Interview
+A2328,S485,C092,2025-09-25,Naukri,Interview
+A2329,S214,C063,2025-09-07,LinkedIn,Applied
+A2330,S199,C060,2025-09-27,Company Website,Selected
+A2331,S148,C002,2025-06-21,LinkedIn,Rejected
+A2332,S092,C032,2025-07-30,LinkedIn,Shortlisted
+A2333,S193,C032,2025-11-13,Internshala,Rejected
+A2334,S241,C010,2025-02-03,LinkedIn,Interview
+A2335,S365,C071,2025-05-03,Referral,Interview
+A2336,S439,C040,2025-09-21,Company Website,Rejected
+A2337,S041,C086,2025-04-16,Referral,Applied
+A2338,S493,C009,2025-09-24,Internshala,Applied
+A2339,S449,C071,2025-02-03,LinkedIn,Shortlisted
+A2340,S170,C098,2025-02-03,LinkedIn,Rejected
+A2341,S284,C042,2025-01-20,Company Website,Interview
+A2342,S489,C020,2025-03-22,Company Website,Applied
+A2343,S166,C035,2025-01-31,Naukri,Shortlisted
+A2344,S171,C014,2025-10-02,Company Website,Applied
+A2345,S408,C045,2025-08-11,Naukri,Interview
+A2346,S035,C002,2025-10-04,Internshala,Shortlisted
+A2347,S413,C048,2025-08-11,Internshala,Applied
+A2348,S285,C094,2025-09-21,Naukri,Applied
+A2349,S026,C091,2025-01-20,Naukri,Rejected
+A2350,S287,C006,2025-10-02,Naukri,Applied
+A2351,S282,C072,2025-08-08,Internshala,Rejected
+A2352,S282,C031,2025-02-20,Referral,Rejected
+A2353,S023,C037,2025-11-12,Naukri,Applied
+A2354,S167,C009,2025-03-11,Internshala,Selected
+A2355,S216,C023,2025-10-28,Naukri,Interview
+A2356,S307,C077,2025-09-04,Internshala,Applied
+A2357,S235,C070,2025-06-25,Referral,Shortlisted
+A2358,S269,C029,2025-01-23,Naukri,Applied
+A2359,S234,C086,2025-05-04,Company Website,Selected
+A2360,S420,C013,2025-04-03,Internshala,Shortlisted
+A2361,S106,C039,2025-08-31,LinkedIn,Shortlisted
+A2362,S005,C063,2025-01-31,Naukri,Rejected
+A2363,S434,C075,2025-11-19,Internshala,Applied
+A2364,S187,C046,2025-07-26,Company Website,Shortlisted
+A2365,S115,C098,2025-04-19,Naukri,Shortlisted
+A2366,S296,C005,2025-04-25,LinkedIn,Interview
+A2367,S455,C087,2025-09-02,Internshala,Rejected
+A2368,S371,C081,2025-06-03,Naukri,Rejected
+A2369,S369,C087,2025-09-21,Naukri,Rejected
+A2370,S042,C086,2025-12-04,LinkedIn,Rejected
+A2371,S327,C066,2025-11-27,Internshala,Rejected
+A2372,S220,C014,2025-10-20,Referral,Applied
+A2373,S180,C067,2025-09-10,Internshala,Selected
+A2374,S442,C039,2025-08-12,Company Website,Interview
+A2375,S158,C045,2025-06-25,Company Website,Selected
+A2376,S146,C046,2025-07-30,Internshala,Rejected
+A2377,S014,C027,2025-01-08,Referral,Rejected
+A2378,S441,C043,2025-09-09,Naukri,Interview
+A2379,S291,C023,2025-05-25,Company Website,Rejected
+A2380,S478,C046,2025-06-24,Internshala,Interview
+A2381,S024,C047,2025-04-17,Internshala,Rejected
+A2382,S250,C086,2025-11-03,Naukri,Applied
+A2383,S239,C063,2025-03-15,Internshala,Applied
+A2384,S333,C007,2025-07-02,LinkedIn,Applied
+A2385,S036,C044,2025-09-20,Company Website,Selected
+A2386,S001,C053,2025-08-26,Company Website,Interview
+A2387,S221,C006,2025-11-09,Referral,Selected
+A2388,S340,C020,2025-09-11,Internshala,Rejected
+A2389,S265,C020,2025-03-06,Company Website,Interview
+A2390,S070,C093,2025-02-13,Internshala,Interview
+A2391,S349,C087,2025-10-01,Company Website,Interview
+A2392,S298,C028,2025-01-06,Company Website,Applied
+A2393,S428,C002,2025-06-13,LinkedIn,Applied
+A2394,S106,C044,2025-02-06,Naukri,Shortlisted
+A2395,S168,C052,2025-11-10,LinkedIn,Rejected
+A2396,S179,C060,2025-09-20,Naukri,Interview
+A2397,S226,C028,2025-01-31,Referral,Rejected
+A2398,S471,C089,2025-02-13,LinkedIn,Interview
+A2399,S005,C093,2025-10-26,Naukri,Selected
+A2400,S382,C056,2025-09-15,Internshala,Selected
+A2401,S052,C041,2025-03-14,Naukri,Rejected
+A2402,S023,C035,2025-08-20,Internshala,Interview
+A2403,S090,C084,2025-05-04,Company Website,Applied
+A2404,S251,C067,2025-02-13,LinkedIn,Rejected
+A2405,S231,C065,2025-03-27,Internshala,Interview
+A2406,S198,C037,2025-05-05,LinkedIn,Rejected
+A2407,S414,C078,2025-05-06,Referral,Rejected
+A2408,S010,C073,2025-02-23,Internshala,Rejected
+A2409,S187,C081,2025-04-08,Company Website,Applied
+A2410,S055,C093,2025-03-18,Naukri,Interview
+A2411,S292,C073,2025-10-16,Naukri,Interview
+A2412,S223,C006,2025-12-25,Naukri,Rejected
+A2413,S410,C071,2025-11-30,LinkedIn,Shortlisted
+A2414,S311,C067,2025-04-02,Referral,Applied
+A2415,S001,C068,2025-09-10,Naukri,Interview
+A2416,S072,C005,2025-03-18,Internshala,Shortlisted
+A2417,S500,C020,2025-07-04,Internshala,Shortlisted
+A2418,S208,C071,2025-09-23,LinkedIn,Shortlisted
+A2419,S119,C067,2025-08-24,Naukri,Selected
+A2420,S224,C011,2025-10-13,Company Website,Applied
+A2421,S292,C016,2025-10-28,Company Website,Applied
+A2422,S147,C057,2025-01-27,Referral,Rejected
+A2423,S324,C087,2025-07-29,Naukri,Selected
+A2424,S075,C049,2025-08-31,Internshala,Shortlisted
+A2425,S219,C058,2025-05-20,LinkedIn,Rejected
+A2426,S380,C058,2025-12-03,Naukri,Applied
+A2427,S436,C003,2025-03-02,Referral,Rejected
+A2428,S245,C073,2025-09-17,Internshala,Rejected
+A2429,S432,C050,2025-12-01,Naukri,Interview
+A2430,S333,C071,2025-11-29,Internshala,Rejected
+A2431,S424,C078,2025-01-10,Company Website,Shortlisted
+A2432,S087,C030,2025-05-15,Company Website,Rejected
+A2433,S076,C042,2025-04-27,Naukri,Rejected
+A2434,S410,C015,2025-09-19,LinkedIn,Selected
+A2435,S477,C069,2025-09-27,Internshala,Interview
+A2436,S085,C008,2025-12-20,LinkedIn,Shortlisted
+A2437,S398,C098,2025-01-16,Internshala,Rejected
+A2438,S009,C071,2025-12-17,Referral,Interview
+A2439,S411,C041,2025-10-11,Referral,Selected
+A2440,S221,C029,2025-03-19,Naukri,Selected
+A2441,S448,C098,2025-03-07,Referral,Interview
+A2442,S051,C078,2025-11-11,LinkedIn,Selected
+A2443,S013,C024,2025-04-26,Referral,Interview
+A2444,S176,C080,2025-11-25,Naukri,Selected
+A2445,S472,C008,2025-03-19,Internshala,Rejected
+A2446,S154,C035,2025-05-15,Internshala,Rejected
+A2447,S148,C057,2025-09-13,Company Website,Applied
+A2448,S034,C003,2025-11-08,Referral,Selected
+A2449,S265,C072,2025-01-25,Naukri,Interview
+A2450,S272,C068,2025-10-28,Company Website,Interview
+A2451,S111,C026,2025-05-16,Naukri,Rejected
+A2452,S018,C022,2025-09-26,LinkedIn,Shortlisted
+A2453,S043,C016,2025-05-23,Company Website,Applied
+A2454,S127,C059,2025-11-17,Referral,Applied
+A2455,S201,C066,2025-09-16,Naukri,Rejected
+A2456,S039,C052,2025-02-08,Internshala,Rejected
+A2457,S091,C054,2025-06-08,LinkedIn,Applied
+A2458,S219,C091,2025-07-25,LinkedIn,Shortlisted
+A2459,S499,C015,2025-01-31,Referral,Interview
+A2460,S013,C030,2025-01-23,Company Website,Applied
+A2461,S182,C049,2025-06-01,Referral,Interview
+A2462,S230,C061,2025-12-14,Referral,Selected
+A2463,S237,C061,2025-01-18,Company Website,Applied
+A2464,S451,C051,2025-04-01,Naukri,Applied
+A2465,S340,C057,2025-11-12,LinkedIn,Applied
+A2466,S474,C044,2025-08-03,Referral,Shortlisted
+A2467,S178,C013,2025-04-17,Referral,Rejected
+A2468,S367,C006,2025-08-04,Naukri,Selected
+A2469,S044,C097,2025-09-08,Referral,Interview
+A2470,S243,C086,2025-06-20,Company Website,Interview
+A2471,S152,C082,2025-09-01,Naukri,Rejected
+A2472,S202,C095,2025-02-25,Referral,Rejected
+A2473,S448,C069,2025-03-04,Internshala,Applied
+A2474,S437,C031,2025-11-03,Referral,Rejected
+A2475,S466,C002,2025-03-02,Referral,Applied
+A2476,S123,C086,2025-02-19,Naukri,Selected
+A2477,S311,C053,2025-03-03,LinkedIn,Selected
+A2478,S369,C079,2025-05-22,Referral,Rejected
+A2479,S489,C001,2025-12-21,Internshala,Rejected
+A2480,S154,C020,2025-05-10,Internshala,Interview
+A2481,S227,C018,2025-03-01,Company Website,Applied
+A2482,S317,C096,2025-04-19,LinkedIn,Applied
+A2483,S358,C097,2025-11-08,Referral,Interview
+A2484,S211,C032,2025-12-16,Referral,Interview
+A2485,S126,C042,2025-04-12,Company Website,Interview
+A2486,S451,C035,2025-12-27,Company Website,Selected
+A2487,S217,C003,2025-05-01,Company Website,Applied
+A2488,S102,C041,2025-05-20,Referral,Selected
+A2489,S192,C095,2025-02-19,Company Website,Rejected
+A2490,S018,C084,2025-12-29,Internshala,Rejected
+A2491,S159,C055,2025-04-22,LinkedIn,Applied
+A2492,S333,C044,2025-01-14,Internshala,Interview
+A2493,S425,C080,2025-02-15,Company Website,Selected
+A2494,S347,C059,2025-08-09,Internshala,Selected
+A2495,S487,C079,2025-05-04,Referral,Shortlisted
+A2496,S138,C083,2025-12-16,Company Website,Interview
+A2497,S236,C099,2025-11-26,Referral,Rejected
+A2498,S127,C072,2025-05-29,Naukri,Selected
+A2499,S346,C049,2025-11-26,Referral,Rejected
+A2500,S096,C067,2025-02-13,Company Website,Interview
+A2501,S286,C023,2025-01-28,Company Website,Rejected
+A2502,S261,C085,2025-01-22,Company Website,Applied
+A2503,S101,C011,2025-10-31,LinkedIn,Applied
+A2504,S303,C015,2025-02-13,Company Website,Interview
+A2505,S180,C039,2025-12-29,Referral,Applied
+A2506,S387,C021,2025-05-22,Company Website,Shortlisted
+A2507,S291,C060,2025-08-03,Internshala,Interview
+A2508,S114,C036,2025-09-25,Naukri,Shortlisted
+A2509,S064,C071,2025-02-09,Naukri,Shortlisted
+A2510,S321,C023,2025-06-29,Naukri,Applied
+A2511,S319,C003,2025-11-22,LinkedIn,Applied
+A2512,S457,C072,2025-02-01,Referral,Selected
+A2513,S295,C050,2025-05-17,LinkedIn,Rejected
+A2514,S245,C013,2025-08-31,Company Website,Shortlisted
+A2515,S180,C023,2025-05-03,LinkedIn,Interview
+A2516,S251,C015,2025-08-21,Internshala,Selected
+A2517,S334,C095,2025-04-11,Internshala,Interview
+A2518,S142,C087,2025-10-04,LinkedIn,Interview
+A2519,S007,C032,2025-08-14,Internshala,Applied
+A2520,S311,C017,2025-08-04,Company Website,Shortlisted
+A2521,S480,C091,2025-07-03,LinkedIn,Selected
+A2522,S280,C045,2025-11-09,Internshala,Applied
+A2523,S008,C002,2025-07-04,LinkedIn,Selected
+A2524,S359,C008,2025-05-20,Internshala,Interview
+A2525,S232,C039,2025-10-16,Referral,Applied
+A2526,S307,C094,2025-03-13,Company Website,Rejected
+A2527,S374,C072,2025-01-22,Referral,Applied
+A2528,S236,C052,2025-01-25,LinkedIn,Selected
+A2529,S130,C012,2025-01-16,Company Website,Rejected
+A2530,S009,C029,2025-03-07,Naukri,Selected
+A2531,S413,C043,2025-11-20,Naukri,Rejected
+A2532,S001,C078,2025-05-09,Referral,Shortlisted
+A2533,S200,C079,2025-04-08,Referral,Shortlisted
+A2534,S255,C060,2025-12-16,Naukri,Shortlisted
+A2535,S363,C048,2025-12-19,Internshala,Rejected
+A2536,S300,C012,2025-09-11,LinkedIn,Shortlisted
+A2537,S404,C061,2025-05-30,Internshala,Selected
+A2538,S248,C010,2025-01-23,LinkedIn,Interview
+A2539,S331,C024,2025-11-08,Internshala,Interview
+A2540,S223,C019,2025-12-18,Naukri,Interview
+A2541,S422,C076,2025-05-22,Referral,Selected
+A2542,S355,C012,2025-06-25,Internshala,Selected
+A2543,S224,C053,2025-04-06,Internshala,Shortlisted
+A2544,S408,C050,2025-06-23,Naukri,Selected
+A2545,S315,C081,2025-06-13,Internshala,Rejected
+A2546,S291,C026,2025-09-09,Internshala,Interview
+A2547,S490,C054,2025-05-26,Naukri,Rejected
+A2548,S276,C015,2025-10-23,LinkedIn,Applied
+A2549,S103,C084,2025-11-10,Referral,Shortlisted
+A2550,S209,C008,2025-06-15,Naukri,Rejected
+A2551,S344,C049,2025-09-27,Naukri,Applied
+A2552,S459,C010,2025-09-13,Naukri,Selected
+A2553,S021,C061,2025-02-21,Internshala,Applied
+A2554,S378,C058,2025-09-04,Company Website,Shortlisted
+A2555,S289,C042,2025-07-03,Referral,Interview
+A2556,S230,C019,2025-06-22,Company Website,Applied
+A2557,S423,C007,2025-06-25,Internshala,Shortlisted
+A2558,S290,C009,2025-11-15,Company Website,Selected
+A2559,S436,C021,2025-05-19,Naukri,Rejected
+A2560,S037,C070,2025-07-26,Referral,Interview
+A2561,S373,C041,2025-01-01,LinkedIn,Selected
+A2562,S136,C062,2025-09-19,Referral,Interview
+A2563,S437,C066,2025-04-05,Referral,Interview
+A2564,S226,C091,2025-09-26,LinkedIn,Applied
+A2565,S084,C002,2025-07-27,Referral,Applied
+A2566,S364,C007,2025-01-25,Naukri,Interview
+A2567,S034,C033,2025-07-30,Internshala,Interview
+A2568,S197,C062,2025-12-24,Referral,Rejected
+A2569,S322,C068,2025-01-17,Company Website,Interview
+A2570,S419,C082,2025-03-09,Referral,Selected
+A2571,S033,C072,2025-04-02,LinkedIn,Interview
+A2572,S142,C010,2025-10-11,Company Website,Shortlisted
+A2573,S298,C050,2025-06-25,Internshala,Interview
+A2574,S404,C092,2025-07-21,Internshala,Selected
+A2575,S350,C016,2025-07-16,Internshala,Shortlisted
+A2576,S016,C054,2025-12-07,Company Website,Selected
+A2577,S110,C013,2025-05-16,Internshala,Applied
+A2578,S274,C027,2025-01-25,Referral,Rejected
+A2579,S271,C005,2025-05-02,Naukri,Shortlisted
+A2580,S228,C028,2025-06-07,Naukri,Applied
+A2581,S220,C018,2025-07-05,Referral,Applied
+A2582,S321,C029,2025-10-15,Naukri,Rejected
+A2583,S347,C001,2025-02-01,LinkedIn,Interview
+A2584,S065,C008,2025-12-25,Naukri,Interview
+A2585,S299,C040,2025-04-11,Company Website,Rejected
+A2586,S026,C066,2025-02-24,Company Website,Selected
+A2587,S090,C011,2025-01-05,Naukri,Interview
+A2588,S402,C052,2025-08-08,LinkedIn,Rejected
+A2589,S171,C039,2025-07-26,Company Website,Interview
+A2590,S258,C094,2025-04-27,Naukri,Selected
+A2591,S325,C022,2025-11-13,Naukri,Applied
+A2592,S486,C058,2025-09-01,LinkedIn,Applied
+A2593,S462,C066,2025-06-04,Referral,Shortlisted
+A2594,S408,C038,2025-12-30,Internshala,Interview
+A2595,S406,C034,2025-06-11,Naukri,Rejected
+A2596,S106,C066,2025-12-24,LinkedIn,Rejected
+A2597,S308,C058,2025-09-08,Internshala,Rejected
+A2598,S156,C019,2025-10-09,Naukri,Applied
+A2599,S351,C032,2025-03-12,LinkedIn,Applied
+A2600,S338,C015,2025-08-28,Referral,Rejected
+A2601,S392,C040,2025-10-25,LinkedIn,Applied
+A2602,S279,C070,2025-04-08,Naukri,Rejected
+A2603,S005,C016,2025-04-26,Naukri,Shortlisted
+A2604,S399,C047,2025-06-15,LinkedIn,Rejected
+A2605,S361,C052,2025-11-24,Referral,Interview
+A2606,S157,C086,2025-12-12,Naukri,Applied
+A2607,S066,C073,2025-02-22,Referral,Shortlisted
+A2608,S181,C035,2025-05-06,LinkedIn,Rejected
+A2609,S281,C026,2025-07-23,Company Website,Rejected
+A2610,S295,C043,2025-11-21,Company Website,Applied
+A2611,S364,C099,2025-12-30,Internshala,Selected
+A2612,S244,C023,2025-04-04,Internshala,Applied
+A2613,S356,C083,2025-04-07,LinkedIn,Shortlisted
+A2614,S229,C007,2025-10-02,Naukri,Shortlisted
+A2615,S044,C080,2025-02-08,Naukri,Selected
+A2616,S353,C078,2025-02-27,Company Website,Interview
+A2617,S281,C046,2025-04-19,Company Website,Interview
+A2618,S362,C014,2025-03-04,Referral,Rejected
+A2619,S351,C080,2025-12-23,LinkedIn,Interview
+A2620,S437,C082,2025-10-24,Referral,Selected
+A2621,S246,C073,2025-06-16,Referral,Applied
+A2622,S162,C020,2025-01-31,Referral,Shortlisted
+A2623,S389,C094,2025-03-24,Company Website,Selected
+A2624,S229,C095,2025-09-09,Company Website,Interview
+A2625,S155,C033,2025-05-05,Naukri,Applied
+A2626,S447,C092,2025-01-31,LinkedIn,Shortlisted
+A2627,S488,C096,2025-11-15,LinkedIn,Shortlisted
+A2628,S215,C056,2025-07-15,Referral,Applied
+A2629,S484,C051,2025-12-22,Naukri,Interview
+A2630,S181,C094,2025-03-16,Company Website,Applied
+A2631,S118,C051,2025-12-01,Naukri,Applied
+A2632,S458,C048,2025-01-20,Referral,Selected
+A2633,S087,C096,2025-07-05,Referral,Interview
+A2634,S436,C035,2025-05-17,Company Website,Rejected
+A2635,S116,C057,2025-02-14,LinkedIn,Rejected
+A2636,S397,C097,2025-04-09,Referral,Applied
+A2637,S114,C060,2025-10-29,LinkedIn,Applied
+A2638,S104,C033,2025-10-19,Company Website,Selected
+A2639,S426,C012,2025-08-04,LinkedIn,Rejected
+A2640,S130,C042,2025-01-14,Company Website,Rejected
+A2641,S252,C025,2025-03-22,Company Website,Applied
+A2642,S157,C006,2025-04-11,LinkedIn,Interview
+A2643,S124,C040,2025-04-18,Referral,Selected
+A2644,S363,C060,2025-04-04,Company Website,Selected
+A2645,S109,C080,2025-07-24,Internshala,Shortlisted
+A2646,S198,C028,2025-09-19,Company Website,Selected
+A2647,S119,C090,2025-05-06,Company Website,Rejected
+A2648,S004,C057,2025-08-28,Referral,Interview
+A2649,S071,C001,2025-08-15,Naukri,Applied
+A2650,S309,C012,2025-04-27,LinkedIn,Selected
+A2651,S286,C100,2025-10-31,Naukri,Interview
+A2652,S165,C050,2025-02-23,Company Website,Interview
+A2653,S144,C066,2025-10-30,Naukri,Interview
+A2654,S083,C087,2025-08-07,Internshala,Interview
+A2655,S185,C092,2025-04-30,Referral,Interview
+A2656,S399,C092,2025-12-28,Naukri,Selected
+A2657,S341,C069,2025-10-23,Referral,Selected
+A2658,S016,C020,2025-10-19,Naukri,Selected
+A2659,S393,C057,2025-08-02,Company Website,Shortlisted
+A2660,S199,C031,2025-11-18,Naukri,Shortlisted
+A2661,S275,C020,2025-08-28,Naukri,Rejected
+A2662,S071,C022,2025-11-17,Company Website,Selected
+A2663,S119,C074,2025-08-29,Referral,Interview
+A2664,S487,C071,2025-10-14,Internshala,Shortlisted
+A2665,S440,C020,2025-03-15,Internshala,Interview
+A2666,S002,C083,2025-04-05,LinkedIn,Shortlisted
+A2667,S154,C003,2025-07-08,LinkedIn,Applied
+A2668,S186,C065,2025-11-26,LinkedIn,Shortlisted
+A2669,S030,C013,2025-11-25,Referral,Selected
+A2670,S468,C085,2025-11-24,Referral,Interview
+A2671,S345,C059,2025-09-13,Internshala,Rejected
+A2672,S031,C019,2025-03-22,Naukri,Interview
+A2673,S409,C030,2025-12-20,LinkedIn,Rejected
+A2674,S135,C070,2025-07-13,LinkedIn,Shortlisted
+A2675,S010,C076,2025-04-12,Company Website,Applied
+A2676,S045,C055,2025-08-08,Internshala,Applied
+A2677,S043,C023,2025-01-06,Naukri,Applied
+A2678,S166,C061,2025-01-01,Naukri,Rejected
+A2679,S467,C003,2025-07-19,Referral,Selected
+A2680,S048,C041,2025-05-07,Naukri,Shortlisted
+A2681,S389,C018,2025-06-08,Naukri,Interview
+A2682,S363,C014,2025-05-20,Naukri,Applied
+A2683,S043,C044,2025-02-23,LinkedIn,Rejected
+A2684,S268,C063,2025-12-20,Internshala,Selected
+A2685,S192,C044,2025-12-19,LinkedIn,Shortlisted
+A2686,S462,C096,2025-10-21,Internshala,Shortlisted
+A2687,S288,C049,2025-04-01,Referral,Applied
+A2688,S132,C041,2025-12-15,Internshala,Rejected
+A2689,S307,C059,2025-05-20,Company Website,Applied
+A2690,S497,C093,2025-12-18,Naukri,Rejected
+A2691,S244,C030,2025-03-08,Naukri,Interview
+A2692,S368,C040,2025-02-17,Internshala,Applied
+A2693,S409,C024,2025-11-30,Naukri,Interview
+A2694,S323,C030,2025-03-17,Referral,Interview
+A2695,S009,C025,2025-09-23,Internshala,Rejected
+A2696,S414,C080,2025-08-19,Company Website,Selected
+A2697,S271,C029,2025-07-13,Internshala,Interview
+A2698,S406,C035,2025-02-11,LinkedIn,Rejected
+A2699,S067,C062,2025-02-15,Internshala,Interview
+A2700,S346,C096,2025-08-27,Naukri,Interview
+A2701,S167,C087,2025-08-17,Company Website,Shortlisted
+A2702,S097,C065,2025-04-15,Company Website,Interview
+A2703,S255,C038,2025-04-01,Internshala,Selected
+A2704,S120,C056,2025-01-16,Naukri,Selected
+A2705,S307,C047,2025-11-09,Naukri,Interview
+A2706,S266,C044,2025-11-11,LinkedIn,Selected
+A2707,S267,C034,2025-11-06,Internshala,Shortlisted
+A2708,S247,C096,2025-01-31,Internshala,Interview
+A2709,S363,C098,2025-03-27,Company Website,Selected
+A2710,S085,C052,2025-08-28,Internshala,Shortlisted
+A2711,S348,C034,2025-02-26,Company Website,Selected
+A2712,S334,C073,2025-06-24,Naukri,Applied
+A2713,S439,C044,2025-10-18,LinkedIn,Rejected
+A2714,S026,C058,2025-08-17,Referral,Shortlisted
+A2715,S219,C100,2025-12-29,LinkedIn,Interview
+A2716,S419,C049,2025-03-30,LinkedIn,Applied
+A2717,S261,C076,2025-10-12,LinkedIn,Selected
+A2718,S273,C036,2025-11-17,Referral,Applied
+A2719,S201,C046,2025-02-01,Internshala,Shortlisted
+A2720,S491,C055,2025-05-13,Company Website,Rejected
+A2721,S061,C042,2025-11-05,LinkedIn,Applied
+A2722,S178,C025,2025-04-24,Internshala,Interview
+A2723,S001,C090,2025-11-14,Company Website,Selected
+A2724,S354,C068,2025-05-17,Internshala,Shortlisted
+A2725,S366,C034,2025-10-25,Company Website,Rejected
+A2726,S031,C053,2025-02-21,Naukri,Interview
+A2727,S285,C043,2025-09-08,Company Website,Interview
+A2728,S430,C052,2025-12-27,Company Website,Selected
+A2729,S296,C099,2025-04-04,Naukri,Applied
+A2730,S240,C062,2025-03-09,Naukri,Rejected
+A2731,S460,C003,2025-11-27,Referral,Rejected
+A2732,S028,C053,2025-06-17,Referral,Rejected
+A2733,S257,C057,2025-05-07,Company Website,Rejected
+A2734,S201,C007,2025-04-14,Referral,Shortlisted
+A2735,S404,C096,2025-02-07,Internshala,Rejected
+A2736,S440,C015,2025-09-14,Internshala,Shortlisted
+A2737,S146,C074,2025-05-06,Naukri,Rejected
+A2738,S123,C045,2025-10-06,Referral,Selected
+A2739,S271,C090,2025-02-07,Referral,Interview
+A2740,S423,C079,2025-04-09,Naukri,Applied
+A2741,S435,C012,2025-03-27,Internshala,Shortlisted
+A2742,S355,C070,2025-05-09,Internshala,Interview
+A2743,S147,C085,2025-01-29,Naukri,Interview
+A2744,S312,C058,2025-07-06,Referral,Rejected
+A2745,S498,C082,2025-10-12,Company Website,Selected
+A2746,S048,C081,2025-01-03,Internshala,Applied
+A2747,S068,C008,2025-12-30,Company Website,Shortlisted
+A2748,S316,C089,2025-02-08,Referral,Interview
+A2749,S291,C044,2025-11-21,LinkedIn,Interview
+A2750,S410,C002,2025-08-14,Referral,Selected
+A2751,S279,C072,2025-03-14,Internshala,Rejected
+A2752,S301,C032,2025-04-16,Naukri,Shortlisted
+A2753,S233,C078,2025-06-15,LinkedIn,Rejected
+A2754,S249,C005,2025-05-24,Company Website,Selected
+A2755,S473,C031,2025-12-28,Internshala,Interview
+A2756,S059,C038,2025-07-19,LinkedIn,Shortlisted
+A2757,S264,C084,2025-10-18,Referral,Applied
+A2758,S200,C012,2025-08-19,Referral,Rejected
+A2759,S158,C005,2025-09-06,Company Website,Applied
+A2760,S234,C029,2025-04-04,Naukri,Interview
+A2761,S412,C100,2025-05-25,LinkedIn,Rejected
+A2762,S273,C081,2025-12-28,Naukri,Selected
+A2763,S206,C062,2025-12-12,LinkedIn,Applied
+A2764,S273,C077,2025-04-08,Company Website,Rejected
+A2765,S493,C035,2025-08-08,Referral,Selected
+A2766,S136,C042,2025-11-26,Company Website,Selected
+A2767,S161,C072,2025-06-24,Internshala,Interview
+A2768,S184,C098,2025-12-29,Referral,Applied
+A2769,S325,C017,2025-10-27,Referral,Selected
+A2770,S418,C087,2025-01-11,Referral,Rejected
+A2771,S210,C024,2025-10-05,Referral,Selected
+A2772,S300,C053,2025-05-17,Company Website,Shortlisted
+A2773,S419,C067,2025-10-18,Internshala,Selected
+A2774,S334,C010,2025-02-24,Company Website,Applied
+A2775,S201,C082,2025-12-17,Referral,Interview
+A2776,S122,C018,2025-01-30,Company Website,Rejected
+A2777,S148,C040,2025-08-10,LinkedIn,Interview
+A2778,S023,C021,2025-02-24,Internshala,Shortlisted
+A2779,S490,C023,2025-10-21,Company Website,Applied
+A2780,S443,C080,2025-12-08,Naukri,Shortlisted
+A2781,S390,C087,2025-03-07,Company Website,Applied
+A2782,S125,C048,2025-06-20,Naukri,Applied
+A2783,S041,C050,2025-08-23,Referral,Applied
+A2784,S480,C007,2025-09-29,Referral,Selected
+A2785,S446,C080,2025-07-07,Naukri,Selected
+A2786,S236,C096,2025-01-11,Referral,Shortlisted
+A2787,S439,C022,2025-06-24,LinkedIn,Rejected
+A2788,S181,C020,2025-09-19,Company Website,Shortlisted
+A2789,S093,C056,2025-11-08,Company Website,Interview
+A2790,S209,C037,2025-05-21,LinkedIn,Shortlisted
+A2791,S327,C014,2025-09-14,LinkedIn,Selected
+A2792,S468,C013,2025-11-29,Referral,Applied
+A2793,S052,C064,2025-11-06,Naukri,Applied
+A2794,S329,C009,2025-04-27,Company Website,Selected
+A2795,S088,C005,2025-12-31,LinkedIn,Applied
+A2796,S293,C042,2025-10-26,Naukri,Rejected
+A2797,S402,C042,2025-11-19,Naukri,Shortlisted
+A2798,S286,C029,2025-04-05,Referral,Shortlisted
+A2799,S008,C061,2025-08-29,Company Website,Rejected
+A2800,S457,C015,2025-09-20,Company Website,Shortlisted
+A2801,S287,C070,2025-09-29,Internshala,Selected
+A2802,S192,C077,2025-10-06,LinkedIn,Selected
+A2803,S237,C054,2025-11-21,Referral,Selected
+A2804,S416,C075,2025-05-08,Internshala,Selected
+A2805,S050,C093,2025-12-06,Naukri,Applied
+A2806,S029,C082,2025-11-19,Company Website,Rejected
+A2807,S333,C037,2025-04-01,LinkedIn,Shortlisted
+A2808,S012,C051,2025-12-14,Referral,Selected
+A2809,S100,C066,2025-01-11,LinkedIn,Rejected
+A2810,S470,C008,2025-05-07,Referral,Rejected
+A2811,S048,C094,2025-04-17,Referral,Interview
+A2812,S391,C014,2025-10-22,Referral,Interview
+A2813,S314,C029,2025-09-10,Internshala,Rejected
+A2814,S414,C094,2025-09-25,Naukri,Applied
+A2815,S060,C030,2025-04-06,Internshala,Rejected
+A2816,S260,C076,2025-11-09,Internshala,Selected
+A2817,S431,C031,2025-12-14,Internshala,Shortlisted
+A2818,S048,C063,2025-08-06,Naukri,Shortlisted
+A2819,S402,C034,2025-07-06,Referral,Applied
+A2820,S265,C010,2025-03-29,Internshala,Interview
+A2821,S192,C063,2025-04-13,Internshala,Selected
+A2822,S396,C072,2025-04-19,Referral,Rejected
+A2823,S445,C038,2025-12-27,Internshala,Shortlisted
+A2824,S040,C088,2025-07-21,Company Website,Shortlisted
+A2825,S036,C045,2025-04-30,Referral,Rejected
+A2826,S079,C061,2025-09-27,Company Website,Selected
+A2827,S162,C028,2025-05-28,LinkedIn,Selected
+A2828,S361,C025,2025-06-23,Referral,Shortlisted
+A2829,S216,C074,2025-03-17,Naukri,Interview
+A2830,S324,C009,2025-01-12,Naukri,Shortlisted
+A2831,S072,C020,2025-03-11,Company Website,Interview
+A2832,S296,C062,2025-05-09,Internshala,Interview
+A2833,S334,C089,2025-03-03,Naukri,Shortlisted
+A2834,S136,C082,2025-01-08,Internshala,Applied
+A2835,S240,C076,2025-02-17,Referral,Rejected
+A2836,S376,C078,2025-10-13,Internshala,Selected
+A2837,S498,C068,2025-09-23,Company Website,Rejected
+A2838,S232,C095,2025-03-25,Naukri,Selected
+A2839,S406,C075,2025-10-19,Internshala,Selected
+A2840,S278,C025,2025-07-09,Company Website,Applied
+A2841,S475,C089,2025-01-18,Company Website,Interview
+A2842,S008,C053,2025-06-23,LinkedIn,Selected
+A2843,S496,C082,2025-04-27,Internshala,Rejected
+A2844,S004,C093,2025-05-15,Internshala,Selected
+A2845,S290,C065,2025-08-16,LinkedIn,Selected
+A2846,S337,C047,2025-01-06,LinkedIn,Interview
+A2847,S215,C055,2025-01-02,Referral,Selected
+A2848,S059,C062,2025-05-26,Internshala,Interview
+A2849,S167,C037,2025-11-10,Company Website,Interview
+A2850,S140,C015,2025-09-22,Internshala,Selected
+A2851,S335,C100,2025-03-11,Company Website,Selected
+A2852,S346,C002,2025-07-31,Naukri,Applied
+A2853,S107,C001,2025-02-17,LinkedIn,Selected
+A2854,S254,C011,2025-10-11,Naukri,Shortlisted
+A2855,S304,C072,2025-01-11,Referral,Shortlisted
+A2856,S243,C008,2025-06-20,LinkedIn,Shortlisted
+A2857,S411,C073,2025-10-22,Company Website,Shortlisted
+A2858,S101,C034,2025-05-07,Internshala,Shortlisted
+A2859,S179,C073,2025-10-18,Referral,Shortlisted
+A2860,S014,C091,2025-09-13,LinkedIn,Selected
+A2861,S049,C056,2025-02-04,Company Website,Applied
+A2862,S220,C079,2025-02-12,Naukri,Applied
+A2863,S041,C068,2025-10-02,Internshala,Interview
+A2864,S066,C005,2025-06-11,Naukri,Shortlisted
+A2865,S154,C032,2025-08-07,LinkedIn,Rejected
+A2866,S500,C064,2025-09-10,Internshala,Selected
+A2867,S076,C095,2025-08-05,Referral,Rejected
+A2868,S474,C028,2025-05-15,Company Website,Applied
+A2869,S062,C091,2025-05-16,LinkedIn,Rejected
+A2870,S297,C053,2025-08-15,Naukri,Selected
+A2871,S334,C060,2025-07-08,Company Website,Rejected
+A2872,S467,C074,2025-03-07,Naukri,Shortlisted
+A2873,S072,C002,2025-05-16,Company Website,Rejected
+A2874,S432,C019,2025-07-20,Company Website,Shortlisted
+A2875,S101,C059,2025-11-13,Internshala,Rejected
+A2876,S274,C061,2025-09-19,Referral,Selected
+A2877,S351,C095,2025-01-16,Internshala,Interview
+A2878,S340,C089,2025-09-09,Referral,Shortlisted
+A2879,S293,C054,2025-12-10,Company Website,Rejected
+A2880,S177,C087,2025-05-21,Company Website,Rejected
+A2881,S063,C080,2025-08-28,LinkedIn,Selected
+A2882,S027,C079,2025-01-15,Internshala,Selected
+A2883,S367,C037,2025-05-18,Referral,Shortlisted
+A2884,S409,C064,2025-07-10,Company Website,Interview
+A2885,S032,C067,2025-05-12,Internshala,Applied
+A2886,S264,C051,2025-01-10,LinkedIn,Applied
+A2887,S123,C039,2025-10-20,Naukri,Interview
+A2888,S288,C027,2025-09-28,Naukri,Selected
+A2889,S068,C060,2025-12-09,LinkedIn,Selected
+A2890,S484,C080,2025-11-14,Company Website,Applied
+A2891,S330,C100,2025-02-20,Company Website,Applied
+A2892,S487,C090,2025-01-11,Naukri,Rejected
+A2893,S125,C093,2025-09-02,Internshala,Shortlisted
+A2894,S027,C021,2025-08-17,Company Website,Rejected
+A2895,S423,C029,2025-12-18,Referral,Applied
+A2896,S316,C026,2025-02-02,Naukri,Interview
+A2897,S228,C010,2025-01-21,Company Website,Selected
+A2898,S143,C070,2025-12-18,Naukri,Shortlisted
+A2899,S031,C082,2025-11-25,Internshala,Selected
+A2900,S126,C037,2025-03-24,LinkedIn,Interview
+A2901,S398,C062,2025-03-26,LinkedIn,Selected
+A2902,S108,C008,2025-03-17,Company Website,Shortlisted
+A2903,S239,C090,2025-03-31,LinkedIn,Interview
+A2904,S413,C093,2025-11-28,Referral,Shortlisted
+A2905,S166,C014,2025-10-24,Internshala,Interview
+A2906,S263,C067,2025-10-06,LinkedIn,Interview
+A2907,S210,C043,2025-05-24,LinkedIn,Rejected
+A2908,S268,C002,2025-09-06,Referral,Rejected
+A2909,S228,C011,2025-04-08,Internshala,Selected
+A2910,S401,C083,2025-06-16,Naukri,Applied
+A2911,S099,C063,2025-05-18,Naukri,Interview
+A2912,S132,C028,2025-07-25,LinkedIn,Shortlisted
+A2913,S416,C075,2025-07-22,LinkedIn,Selected
+A2914,S360,C097,2025-03-13,LinkedIn,Rejected
+A2915,S219,C090,2025-09-02,Naukri,Shortlisted
+A2916,S214,C100,2025-12-21,Company Website,Rejected
+A2917,S001,C065,2025-08-19,Naukri,Interview
+A2918,S238,C069,2025-09-21,Company Website,Applied
+A2919,S229,C041,2025-02-11,LinkedIn,Selected
+A2920,S024,C012,2025-01-07,Naukri,Interview
+A2921,S349,C078,2025-03-14,Naukri,Selected
+A2922,S382,C053,2025-08-11,Company Website,Shortlisted
+A2923,S099,C087,2025-01-19,Naukri,Rejected
+A2924,S049,C076,2025-02-16,Company Website,Rejected
+A2925,S396,C087,2025-03-28,Naukri,Applied
+A2926,S248,C062,2025-03-22,LinkedIn,Selected
+A2927,S144,C042,2025-04-08,Referral,Selected
+A2928,S024,C006,2025-04-16,LinkedIn,Shortlisted
+A2929,S222,C019,2025-03-25,Referral,Interview
+A2930,S140,C093,2025-06-18,Naukri,Applied
+A2931,S176,C009,2025-03-31,Naukri,Interview
+A2932,S394,C067,2025-05-26,Naukri,Shortlisted
+A2933,S175,C011,2025-06-03,Referral,Applied
+A2934,S436,C008,2025-10-07,Internshala,Rejected
+A2935,S332,C025,2025-12-11,Naukri,Applied
+A2936,S210,C054,2025-06-08,Internshala,Interview
+A2937,S033,C019,2025-09-13,LinkedIn,Interview
+A2938,S442,C044,2025-10-25,Internshala,Applied
+A2939,S188,C046,2025-07-04,Naukri,Selected
+A2940,S025,C070,2025-08-16,Internshala,Selected
+A2941,S469,C005,2025-01-16,Internshala,Shortlisted
+A2942,S070,C050,2025-04-26,Naukri,Rejected
+A2943,S284,C005,2025-12-13,LinkedIn,Selected
+A2944,S185,C085,2025-07-18,Referral,Selected
+A2945,S136,C044,2025-07-06,Internshala,Interview
+A2946,S136,C048,2025-11-24,Company Website,Applied
+A2947,S499,C065,2025-02-26,Company Website,Applied
+A2948,S027,C005,2025-01-19,Naukri,Applied
+A2949,S300,C031,2025-10-04,LinkedIn,Rejected
+A2950,S251,C056,2025-05-28,LinkedIn,Applied
+A2951,S289,C001,2025-04-02,Internshala,Shortlisted
+A2952,S065,C021,2025-01-19,Naukri,Shortlisted
+A2953,S278,C049,2025-05-04,Company Website,Selected
+A2954,S241,C050,2025-06-28,Referral,Shortlisted
+A2955,S449,C072,2025-03-13,Internshala,Rejected
+A2956,S404,C035,2025-10-21,Referral,Applied
+A2957,S483,C075,2026-01-01,LinkedIn,Shortlisted
+A2958,S049,C031,2025-09-06,Company Website,Interview
+A2959,S177,C084,2025-08-26,Internshala,Rejected
+A2960,S124,C087,2025-05-12,LinkedIn,Interview
+A2961,S257,C009,2025-06-25,Referral,Shortlisted
+A2962,S281,C005,2025-11-25,Internshala,Shortlisted
+A2963,S209,C037,2025-02-04,LinkedIn,Applied
+A2964,S401,C015,2025-03-28,LinkedIn,Rejected
+A2965,S499,C063,2025-12-23,Referral,Applied
+A2966,S228,C097,2025-11-30,Internshala,Interview
+A2967,S357,C062,2025-11-18,Referral,Selected
+A2968,S239,C021,2025-09-30,Company Website,Rejected
+A2969,S220,C070,2025-12-09,Internshala,Rejected
+A2970,S484,C088,2025-12-20,Referral,Selected
+A2971,S427,C016,2025-08-23,Internshala,Selected
+A2972,S057,C004,2025-09-19,Naukri,Selected
+A2973,S379,C028,2025-03-22,Referral,Shortlisted
+A2974,S048,C066,2025-04-29,LinkedIn,Selected
+A2975,S093,C049,2025-07-26,LinkedIn,Applied
+A2976,S182,C076,2025-06-10,Naukri,Applied
+A2977,S240,C039,2025-12-04,Internshala,Rejected
+A2978,S429,C087,2025-01-04,Referral,Shortlisted
+A2979,S337,C055,2025-03-07,Referral,Shortlisted
+A2980,S201,C036,2025-02-10,Internshala,Applied
+A2981,S400,C086,2025-04-26,Naukri,Interview
+A2982,S078,C046,2025-08-23,Naukri,Rejected
+A2983,S453,C097,2025-05-28,Referral,Rejected
+A2984,S043,C096,2025-08-23,Internshala,Applied
+A2985,S409,C081,2025-01-12,Naukri,Shortlisted
+A2986,S328,C071,2025-12-13,Internshala,Selected
+A2987,S302,C090,2025-07-27,Referral,Selected
+A2988,S479,C039,2025-09-06,Referral,Selected
+A2989,S257,C041,2025-12-29,Company Website,Selected
+A2990,S191,C076,2025-05-07,Company Website,Shortlisted
+A2991,S261,C038,2025-06-26,LinkedIn,Interview
+A2992,S415,C097,2025-08-16,Naukri,Selected
+A2993,S425,C069,2025-10-12,Referral,Shortlisted
+A2994,S178,C064,2025-09-23,Company Website,Selected
+A2995,S228,C075,2025-10-11,LinkedIn,Interview
+A2996,S055,C006,2025-06-04,Internshala,Selected
+A2997,S483,C077,2025-04-19,LinkedIn,Interview
+A2998,S241,C020,2025-10-28,Internshala,Shortlisted
+A2999,S306,C065,2025-04-21,Referral,Interview
+A3000,S207,C078,2025-03-22,Naukri,Selected

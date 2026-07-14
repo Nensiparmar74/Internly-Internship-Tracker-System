@@ -1,0 +1,100 @@
+Company_ID,Company_Name,Industry,Location,Internship_Type
+C001,TCS,IT Services,Mumbai,Software Development
+C002,Infosys,IT Services,Bangalore,Data Analytics
+C003,Accenture,Consulting,Bangalore,Cloud Computing
+C004,Deloitte,Consulting,Hyderabad,Data Analytics
+C005,Amazon,E-commerce,Bangalore,AI/ML
+C006,Microsoft,Technology,Hyderabad,Software Development
+C007,Google,Technology,Bangalore,AI/ML
+C008,Wipro,IT Services,Gurgaon,Data Analytics
+C009,HCL Technologies,Technology,Bangalore,AI/ML
+C010,Tech Mahindra,Consulting,Mumbai,Web Development
+C011,Cognizant,FinTech,Pune,Cyber Security
+C012,IBM,Healthcare,Hyderabad,Cloud Computing
+C013,Oracle,E-commerce,Delhi,IoT
+C014,SAP,Automotive,Noida,Software Development
+C015,Capgemini,Manufacturing,Chennai,Data Analytics
+C016,Cisco,IT Services,Ahmedabad,AI/ML
+C017,Intel,Technology,Gurgaon,Web Development
+C018,Adobe,Consulting,Bangalore,Cyber Security
+C019,NVIDIA,FinTech,Mumbai,Cloud Computing
+C020,Qualcomm,Healthcare,Pune,IoT
+C021,Paytm,E-commerce,Hyderabad,Software Development
+C022,PhonePe,Automotive,Delhi,Data Analytics
+C023,Flipkart,Manufacturing,Noida,AI/ML
+C024,Swiggy,IT Services,Chennai,Web Development
+C025,Zomato,Technology,Ahmedabad,Cyber Security
+C026,Reliance,Consulting,Gurgaon,Cloud Computing
+C027,L&T,FinTech,Bangalore,IoT
+C028,Bosch,Healthcare,Mumbai,Software Development
+C029,Siemens,E-commerce,Pune,Data Analytics
+C030,Honeywell,Automotive,Hyderabad,AI/ML
+C031,Samsung,Manufacturing,Delhi,Web Development
+C032,Jio,IT Services,Noida,Cyber Security
+C033,Vodafone,Technology,Chennai,Cloud Computing
+C034,EY,Consulting,Ahmedabad,IoT
+C035,KPMG,FinTech,Gurgaon,Software Development
+C036,PwC,Healthcare,Bangalore,Data Analytics
+C037,Morgan Stanley,E-commerce,Mumbai,AI/ML
+C038,Goldman Sachs,Automotive,Pune,Web Development
+C039,JP Morgan,Manufacturing,Hyderabad,Cyber Security
+C040,Barclays,IT Services,Delhi,Cloud Computing
+C041,Dell,Technology,Noida,IoT
+C042,HP,Consulting,Chennai,Software Development
+C043,VMware,FinTech,Ahmedabad,Data Analytics
+C044,Zoho,Healthcare,Gurgaon,AI/ML
+C045,Freshworks,E-commerce,Bangalore,Web Development
+C046,Razorpay,Automotive,Mumbai,Cyber Security
+C047,Ola,Manufacturing,Pune,Cloud Computing
+C048,Uber,IT Services,Hyderabad,IoT
+C049,BYJU'S,Technology,Delhi,Software Development
+C050,Unacademy,Consulting,Noida,Data Analytics
+C051,Tata Motors,FinTech,Chennai,AI/ML
+C052,Mahindra,Healthcare,Ahmedabad,Web Development
+C053,TVS Motors,E-commerce,Gurgaon,Cyber Security
+C054,Maruti Suzuki,Automotive,Bangalore,Cloud Computing
+C055,Airtel,Manufacturing,Mumbai,IoT
+C056,DHL,IT Services,Pune,Software Development
+C057,FedEx,Technology,Hyderabad,Data Analytics
+C058,Nestle,Consulting,Delhi,AI/ML
+C059,PepsiCo,FinTech,Noida,Web Development
+C060,Coca Cola,Healthcare,Chennai,Cyber Security
+C061,Johnson & Johnson,E-commerce,Ahmedabad,Cloud Computing
+C062,Pfizer,Automotive,Gurgaon,IoT
+C063,Dr Reddy's,Manufacturing,Bangalore,Software Development
+C064,Biocon,IT Services,Mumbai,Data Analytics
+C065,Apollo,Technology,Pune,AI/ML
+C066,ICICI Bank,Consulting,Hyderabad,Web Development
+C067,HDFC Bank,FinTech,Delhi,Cyber Security
+C068,Axis Bank,Healthcare,Noida,Cloud Computing
+C069,SBI,E-commerce,Chennai,IoT
+C070,Kotak Mahindra Bank,Automotive,Ahmedabad,Software Development
+C071,Bajaj Finserv,Manufacturing,Gurgaon,Data Analytics
+C072,Ather Energy,IT Services,Bangalore,AI/ML
+C073,OLA Electric,Technology,Mumbai,Web Development
+C074,Urban Company,Consulting,Pune,Cyber Security
+C075,Meesho,FinTech,Hyderabad,Cloud Computing
+C076,Myntra,Healthcare,Delhi,IoT
+C077,Nykaa,E-commerce,Noida,Software Development
+C078,Groww,Automotive,Chennai,Data Analytics
+C079,Zerodha,Manufacturing,Ahmedabad,AI/ML
+C080,Cred,IT Services,Gurgaon,Web Development
+C081,Dream11,Technology,Bangalore,Cyber Security
+C082,PolicyBazaar,Consulting,Mumbai,Cloud Computing
+C083,MakeMyTrip,FinTech,Pune,IoT
+C084,Cleartrip,Healthcare,Hyderabad,Software Development
+C085,Yatra,E-commerce,Delhi,Data Analytics
+C086,BookMyShow,Automotive,Noida,AI/ML
+C087,InMobi,Manufacturing,Chennai,Web Development
+C088,BrowserStack,IT Services,Ahmedabad,Cyber Security
+C089,Postman,Technology,Gurgaon,Cloud Computing
+C090,Hasura,Consulting,Bangalore,IoT
+C091,Mindtickle,FinTech,Mumbai,Software Development
+C092,Chargebee,Healthcare,Pune,Data Analytics
+C093,Druva,E-commerce,Hyderabad,AI/ML
+C094,Tredence,Automotive,Delhi,Web Development
+C095,Fractal Analytics,Manufacturing,Noida,Cyber Security
+C096,Mu Sigma,IT Services,Chennai,Cloud Computing
+C097,Persistent Systems,Technology,Ahmedabad,IoT
+C098,Cybage,Consulting,Gurgaon,Software Development
+C099,KPIT,FinTech,Bangalore,Data Analytics
